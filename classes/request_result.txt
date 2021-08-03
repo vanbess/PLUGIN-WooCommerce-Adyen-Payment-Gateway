@@ -1,0 +1,25 @@
+Array
+(
+    [additionalData] => Array
+        (
+            [cardHolderName] => Checkout Shopper PlaceHolder
+            [cardSummary] => 0007
+            [shopperCountry] => ZA
+            [authorisedAmountValue] => 9900
+            [issuerCountry] => TR
+            [expiryDate] => 3/2020
+            [authorisedAmountCurrency] => USD
+            [cardBin] => 510118
+            [recurringProcessingModel] => CardOnFile
+            [paymentMethod] => mc
+            [cardPaymentMethod] => mccommercialcredit
+            [merchantReference] => ND1101
+            [cardIssuingCountry] => TR
+        )
+
+    [pspReference] => 853584440392154G
+    [refusalReason] => CVC Declined
+    [resultCode] => Refused
+    [refusalReasonCode] => 24
+    [merchantReference] => ND1101
+)

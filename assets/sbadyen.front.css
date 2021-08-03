@@ -1,0 +1,206 @@
+/* afterpay touch */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-apt > label > img {
+    width: 170px;
+}
+
+/* bancontact */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-bancontact > label > img {
+    width: 58px;
+}
+
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-bancontact > div > div > label {
+    font-weight: 600;
+    color: #666;
+}
+
+/* boleto */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-boleto > label > img {
+    width: 66px;
+    margin-bottom: 15px;
+    position: relative;
+    top: 4px;
+}
+
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-boleto > div > div > label {
+    font-weight: 600;
+    color: #666;
+}
+
+/* credit card */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-cc > label > img {
+    margin-bottom: 15px;
+    position: relative;
+    top: 4px;
+}
+
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-cc > div > div > label {
+    font-weight: 600;
+    color: #666;
+}
+
+/* EPS */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-eps > label > img {
+    width: 60px;
+}
+
+#eps_merchant_cont {
+    position: relative;
+    top: 20px;
+    padding: 30px;
+    background: #d0d0d0;
+    border-radius: .2em;
+    margin-bottom: 50px;
+}
+
+#eps_merchant_cont:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 14%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-bottom-color: #d0d0d0;
+    border-top: 0;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+select#eps_merchant {
+    margin-bottom: 0;
+}
+
+/* finnish online banking */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-fob > label > img {
+    width: 60px;
+}
+
+/* grabpay */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-gpay > label > img {
+    width: 60px;
+}
+
+#ideal_merchant_cont {
+    position: relative;
+    top: 20px;
+    padding: 30px;
+    background: #d0d0d0;
+    border-radius: .2em;
+    margin-bottom: 50px;
+}
+
+#ideal_merchant_cont:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 14%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-bottom-color: #d0d0d0;
+    border-top: 0;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+select#ideal_merchant {
+    margin-bottom: 0;
+}
+
+/* KCP */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-kcp > label > img {
+    width: 172px;
+}
+
+/* Korean CC */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-korean-cc > label > img {
+    width: 60px;
+    margin-bottom: 15px;
+    position: relative;
+    top: 4px;
+}
+
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-korean-cc > div > div > label {
+    font-weight: 600;
+    color: #666;
+}
+
+/* Molpay Cash */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-mcash > label > img {
+    width: 50px;
+    position: relative;
+    bottom: 3px;
+    margin-bottom: 1px;
+}
+
+/* Molpay Epay */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-mepay > label > img {
+    width: 50px;
+    position: relative;
+    bottom: 3px;
+    margin-bottom: 1px;
+}
+
+/* Multibanco */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-multibanco > label > img {
+    width: 120px;
+}
+
+/* Payco */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-payco > label > img {
+    width: 40px;
+}
+
+#ideal_merchant_cont {
+    position: relative;
+    top: 20px;
+    padding: 30px;
+    background: #d0d0d0;
+    border-radius: .2em;
+    margin-bottom: 50px;
+}
+
+#ideal_merchant_cont:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 14%;
+    width: 0;
+    height: 0;
+    border: 20px solid transparent;
+    border-bottom-color: #d0d0d0;
+    border-top: 0;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+select#ideal_merchant {
+    margin-bottom: 0;
+}
+
+/* Poli */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-poli > label > img {
+    width: 108px;
+}
+
+/* Qiwi */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-qiwi > label > img {
+    width: 100px;
+}
+
+/* Sofort */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-sofort > label > img {
+    width: 75px;
+    position: relative;
+    bottom: 3px;
+}
+
+/* Swish */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-swish > label > img {
+    width: 110px;
+}
+
+/* yandex */
+#payment > ul > li.wc_payment_method.payment_method_sb-adyen-yamon > label > img {
+    width: 100px;
+}

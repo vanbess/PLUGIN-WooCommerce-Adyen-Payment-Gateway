@@ -1,0 +1,58 @@
+/* Silverback Adyen backend CSS */
+#mainform label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+input#sb_adyen_api_key {
+    min-width: 80%;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input#sb_adyen_merchant_account {
+    min-width: 20%;
+    margin-bottom: 5px;
+}
+
+input#sb_adyen_origin_key {
+    width: 46%;
+    margin-bottom: 5px;
+}
+
+input#sb_adyen_device_fingerprint {
+    width: 59%;
+    margin-bottom: 5px;
+}
+
+select#sb_adyen_gateway_mode {
+    margin-bottom: 5px;
+}
+
+input#sb_adyen_url_prefix {
+    min-width: 16%;
+    margin-bottom: 5px;
+}
+
+p#df-error {
+    color: #ef1111;
+    font-weight: 700;
+    position: relative;
+    bottom: 8px;
+}
+
+p#df-success {
+    color: green;
+    font-weight: 700;
+    position: relative;
+    bottom: 9px;
+}
+
+.sb_adyen_error_msgs{
+    min-width: 50% !important;
+}
+
+input#sb_adyen_cvc_declined_msg {
+    min-width: 50%;
+}

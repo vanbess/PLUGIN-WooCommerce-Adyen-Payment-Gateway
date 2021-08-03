@@ -1,0 +1,23 @@
+Array
+(
+    [additionalData] => Array
+        (
+            [cardHolderName] => Checkout Shopper PlaceHolder
+            [cardSummary] => 0004
+            [shopperCountry] => ZA
+            [authorisedAmountValue] => 30000
+            [issuerCountry] => PL
+            [expiryDate] => 3/2030
+            [authorisedAmountCurrency] => USD
+            [cardBin] => 557700
+            [recurringProcessingModel] => CardOnFile
+            [cardPaymentMethod] => mc
+            [fundingSource] => CREDIT
+            [merchantReference] => ND1269
+            [cardIssuingCountry] => PL
+        )
+
+    [pspReference] => 853584950825194H
+    [resultCode] => Authorised
+    [merchantReference] => ND1269
+)
