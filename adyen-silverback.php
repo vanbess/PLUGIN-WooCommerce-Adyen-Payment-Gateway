@@ -1,11 +1,11 @@
 <?php
 
   /*
-   * Plugin Name: Silverback Adyen Payment Gateway for NORDACE
+   * Plugin Name: SBWC Adyen Payment Gateway
    * Plugin URI: https://silverbackdev.co.za
-   * Description: Custom Adyen Payment gateway implementation for Nordace/WooCommerce
+   * Description: Custom Adyen Payment gateway implementation for WooCommerce
    * Author: Werner C. Bessinger
-   * Version: 1.0.0
+   * Version: 1.2.0
    * Author URI: https://silverbackdev.co.za
    */
 
