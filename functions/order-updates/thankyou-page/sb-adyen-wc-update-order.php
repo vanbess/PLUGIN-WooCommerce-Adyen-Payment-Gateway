@@ -188,6 +188,9 @@ function sb_adyen_custom_ty_page() {
         // retrieve order
         $order = wc_get_order( $order_id );
 
+        // retrieve payment method
+        $pmt_method = $order->get_payment_method();
+
         // retrieve payment result via curl request
         try {
 
@@ -249,7 +252,11 @@ function sb_adyen_custom_ty_page() {
                     update_post_meta( $order_id, '_adyen_psp_ref', $psp_ref );
 
                     // add order note with above details
-                    $order->add_order_note( 'Alipay payment status: ' . $result_code . ' <br>PSP Ref: ' . $psp_ref );
+                    if ( $pmt_method === 'sb-adyen-alipay-hk' ):
+                        $order->add_order_note( 'Alipay HK payment status: ' . $result_code . ' <br>PSP Ref: ' . $psp_ref );
+                    elseif ( $pmt_method === 'sb-adyen-alipay' ):
+                        $order->add_order_note( 'Alipay payment status: ' . $result_code . ' <br>PSP Ref: ' . $psp_ref );
+                    endif;
 
                     // if payment authorised, update order status
                     if ( $result_code === 'Authorised' ):

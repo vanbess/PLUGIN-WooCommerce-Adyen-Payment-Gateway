@@ -38,6 +38,11 @@
     color: #666;
 }
 
+/* AliPay HK */
+li.wc_payment_method.payment_method_sb-adyen-alipay-hk img {
+    height: 21px;
+}
+
 /* EPS */
 #payment > ul > li.wc_payment_method.payment_method_sb-adyen-eps > label > img {
     width: 60px;

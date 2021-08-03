@@ -50,6 +50,7 @@
 
       /* include core SB Adyen classes */
       require SB_ADYEN_PATH . 'classes/SBAdyenAliPay.php';
+      require SB_ADYEN_PATH . 'classes/SBAdyenAliPayHK.php';
       require SB_ADYEN_PATH . 'classes/SBAdyenIdeal.php';
       require SB_ADYEN_PATH . 'classes/SBAdyenSofort.php';
       require SB_ADYEN_PATH . 'classes/SBAdyenBancontact.php';
@@ -74,6 +75,7 @@
       /* add each core SB Adyen class to WooCommerce */
       function register_sb_adyen_gateway($methods) {
           $methods[] = 'SBAdyenAliPay';
+          $methods[] = 'SBAdyenAliPayHK';
           $methods[] = 'SBAdyenIdeal';
           $methods[] = 'SBAdyenSofort';
           $methods[] = 'SBAdyenBancontact';
@@ -102,6 +104,7 @@
       function sb_adyen_settings_link($links) {
           $plugin_links = [
               '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-alipay') . '</a>',
+              '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-alipay-hk') . '</a>',
               '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-ideal') . '</a>',
               '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-sofort') . '</a>',
               '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-bancontact') . '</a>',
