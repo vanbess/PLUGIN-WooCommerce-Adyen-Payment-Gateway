@@ -9,6 +9,8 @@
  */
 class SBAdyenAliPay extends WC_Payment_Gateway {
 
+    use SBAGetDecimals;
+
     /**
      * Class constructor
      * Here we set the payment gateway id, 
@@ -210,7 +212,7 @@ class SBAdyenAliPay extends WC_Payment_Gateway {
         $order_currency = $order->get_currency();
 
         // currency decimals
-        $decimals = sb_adyen_set_currency_decimal( $order_currency );
+        $decimals = self::get_decimals( $order_currency );
 
         // formatted refund amount
         $refund_amount = number_format( $amount, $decimals, '', '' );

@@ -9,6 +9,8 @@
  */
 class SBAdyenBancontact extends WC_Payment_Gateway_CC {
 
+    use SBAGetDecimals;
+
     /**
      * Class constructor
      * Here we set the payment gateway id, 
@@ -241,7 +243,7 @@ class SBAdyenBancontact extends WC_Payment_Gateway_CC {
             $order_currency = alg_get_current_currency_code();
 
             /* get order total correct decimal count depending on currency used */
-            $cart_total_decimals = sb_adyen_set_currency_decimal( $order_currency );
+            $cart_total_decimals = self::get_decimals( $order_currency );
 
             // ensure order total is correctly formatted before sending to Adyen (no decimal points or nuttin')
             $order_total = number_format( $order->get_total(), $cart_total_decimals, '', '' );
@@ -405,7 +407,7 @@ class SBAdyenBancontact extends WC_Payment_Gateway_CC {
         $order_currency = $order->get_currency();
 
         // currency decimals
-        $decimals = sb_adyen_set_currency_decimal( $order_currency );
+        $decimals = self::get_decimals( $order_currency );
 
         // formatted refund amount
         $refund_amount = number_format( $amount, $decimals, '', '' );

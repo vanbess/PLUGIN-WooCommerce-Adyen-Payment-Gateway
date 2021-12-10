@@ -7,7 +7,10 @@
  * @version 1.0.0
  * @author Werner C. Bessinger @ Silverback Dev
  */
-class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
+class SBAdyenKoreanCC extends WC_Payment_Gateway_CC
+{
+
+    use SBAGetDecimals;
 
     /**
      * Class constructor
@@ -15,7 +18,8 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
      * gateway title and description in the backend, 
      * tab title, supports and a bunch of other stuff
      */
-    public function __construct() {
+    public function __construct()
+    {
 
         /* method id */
         $this->id = 'sb-adyen-korean-cc';
@@ -24,19 +28,19 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
         $this->method_title = 'SB Adyen KOREAN CREDIT CARD';
 
         /* method description */
-        $this->method_description = esc_attr__( 'Adyen Korean Credit Card payments.', 'sb-adyen-korean-cc' );
+        $this->method_description = esc_attr__('Adyen Korean Credit Card payments.', 'sb-adyen-korean-cc');
 
         /* gateway icon */
-        $this->icon = plugin_dir_url( __FILE__ ) . 'images/korean-flag.png';
+        $this->icon = plugin_dir_url(__FILE__) . 'images/korean-flag.png';
 
         /* display frontend title */
-        $this->title = $this->get_option( 'title' );
+        $this->title = $this->get_option('title');
 
         /* gateway has fields */
         $this->has_fields = true;
 
         /* add refund support */
-        $this->supports = [ 'refunds' ];
+        $this->supports = ['refunds'];
 
         /* init gateway form fields */
         $this->settings_fields();
@@ -45,137 +49,139 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
         $this->init_settings();
 
         /* save gateway settings when save settings button clicked IF user is admin */
-        if ( is_admin() ) {
-            add_action( 'woocommerce_update_options_payment_gateways_' . $this->id, array( $this, 'process_admin_options' ) );
+        if (is_admin()) {
+            add_action('woocommerce_update_options_payment_gateways_' . $this->id, array($this, 'process_admin_options'));
         }
     }
 
     /**
      * Set up WooCommerce payment gateway settings fields
      */
-    public function settings_fields() {
+    public function settings_fields()
+    {
 
         $this->form_fields = [
-                /* enable/disable */
-                'enabled' => [
-                        'title'   => esc_attr__( 'Enable / Disable', 'sb-adyen-korean-cc' ),
-                        'label'   => esc_attr__( 'Enable this payment gateway', 'sb-adyen-korean-cc' ),
-                        'type'    => 'checkbox',
-                        'default' => 'no',
-                ],
-                'title'   => [
-                        'title'       => __( 'Title', 'sb-adyen-korean-cc' ),
-                        'type'        => 'text',
-                        'description' => __( 'Add your custom payment method title here if required.', 'sb-adyen-korean-cc' ),
-                        'default'     => __( 'Korean Credit Card', 'sb-adyen-korean-cc' ),
-                ]
+            /* enable/disable */
+            'enabled' => [
+                'title'   => esc_attr__('Enable / Disable', 'sb-adyen-korean-cc'),
+                'label'   => esc_attr__('Enable this payment gateway', 'sb-adyen-korean-cc'),
+                'type'    => 'checkbox',
+                'default' => 'no',
+            ],
+            'title'   => [
+                'title'       => __('Title', 'sb-adyen-korean-cc'),
+                'type'        => 'text',
+                'description' => __('Add your custom payment method title here if required.', 'sb-adyen-korean-cc'),
+                'default'     => __('Korean Credit Card', 'sb-adyen-korean-cc'),
+            ]
         ];
     }
 
     /* process payment */
 
-    public function process_payment($order_id) {
+    public function process_payment($order_id)
+    {
 
         /* create new customer order */
-        $order = new WC_Order( $order_id );
+        $order = new WC_Order($order_id);
 
         /* set initial order status */
-        $order->update_status( 'pending' );
-        $order->add_order_note( __( 'Awaiting Korean Credit Card payment', 'woocommerce' ) );
-        $order->add_order_note( __( 'Device fingerprint: ' . $_COOKIE[ 'deviceFingerprint' ], 'woocommerce' ) );
+        $order->update_status('pending');
+        $order->add_order_note(__('Awaiting Korean Credit Card payment', 'woocommerce'));
+        $order->add_order_note(__('Device fingerprint: ' . $_COOKIE['deviceFingerprint'], 'woocommerce'));
 
         /* return url */
-        $return_url = $this->get_return_url( $order );
+        $return_url = $this->get_return_url($order);
 
         /* start api request */
         $client = new \Adyen\Client();
-        $client->setXApiKey( wp_specialchars_decode( ADYEN_API_KEY ) );
+        $client->setXApiKey(wp_specialchars_decode(ADYEN_API_KEY));
 
         /* deterimine current gateway mode and set environment/currency accordingly */
-        if ( ADYEN_GATEWAY_MODE == 'test' ):
-            $client->setEnvironment( \Adyen\Environment::TEST );
+        if (ADYEN_GATEWAY_MODE == 'test') :
+            $client->setEnvironment(\Adyen\Environment::TEST);
             $order_currency = 'KRW';
-        else:
-            $client->setEnvironment( \Adyen\Environment::LIVE, ADYEN_URL_PREFIX );
+        else :
+            $client->setEnvironment(\Adyen\Environment::LIVE, ADYEN_URL_PREFIX);
             $order_currency = alg_get_current_currency_code();
         endif;
 
         /* get order total correct decimal count depending on currency used */
-        $cart_total_decimals = sb_adyen_set_currency_decimal( $order_currency );
+        $cart_total_decimals = self::get_decimals($order_currency);
 
         /* ensure order total is correctly formatted before sending to Adyen (no decimal points or nuttin') */
-        $order_total = number_format( $order->get_total(), $cart_total_decimals, '', '' );
+        $order_total = number_format($order->get_total(), $cart_total_decimals, '', '');
 
         try {
-            $checkout = new \Adyen\Service\Checkout( $client );
-        } catch ( Exception $ex ) {
-            file_put_contents( SB_ADYEN_PATH . 'error-logs/korean-cc/error.log', $_SERVER[ 'REQUEST_TIME' ] . ': ' . $ex->getMessage() . PHP_EOL, FILE_APPEND );
+            $checkout = new \Adyen\Service\Checkout($client);
+        } catch (Exception $ex) {
+            file_put_contents(SB_ADYEN_PATH . 'error-logs/korean-cc/error.log', $_SERVER['REQUEST_TIME'] . ': ' . $ex->getMessage() . PHP_EOL, FILE_APPEND);
         }
 
         $address_line_1 = $order->get_billing_address_1();
         $address_line_2 = $order->get_billing_address_2();
 
-        if ( !$address_line_1 ):
+        if (!$address_line_1) :
             $address_line_1 = 'Not supplied';
         endif;
 
-        if ( !$address_line_2 ):
+        if (!$address_line_2) :
             $address_line_2 = 'Not supplied';
         endif;
 
         $payload = [
-                "merchantAccount" => ADYEN_MERCHANT,
-                "reference"       => $order->get_order_number(),
-                "amount"          => [
-                        "currency" => $order_currency,
-                        "value"    => $order_total
-                ],
-                "paymentMethod"   => [
-                        "type" => "kcp_creditcard"
-                ],
-                "returnUrl"       => $return_url,
-                "fraudOffset"     => "0",
-                "additionalData"  => [
-                        "card.encrypted.json" => $_REQUEST[ 'adyen-encrypted-data' ],
-                        "executeThreeD"       => false,
-                ],
-                "billingAddress"  => [
-                        "city"              => $order->get_billing_city(),
-                        "country"           => $order->get_billing_country(),
-                        "houseNumberOrName" => $address_line_1,
-                        "postalCode"        => $order->get_billing_postcode(),
-                        "stateOrProvince"   => $order->get_billing_state(),
-                        "street"            => $address_line_2,
-                ],
-                "browserInfo"     => [
-                        "acceptHeader" => $_SERVER[ 'HTTP_ACCEPT' ],
-                        "userAgent"    => $_SERVER[ 'HTTP_USER_AGENT' ]
-                ],
-                "shopperName"     => [
-                        "firstName" => $order->get_billing_first_name(),
-                        "gender"    => "UNKNOWN",
-                        "lastName"  => $order->get_billing_last_name(),
-                ],
-                "shopperEmail"    => $order->get_billing_email(),
-                "shopperIP"       => $order->get_customer_ip_address(),
-                "telephoneNumber" => trim( $order->get_billing_phone() )
+            "merchantAccount" => ADYEN_MERCHANT,
+            "reference"       => $order->get_order_number(),
+            "amount"          => [
+                "currency" => $order_currency,
+                "value"    => $order_total
+            ],
+            "paymentMethod"   => [
+                "type" => "kcp_creditcard"
+            ],
+            "returnUrl"       => $return_url,
+            "fraudOffset"     => "0",
+            "additionalData"  => [
+                "card.encrypted.json" => $_REQUEST['adyen-encrypted-data'],
+                "executeThreeD"       => false,
+            ],
+            "billingAddress"  => [
+                "city"              => $order->get_billing_city(),
+                "country"           => $order->get_billing_country(),
+                "houseNumberOrName" => $address_line_1,
+                "postalCode"        => $order->get_billing_postcode(),
+                "stateOrProvince"   => $order->get_billing_state(),
+                "street"            => $address_line_2,
+            ],
+            "browserInfo"     => [
+                "acceptHeader" => $_SERVER['HTTP_ACCEPT'],
+                "userAgent"    => $_SERVER['HTTP_USER_AGENT']
+            ],
+            "shopperName"     => [
+                "firstName" => $order->get_billing_first_name(),
+                "gender"    => "UNKNOWN",
+                "lastName"  => $order->get_billing_last_name(),
+            ],
+            "shopperEmail"    => $order->get_billing_email(),
+            "shopperIP"       => $order->get_customer_ip_address(),
+            "telephoneNumber" => trim($order->get_billing_phone())
         ];
 
         try {
-            $request = $checkout->payments( $payload );
-        } catch ( Exception $ex ) {
-            wc_add_notice( __( 'There was an error processing your payment: ' . $ex->getMessage(), 'woocommerce' ) );
-            $order->add_order_note( __( 'Error processing payment: ' . $ex->getMessage(), 'woocommerce' ) );
+            $request = $checkout->payments($payload);
+        } catch (Exception $ex) {
+            wc_add_notice(__('There was an error processing your payment: ' . $ex->getMessage(), 'woocommerce'));
+            $order->add_order_note(__('Error processing payment: ' . $ex->getMessage(), 'woocommerce'));
         }
 
-        if ( !empty( $request ) ):
+        if (!empty($request)) :
 
-            $redirect_url = $request[ 'redirect' ][ 'url' ];
+            $redirect_url = $request['redirect']['url'];
 
             /* redirect to chosen iDEAL merchant page to complete payment */
             return [
-                    'result'   => 'success',
-                    'redirect' => $redirect_url
+                'result'   => 'success',
+                'redirect' => $redirect_url
             ];
 
         endif;
@@ -192,26 +198,27 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
      * @param  string $reason Refund reason.
      * @return boolean True or false based on success, or a WP_Error object.
      */
-    public function process_refund($order_id, $amount = null, $reason = null) {
+    public function process_refund($order_id, $amount = null, $reason = null)
+    {
 
-        $order = new WC_Order( $order_id );
+        $order = new WC_Order($order_id);
 
-        if ( !$order ) {
-            return new WP_Error( 'sb_adyen_refund_error', __( 'Order not valid', 'woocommerce' ) );
+        if (!$order) {
+            return new WP_Error('sb_adyen_refund_error', __('Order not valid', 'woocommerce'));
         }
 
-        $psp_ref = get_post_meta( $order_id, '_adyen_psp_ref', true );
+        $psp_ref = get_post_meta($order_id, '_adyen_psp_ref', true);
 
-        if ( !$psp_ref || empty( $psp_ref ) ) {
-            return new WP_Error( 'sb_adyen_refund_error', __( 'No valid Transaction ID found', 'woocommerce' ) );
+        if (!$psp_ref || empty($psp_ref)) {
+            return new WP_Error('sb_adyen_refund_error', __('No valid Transaction ID found', 'woocommerce'));
         }
 
-        if ( is_null( $amount ) || $amount <= 0 ) {
-            return new WP_Error( 'sb_adyen_refund_error', __( 'Amount not valid', 'woocommerce' ) );
+        if (is_null($amount) || $amount <= 0) {
+            return new WP_Error('sb_adyen_refund_error', __('Amount not valid', 'woocommerce'));
         }
 
-        if ( is_null( $reason ) || '' == $reason ) {
-            $reason = sprintf( __( 'Refund for Order %s', 'woocommerce' ), $order->get_order_number() );
+        if (is_null($reason) || '' == $reason) {
+            $reason = sprintf(__('Refund for Order %s', 'woocommerce'), $order->get_order_number());
         }
 
         /* SETUP REFUND PARAMS */
@@ -219,24 +226,24 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
         $order_currency = $order->get_currency();
 
         // currency decimals
-        $decimals = sb_adyen_set_currency_decimal( $order_currency );
+        $decimals = self::get_decimals($order_currency);
 
         // formatted refund amount
-        $refund_amount = number_format( $amount, $decimals, '', '' );
+        $refund_amount = number_format($amount, $decimals, '', '');
 
         /* setup refund payload */
         $payload = [
-                "merchantAccount"    => ADYEN_MERCHANT,
-                "modificationAmount" => [
-                        "value"    => $refund_amount,
-                        "currency" => $order_currency
-                ],
-                "originalReference"  => $psp_ref,
-                "reference"          => $order->get_order_number(),
-                "browserInfo"        => [
-                        "acceptHeader" => $_SERVER[ 'HTTP_USER_AGENT' ],
-                        "userAgent"    => $_SERVER[ 'HTTP_ACCEPT' ]
-                ]
+            "merchantAccount"    => ADYEN_MERCHANT,
+            "modificationAmount" => [
+                "value"    => $refund_amount,
+                "currency" => $order_currency
+            ],
+            "originalReference"  => $psp_ref,
+            "reference"          => $order->get_order_number(),
+            "browserInfo"        => [
+                "acceptHeader" => $_SERVER['HTTP_USER_AGENT'],
+                "userAgent"    => $_SERVER['HTTP_ACCEPT']
+            ]
         ];
 
         try {
@@ -247,47 +254,46 @@ class SBAdyenKoreanCC extends WC_Payment_Gateway_CC {
             $url_prefix = ADYEN_URL_PREFIX;
 
             // setup request link
-            if ( ADYEN_GATEWAY_MODE == 'test' ):
+            if (ADYEN_GATEWAY_MODE == 'test') :
                 $curl_url = "https://pal-test.adyen.com/pal/servlet/Payment/v51/refund";
-            else:
+            else :
                 $curl_url = "https://$url_prefix-pal-live.adyenpayments.com/pal/servlet/Payment/v51/refund";
             endif;
 
             // api key
-            $x_api_key = wp_specialchars_decode( ADYEN_API_KEY );
+            $x_api_key = wp_specialchars_decode(ADYEN_API_KEY);
 
             $curl = curl_init();
 
-            curl_setopt_array( $curl, array(
-                    CURLOPT_URL            => $curl_url,
-                    CURLOPT_RETURNTRANSFER => true,
-                    CURLOPT_ENCODING       => "",
-                    CURLOPT_MAXREDIRS      => 10,
-                    CURLOPT_TIMEOUT        => 0,
-                    CURLOPT_FOLLOWLOCATION => true,
-                    CURLOPT_HTTP_VERSION   => CURL_HTTP_VERSION_1_1,
-                    CURLOPT_CUSTOMREQUEST  => "POST",
-                    CURLOPT_POSTFIELDS     => json_encode( $payload ),
-                    CURLOPT_HTTPHEADER     => array(
-                            "Content-Type: application/json",
-                            "X-API-Key: $x_api_key",
-                    ),
-            ) );
+            curl_setopt_array($curl, array(
+                CURLOPT_URL            => $curl_url,
+                CURLOPT_RETURNTRANSFER => true,
+                CURLOPT_ENCODING       => "",
+                CURLOPT_MAXREDIRS      => 10,
+                CURLOPT_TIMEOUT        => 0,
+                CURLOPT_FOLLOWLOCATION => true,
+                CURLOPT_HTTP_VERSION   => CURL_HTTP_VERSION_1_1,
+                CURLOPT_CUSTOMREQUEST  => "POST",
+                CURLOPT_POSTFIELDS     => json_encode($payload),
+                CURLOPT_HTTPHEADER     => array(
+                    "Content-Type: application/json",
+                    "X-API-Key: $x_api_key",
+                ),
+            ));
 
             try {
-                $response         = curl_exec( $curl );
-                $result           = json_decode( $response );
-                if ( isset( $result ) && !empty( $result->response = '[refund-received]' ) ):
-                    $order->add_order_note( 'Adyen refund successfully processed. PSP Ref: ' . $result->pspReference );
+                $response         = curl_exec($curl);
+                $result           = json_decode($response);
+                if (isset($result) && !empty($result->response = '[refund-received]')) :
+                    $order->add_order_note('Adyen refund successfully processed. PSP Ref: ' . $result->pspReference);
                     return true;
                 endif;
-            } catch ( Exception $ex ) {
-                $order->add_order_note( 'Curl request failed with: ' . $ex );
+            } catch (Exception $ex) {
+                $order->add_order_note('Curl request failed with: ' . $ex);
             }
-            curl_close( $curl );
-        } catch ( Exception $ex ) {
-            $order->add_order_note( 'Refund processing error: ' . $ex );
+            curl_close($curl);
+        } catch (Exception $ex) {
+            $order->add_order_note('Refund processing error: ' . $ex);
         }
     }
-
 }
