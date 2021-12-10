@@ -1,24 +1,26 @@
 <?php
 
-  /* created by Werner C. Bessinger @ Silverback Dev Studios */
+/* created by Werner C. Bessinger @ Silverback Dev Studios */
 
-  /* prevent direct access */
-  if (!defined('ABSPATH')):
-      exit;
-  endif;
+/* prevent direct access */
+if (!defined('ABSPATH')) :
+    exit;
+endif;
 
-  // setup order currency decimal setings
-  function sb_adyen_set_currency_decimal($order_currency) {
+// setup order currency decimal setings
+function sb_adyen_get_currency_decimal($currency)
+{
 
-      $decimal_0 = array('XPF', 'XOF', 'XAF', 'VUV', 'VND', 'UGX', 'RWF', 'PYG', 'KRW', 'KMF', 'JPY', 'IDR', 'GNF', 'DJF', 'CVE');
-      $decimal_3 = array('BHD', 'JOD', 'KWD', 'LYD', 'OMR', 'TND');
+    $three_decimals = ['BHD', 'IQD', 'JOD', 'KWD', 'LYD', 'OMR', 'TND'];
+    $zero_decimals = ['CVE', 'GNF', 'IDR', 'JPY', 'KMF', 'KRW', 'PYG', 'RWF', 'UGX', 'VND', 'VUV', 'XAF', 'XOF', 'XPF'];
 
-      if (in_array($order_currency, $decimal_0)) {
-          $currency_decimal = 0;
-      } else if (in_array($order_currency, $decimal_3)) {
-          $currency_decimal = 3;
-      } else {
-          $currency_decimal = 2;
-      }
-      return $currency_decimal;
-  }
+    if (in_array($currency, $three_decimals)) :
+        $decimals = 3;
+    elseif (in_array($currency, $zero_decimals)) :
+        $decimals = 0;
+    else :
+        $decimals = 2;
+    endif;
+
+    return $decimals;
+}

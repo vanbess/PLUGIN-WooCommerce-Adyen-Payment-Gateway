@@ -5,7 +5,7 @@
    * Plugin URI: https://silverbackdev.co.za
    * Description: Custom Adyen Payment gateway implementation for WooCommerce
    * Author: Werner C. Bessinger
-   * Version: 1.2.0
+   * Version: 1.2.1
    * Author URI: https://silverbackdev.co.za
    */
 
