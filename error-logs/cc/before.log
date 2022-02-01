@@ -1,0 +1,2535 @@
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:38:07+01:00
+    [id] => CS9C5FEEF13707CB3B
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAAdyeKPXZtu7fPVgdgmmredWoDJwC8fgRfBeU6Cf7LoI58QQqVRcV6T+NXGb7ah0Tk2xqRYfuhVej0ZivHdOz+Jo3lLPjBpJ/tjqk1owe65cwdR40tzbZ0BWS206cn2H2C8ieG864WoROnI05ujrtwFlg8NkqphbtBEUE+dCuS6aPQ2XqbN8FJEnWX1qVjs2TGucbxpJprEsnvFw6XoLUTpvBsrreYolEiJcgpxFWXow2kwow6YrySnzfsumzbsscDVDDWOAm8AWb6v+XBdkyC9G9KErh1TIlqxQG+EiVk1OGuca02dwWpo3DFNFVTFpZIfxLXCNbq9zD+gxsLE93CMBIC100IMD/E3W1tg+RrQNs1baChZd453qoTCVQc3Z6CdXfTTdAM7EIEbjnHKSmpsh4XLeA8aDYEJfwrkY/N+HpMQi9pfpixw4wIZZVtl2doct2ruKroigV52w+JCnIK/D5WzgLiAIguwSreXeKobge/0zBb6HNc90UgiBHWnqkXlXyrbNEJSu8GlggRqxBUvQVcGlfUUokRIPp7pGDtkw8oAzZTYWLFIcjcohz1Ylq0ZmXkBdVsx5cmREnFRYc5JdZBUJUK6ZWGiPpHS4tcbQcstPRHkvx+28GWg1bg5oCE1QEJmbrz1YBMDrZxPk/mMVE+SsNn9EUcEXodFL0dfxBXb5ZXYp1RNVlCMGnBEwweAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifds7gPzpV7myH71PFeQFvFzLSlGimi14SCUXjaoA0bg/hYUdrqOdRaQRvVHLy3wlfFiQUzP0ylOKOLgPzGRa3IDQAwEYW//oFyBFIxjmNKic2mVMj5yKZ/T01B73D5PquOXJ56zAZ2FY8m3Fsv8lf6Qd2zNa4uaAE1vrUfpbkdka6kPVbES+GIaAnxvMimJZN/09y9Gs+sw3dCvJbAulzXzNL6lUFKAeyFOm0n8g0D+0rew2KbmMj9uDekIg4qgwcXqTmxMypDPLsmmoWWAMvX0TITP4ivcVnA/lSJCguKQmj39xhZ/JDNlUIomxgWZeck6ivsSOdhs4BvPZP1BjPVJ3AvRKTr5HODct7JrZqbIBpsYis9TqnzA29Uimkw16oZINtpMJ9csNO33LZa6yQsshFHMAF3u6c3RtP9mFTO9tJUAm8fm7kwmJF189YLSOfdkiEmXIVZlawQ1/BqyhWdQAJv4fJdSmZyZvlw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:38:10+01:00
+    [id] => CS092B10026EBF4E48
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBm1b0zf5tiwGWFEmRSJOi0G1S6R5CQChQpSBVBfKOYisv3pGLcqWkwlIWpGfkrc0Wz2F+JFOhOiOHFcjTq1hwXN9fS05L12yudCibjxoMPcyLwpZLHn4CkaBLR9Dw29+0uhGz24/TrTGIyk7u7E/MMO4qo6QD/W2pjAzS6mXFLmcamRaE+7PiHhke8sWzj1nSmEyko+BrJxgiUtj081baweFT3Es9RvxJkYf3XpdgYY4tJDpT5X3GS3tKdimY2J3jzhhUy/nG8EN8ozOXpY6S7yQP9gyiDJTRYlN59GwU00SzpEhgOoizeRFsSPA7YyOv/aJ8p/YX15CHz0MixIfBR9eGOdeNp56pz15Qdaw3x1AaEWIik1r0gZDiHgiMQFyxj/6U8mVYc37ohQ9fpTwO+HR7Y9sshpP/eQsPkts5nuMElgD1E/iMSlQiQ92zuUcTjiaC5q/fL8Oyp741GnAluwmORZnhAYDRvYMLZSQKtTg1vHVTT6AV4BaiMhXQgldyqW2yq8GgYXNnOCs6OJ3f05DOBjLnzK3mCO97BS0HgoVb1ZWyiqqS9Coo6lEZL76S3P93qvzuSSQU2gCnI3A/dHE5/kOnOvb78KcBNOejk4NRH2TTtsWQQ/aaZ13yMLGDlnhpS3xhp0pDtc5x0RAnSp7K3DkMI8lhVQhVT77OijhCYaEoXyW2AL+NasrpfECEHAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifRKWk8ovbXPg3Z8sTv8TGIsvERpllIPxbLmB9GLzuqBzWcQZVqD+mwhtW+OULAgz4nZSuEpsA88WqTqjN++zHGH7fwGj1mGv3ffXhTOb7u5nuEV9GLlVAPISFvoLzQCcSYQl4zR3Bgjf2jetVuMbbTEIsJlK9jf432TooxoeAHwDCM9C75rE7WownMRXEkbZMFymovrBFYAWwThj8WTfwtXj3cJeehg+R9RcHzsZjdemY0VfiGzq1xwK2ovngrwehGAYd8c6/20k6xf174VEXuNJdOxj9lPba9jzbq3rH5WMTgA7l1BvzCwB0wKBij2dGDQJTGmuopRUWlifmHc86YmRxMi2xxQxJLUD4ORNNDrQyMJV9V8/ld2ryYa8duR68lhEQcuFCeY4sYpOG4J30y6tdXaEm8PnXAkIBH6PLwRAbiAqL1NlzC62Pd8sUSRVN4tF6d4/EYW+aNIoD5GD9Gn7o6i6CEWxbY5FGA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:39:57+01:00
+    [id] => CS80C0122AF5109877
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgA2iJSP2ZvMnu7Gx9nj6rbLYOLwZtODdjvsVh3HZDXiLgoSowA3vQ9UscwRXhFdmv/t46vrfj255Pb1eUwDU8C8DvF1cOVSjAnb2gR1omU351erfENxncV4BLYXjxKS2zyv6sYXlAZRdCDzOy/8Ill+XFTKurOpJeKYCmC2pzkPL+QbJBJ/jjVzfdwVhXN7BHMFBQBkt5HGttk0/37RpuaHHDe3xDmhH2NFQRBOk+4V7XCekmCfpN0Z5ol/HxvjSqHZGGwqkkfCgnXJgStMewpfBxOkyx6oReUsolyHz4tWO8TepyYiteZ1feY2O8YFk2wG7Y+wTUm3rJJcCtMie1y9pmet3F24+ZlMDmfmKKjz8XupXkAl1lDiGmvlj7XcqhuAqaOTQHPyEZ9YSOftU5TWzwUfuajxH443m0o/gaS+aOaRyyIkNpFnrIIWjyde17vAiGxahIrZ41+mnZfOb4RGa5KED/kfHWFF8xKnBx46kIEwM1wOuvN6KxsUAK/as5sebCPXz/+8I1CJFc4crZNz8rrKHqfcCqdiM6rFcmZITGMvjv2kyRps64oT0qgoRKxmhW29T68FYtX0QPxIy9jHz7mLoI8OQRz3G80ZIW4FgEvwhT2AqDDhwduUFqI2N2YgOxU0ghFIQnHeabu6k4Ta+58S5aULHy32Xbwg/wygEhABzVbMk3BqYDbQQ53MRYHZAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifZpoC4oVT0PxdKuOc94RJF+Sp1YqiR4MHGTSHVVkNnWJMveWRV19Uk8UeTvktDOWYxBDV/SHXxN/9KX+wnAIlkmxx5EzL9kliyzz1CenJ+DyRugJYD2xMU3Z4zDOgzoPj6n7A+eCcGDWf6QmXbYyFv/PYvXMJJP+6nO2rf1hTcQ8bF6Xg43NMibOZWuDlTbSFGoHYgxLgt8L2VUhlf6PYC9C67ixptAYuK+lKktiTjIUPsLb3WehQgyhkXMFf1EXWi5UyUmuEWwNGfQNyAZTIKCahRW9rdyAzrZ/0iVsioBnXvlGOMGLmbNEacDjHh+IpbgHJ5+rxVvs5PS70ikC1yOqWfeLLvovyZdVlxBK0aSCQV6hzeOEo5d34EExycgXpPtj3W/Uz2L9OiRl/ReGISkIHLO4jxqR7bw1eHsNvQhebFlYDn29vtM4JJNYz5OnrQYwNPa6XqVGHDh3HG81CuhaCr6CF4l2mrivKw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:40:00+01:00
+    [id] => CSC2581BA21DD23329
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBIPPuYZj4HUBuIA45h8HbnFMleUKMz5xlFrUoxPDyedplc2kQqBhZuwOiecVNIvTW50HOFHRXBxY//aHFg0fDucvHjqsEdde36CY46r7x04Z78zjR2jqyP9aRbLvsBsNYaQXzCc6MsP4JQJZDnOM7xxNEhi3ikjQFxD4yROpwRkHT54/hQsG8CGZBgNYyi4x4uEloUkAgIRV4r20HD+MqKEv5yaEKASIuO1PM+hheCob1MAHuNt9q2LUcyiOxFS8K15tAWn+5Mo7+SPWN+TgEhEljAONp2EyrgyuRro6XnmcQ+l395epT3yZwmwKgj+IcbQu0HSdYz8pHdTRIAVtYzbB6+mrBw12tKYcuivuiLz5323iNp5r8ywnMcf63jGsCGge11C/DwOIjRvg4UZdbL5EoVpX6RIwFXK2VPegbB34OiJlRc10WzbFIjLtAXzOLNk5dTJ3N82dV+faZMUHsDTHIDmz3OrB89A0FExUtxpyjmtSGGyh3THIhs+CnBOnx/U8IqodBReAN6kBd/1lpGpp4usXUsjrd5MM71hJ3z4C5IFxkiEELfkaHwZs6HMkCHZnmlO7kSz6cp3xSyATXat38mKsUJaXVgbB250/Na5tq/tiEd1wTqcm0P3qCFEfi4qcVdlYD0GGs4B1pGfhtjklD+PpYKSyUvgR4j36ap1hDQdDrCzfEFqSVOczC7pwuzAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifZ/y/eWNpTXHwR/3sYaGKy3vwed4AjMpegRod2IyqvEjUfavRE3HxziArqhQkd+YUSW+f7tzrJ3vywnkYUfPJO+Y77XX4AA3Za9F0+4hwtqOvlOkYFtLWCJ5B5QlQwVnuN+jPLBIllg27p4me84EKS7dBEyG0jEytK1ZHvDS8RLLCtRhjTkM0Fa/68DGqcI3lSmYzxdiQZumohpGoo/RWq5EVMM3aD/8eAjatmyqz8FQRVtkF5u39ueh+B/0ljhaHCNLfaD/NAz3z/JHw2ff7wkWx+c5A6Bbae76htaoWWnhorR3cWGBRn2Zk+QySfn2P/b5MNbskXnJKdjFLgz7dnXFP/ADQciXsuIz6o1om5gu5Opj0xrXxI5CMLsUsm6OGwce8tpuTBlwC32/kGJuvmZh6JPJGPvBhI1xzv8ktIvBf4R9V0ilsm35sXlwRPBQgOqxgAExIBKF7lVp6tDvqrc+0/U7/rFLlifDNg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:40:44+01:00
+    [id] => CSD3C589B04FBAF795
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCXTuwE59lWxlG3dNXROg+R2AD5HGKpakd0cDKFzwgZuLJGI5mkWlLfy+zPPSk8MlSN4mnXIgzmAUylkTrAwtCZIctMXSGSkwtZzFbS0LvQ74nZXi1QlcjAdS0R2HrTgfwauF3opNPYWOvjJg/Bb4+U4zoMQgzQi1i/FibsAFzGb27Ulc/n51oam4Rrqf1ojyYeT+B5ZcjvdwXYY9dCcGtsyI5aAHxvVwjRsmmYZUwJUiaaQ29cOOLrtYxKqzIC9LGP95xvnGVAjvrEhuVQWiP2cTtFoiZtxNh9LD2n2v27FVjBLF+ssS94bPcr/zOB5pgkp/WXDZt8H48NR3ejekEBbC2uFoSlzF0sRC74rJZn/qtAUnAz/YBwz016Ab9olvuJuETXxSsgbCloi4KWfF3rv1eZ3UC1d28I9x9Ay49Utf+jMpHY3voI5GmELxs9EW3IsaaTU6GbOO9SxpAst/X1yx02IWbq+DdTBqrmbZ0ldS59I77wfwLdfsDkEhNgBL26I/KVv3kU1mPqtqpQ56gw3l6nr42vFv0wLDJcuoO/D/xMPnHRbdX3s75la63NeAq3Mn7IAJji7+am3cREQJl8eTo9nyhvgbw070YOyVUCHgP21U6OQjAGW4t8l6QrleKgf6AtbAqDZrLR7R9ZfdAa72DINvnc0a58pXFYD2O2nRC9xGy/UDf2iIAZ7+QlZJSHAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifT6uMV9DzS7slUtCE0mcua7NFkHKWjDWV6VjP7xQ5VOAa2xpn2Q7rPPMfonhKUqCzqy/LGUfYYmGfovcUX8sgHumkoaVXN6Gb9ugCim2i9gYDQF17Jnd322pmUObJtVz4GU+0x6FxfPY76cldQkOkcEUE98YYzUaUKap1jKJGohdhGe5ScQpRKlCgt8qXPns1X4zJCss5Dl77mm3JOfEWhkfUdlEnRVRYRZEBAJt53QdhgAy+PG8misedR0hUjdZo6OAL/1JMSmb+apF+nTFLTNAEwzBfm5hdizq3zJckEBNVFYTYl/rD7KMlDlqjgNB2lG7DoL1Yn6QplwV6RkX5RwnGcoAGPmBoaw0E3dMsl1YuxkoqYAqsigGpFLO7JoyQk0iv4b1JUkirjDGOxMzm7fvSVr10CZfqXrt++/yGbu4fcWkOCqVobNB90/1sgGmPCYEKR9v6Z+Ma5m/D4VYlI0ORMhyDjo8NAS8f4o=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:46:22+01:00
+    [id] => CS4DB4C761747F76E3
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBgYj0U77CyVPMtE/V9hoVR1D8kkhiQyimNXf6WlYDpYYfj4zPEYcOHjGddCVckyGRxnHN8klGI2ZrxSTbMolM56RNS/0zo7Io4TafENF4CULl22BJ0aMoqUCdaqGDYAUwm3Q/2j06jlR+0TwxmNh1qolZj3HuVI1XV88fH+O+8oQI32EhyIkMHJcAhQIE0BUpCQsHchZWZQVug9gG5klMzlAhlD5dJCT1YIwlvenYa/Q50KeviGE5QhrMEKroGBK4L0po5G2pU7AiQP5q01eqmP7Lj57g3mpC2z2JaOH6NMqldhaB3Z41+4riK2Chj1e/Bbmg9qQgUPeTbI/hlZC1wZPlMF6PBqyUqyup1hGqZ3DcY/y3X09PRxzF/762EgiZodceQ4W5W2kVhVLKRGoQhOQdchNWwKe3SpK4UqciayRw7YtoRVAbYa4Tiym4B5ThnP1hVAM+6Nq39HCkcZmKEG3DyP2inViKNpL8JqWHX2dYH64y4YoOrdZMjkId5uod2Qr7p9gyzVCHZzGYtgPuy8VoBrH/xJBcq9BHmVTskxKFknygRLtq6QvBjetS98ftzw48QtMW8g+RvXOi8agGH3xT9D/+S1v/t5hF7Sqdrsg1YU0r4Gt5RXt4qiVDqkzPHavGwZBUgC43QkYeH8fXYzaCl6kguw0tu+5+xBwzXFhCkoCSTdfrOQ4ddJvJII5TxAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifU26IzPIUE52P9cl8OHJDCf7ZiYSUm+nVBMhpTrwOG0fYDLZdMBwTmCyJ4RDOpe5P2+3cbIsGlGb0VvNxabqsekatZcdub5nl2lZTk8/PNukUs4qGjEvxSR+yAeQKWlLTteBa+sHSs1MVbXRUgqjvK16NdNSw0b7ZitIW4koCjNHTO9NwgyVgn/9zNySeczvXhWfJ2ZIvG/8QQtbEYF7RddRXZOf84x/S6sWkvGr2468irypwvr47CmRj89xfhrfwfB8a4GIhbJI3yH3WeTWFT0ugJx5kX4Udt37wMRtLBF8WJJO1G8Enk3GPmuHYKmi7PLaJbvfK+tj1oUHMwFhnSnJaGouvhMfhkV177L7VWPxmvHsmBMxE8IpbLdH80MlGqK7JX0UVSpYOfD1GzhGTJYvYhRjGHmHdba2PBhnAxJUGxNlwGgniZszcnJz2AS9LQUWJ6b2amfbiN4NHgSwJBZwo1LuiTCfU+XL
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:47:15+01:00
+    [id] => CS6DAA2B212D7AB2A4
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBBa0Zm9wLZ3gkyAnHoquveIPuEGcKYoc1dDWRwwP+kD15g35+LQKPla+ajnO00R6V3bKqLwRmqvxDi+2PZ5JVrvAxwdHWplqI8bPnSukqbnL9Mo2xnFCwU0+AnV2HBx6tYa0awtWq4A/1x1s0ozO3cqDr6mqxlfjI4knhBqv0wv3K4NpLooM8BKzW/9L59ZOnoIdUaWV7IRGKSHYe4DPuL1MEltUqqQBKyYhCn27cIuDYfbI0q5gduK3rGj3pIBl1W0PDo3Cz/y0f/g5FSl2TWG7T5XaO6K0voG6MRpQuv+F1yn/3wVmzOvrzJsh5luClupDGkznvYuBiLPSGblazIXUSctO+YFwp9Q3N9/D48vGUhb9ksuoVwtX/3jBwx/5CHGjAECz4sxkci4J+7RePHSZE1yDGApY90LScYePmAXuKVjer46stZdMA8l6llvgrd1qabMUUK+KkIA7jvFtItJ3faAHQH3iru5FX7JJcw2s1bN3HuOOaF50HlR9c6H0MDqmhsALaxlu+OsMBN5+il9Hvf10TKt0fhAFY0W82m2HsnSyvu/LzcM/tLEpGkxbX64YUOlgaluRGZbcVNSFm0KOOSsZaFRyvgcNAoVuriRg8caMQM+SdlcEdvbN3rbpA4u/07gcABC2ZI6xAtyDnDavFKDvoxA/+cwHcs34gnWhBg+SOKilON3f5CkykxeJf9AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifXlCZ+MzLytMteNDV0R5dRUzMciASOPHexPNYNvKYJ64QIRLhmeOUE6WGRn2QX+R486qm13iDS84NbLhjqT9kxYjn2ROmvdyXr/kTB0NtloS1xVjvKUArP0aXnjyAKq3/9p5LLZFNJZn58f63kgaUOFhGo1Yuw3lREGYfHcmgPRK0wIGDrv4jOxK6lsp1jYEB8FxeeCe9LTgAJ1IY29NF82c1n3QLlTmAUR58MagAM/HCt/7F1+niM+WGe1X4mZHTvqn2XSFioYtLpsGeFK94D+HouWNvTVM7tg3aXCPV8E7q3hooKv0o9DlvbiRq+UQiyc1iRzZyg85WcF8WWVgpB8OhmX1sCI4pnIOHajsltl33IqtSMcgF9KhX6qQ0DdsCm1zb6nOiqn9K1Y7X2NlnldUpFTVmxhEKJKI/q4GgRo+YgrWnPIgByab4BMlhNgTqYoxgaQt7A0164muydGfqucYOv0ebrWY06kDmA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:47:22+01:00
+    [id] => CSE250BAA5D67B6528
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgA1qnjBgpFr/aCXsDjBmRfBkJ+r8gwaOW5xQhiRSeQsXkX0MLjXfoJRpOYdywPMvbgYdDV7Dfd/6p/mky7UIgL7hCe4xjX7gqbq/UcaweEHLxtUiGSej9Fpzc6UF2l723IChjzG4qyrqBSBmu1gqK5aNFYm7ZRIhbbncSP1Vwum1iJovIvM4o/Asp1WZ0c8fOJz0HNrzTEm6gT/epwBg7MbMGsPQzufm7g81U4O6gv09PeeyoLKezUlUOdr/h7YpMoOvvcAsQDInIyWPPwbj1tYgx3/Wo4HbpBPFQjOW2bFSWoujjAOwhNbjV3wKmSJFz+d/ahjV/ydt7G/vouB6S0WWrcYGCLLZRst39Wv7uSv7GdH61vCh7TDTuGlgu2pMdBMC3Q8nqBX6IoR6v+e6IiT0I4kqAp7ZlVcnPRRFVgqX8UeT5KC6uDNLVVsjX30jM/4754kdaFzEP+B1LD1b9dt6AL6lgSssUaVEYYBBdKZbHAUkzepsOV/QRC1XuiOTD3i2Y9GxkQXWO27rxvzsGUDi2Z6dqq2rG+mtAgQ0kw770PsYbnA3RQRlZcbVYYTyBiUKdyEAIVrvAduFa++yDyeMuqNQ1AAbbiItRomngwNamNbskoiZfk/2l7dhqbHTIarf+lszdhx9rx31/ZO9o/01Bc7LpScregnmLg/N+NJRRBbCngO59eeCcw1BY+v9S5GAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifXhZ0w5WNyECjFb30rTzhrflov+Q7Dxxh+F50i4+lapH9NsZ5wV+tGdgxiJIoqGqP/R50y/JncCWeI8T6oqBY3cZGt427E9ntWMw+Ugk/V0cJGSLwJu1272nxwjB+k8Hv8tWJ6+HOIF9FGK1W97z+W/m9o4oOhmaPIdpXF+Y9N2sTDaFyGPvWhKtQoM/oXIt+rCvTkCogcjqyUp9O21g+y1Lzs5FTc0ehWqA+w5bcAslxq7C5Fi2+6SaRvCmexO6C+9Rg8MHtq0wc30QfhiWI84EfXvASY616fZipTaNwaxZpf8JTTRPaT5wxYhkYr4hsNqAhHA+y3XepBm3BBYKu6TJ9AqTJ9Pbt/2/jJD2PoaAdkMrY+6SWUeUZEvorFAPosTt9JEB7l2dFSxRmKsSA7SGvPavy1NkrOug+J5EHaoPblcXPIijVc05bRvmbHWF8WgSFqxRZXDFWnjG91DLXLMSHiNjqgzwyrx9YQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:47:51+01:00
+    [id] => CS7F06CE8B8408E575
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAcFYGgoZPKk/Nf/3LWzIKrQ7SykPkZY5R05GAI4i3MboSqtUg9GcGMIuKw/90zKtGKlE8AgDZN0RILldlsfEhr9OJgbtvJMLD1b+A2L1giAIYY+exgPSBctFSGl8FhJb9uKzWKpRxaO4fZf00yTUSphpz41Ip0RjAXLco42cKRGjS+l08Ur88ZdB+/oi91AcRg2RfDEWXFu/MRa3eaobIwvfbiaNM5t00uYCqNVqNt/9UvqDlZXsS0LzJV70H2VBf1ZZ2bf05dxodtzdE2IJ3NgqZciaGHoN3qff/q2fFGvtCX0on6cPazqlR/102C/6rUIhdzH2ldgKGggJjveeFA75T6PsqGZ9JSRM+VFb+BbQ2om9RW6hRnihjxe4o3tDS8HL5vAqb3ZlxQCGk5RqIj29uWpdAHxNKGeL16Dg1ySdu66M2Z96MYR1vJca4ggyUw+Bt20ZulQxjSYFP05NYS8E4sKYIkuGMoq/yA6jGNwvXmQ95mIbRx8zF8Q3nCCfixEbvvngitBw0xTPYs5ULU/6ygd4+GJegVpc25oDjiH7+gSmOW/t+3gMU2eGOqCNgcWedF0OWplRusWxmIsgiaHZnwtJASG3HtRjWsE2HyiB0zdWl88+xnGBzxletpGT4A9NPxK06OkHHlsd2Nh82poTLnCIkR5nUD53KhaUh0ZRBYlLxM4OiIsaqHtUPRG1XVAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifeIguyIPSyYVkxoSwCnORafbpC3fKddMzfjba+1d0Q/uB6a0SPdczjt888vMFqdp/d93fkyKaHR3zxASKfeET+dGGNfpVXC6kUmB4o7rj+8fgAlLCWstIrMMjwnMsstxfL6esDSQQdaBLkGUFnS/QVDJdltUBu4LGXtgh5a9RGR1w5MG7uA7FnumFb5sWIZrvMwgkaSzfcwgkP+qw8Z1rv43JRDKj/fsWZpXE7N7W761A5Yw29LIcRpZGhqXVMGcmgPvyOZBDiwBaZ/m5QhoyvruEOn3NiMS++zOz3V99MegSCjuwru0bPuX9g36GBEz7JWPc2Sh0PibrEIOXO2qXtpHDDvRJVfGKMl/yitd+59tOJhjF2xcftd1UBGnUjYJQk3zdjLGOysE0/TnW+OrXbx865yGmcv3J3Fnx6DLfkDjaFJxiV5sEOXwutww5hvvyTLJh794MR3gLhDD3CqXLnAzf+WNGBUy3TWPzw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:47:56+01:00
+    [id] => CS45D52DC8D90BC976
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBhHEpv2F2ZOOrgrZEwr101VOktrCROSovBiDHifxPAflaJmewGLHAuRRB1QJ/O2kfifMXUV/pOJUVvlVMoFCHr+zJlX64e4RAlA8SHBM+PDt+kXUYAwkPAr5JMU1qvrq+Ea10k0qJbg0Ov2CVVO7WO4CDzO9pbKBP06dluhApAsm3NgfRYyV+IKYJR0HEzPK4P6ciPwHCPt8HeWvFb0AEX3czLP4y0arltKwk0zcVEO/5Ssfcn4euzlmg4uVktvji3WHHMDsfo+WC6MtLPTN4pU4wtM0ES7opjer5eLEdZT6cW3JGrYsh6jpCupJjClchvoIrYOT5Bhfx3lMJMbDEI21LZpl7H2CLMOO+mxkU+nYbL7fvOIwPJwaFWFAPRMjR5Gk8jaeaaHf7HdFYBoCZL6k+TcboKmYilI+3YchJXIt5xZSQs6SgZUnxUz8n41/n2wNSIUV1D1AhYAQeSko3lGWBRug90Uk7kC7+X3eCYSB4U6PPA8cnuW7hlxV2oZQ3RFGB5Tr/Xphe0aHU4yzF5gVyubE5W1KqSFdqq9hCmVYh+3/bzMeC6frmH6kDeOH8UHfrfbzzSvF+YG9iCyObVTix3e+80af6hCdgunoUaWiAwjZtdL2C7BNQxQH+xkjtyqI1ojqTf67wqFpWNshIG7xlrmuWmUqDrFbfEI7JtiBCoeyj9GE6KVtmJTcS5BqeMAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifUrcqvYI2dRs9CBtI5/gYpZs+xnh5xeojBpqQtwyWdt1f3jRAFzYdGhbcnOa2A14/T7s0zwOY0AByRk/FiuvD81D79psAFsRB7nEqY9FWmOFGjs31PD25nrEpIaAiigQmK73hNFFXMOH0IMObZtymYTuUJurnksmlMnsnUz+ZSiTEanyq/9dYsH/IJ7r4ym7h+SlC2BbjgSZBPGvezzBoZaj54iwEroIMcAJzHKY+TBHJ4vVKRSEN5lP4eY/OxYeuMtpfDsBF/Cv0yRUFzRHg8/JdbTe8iLYISE4hSOhg/weCeEHDmOqyzJLKioFWTC3ehZt06PiAFw9uGTofaWU+dvjvuiA/YNHiJUAuNM6SlP9S24YvvX3B8817pb5IYBOlQi7kpR2PCEcTswMcIJFVxD2gqUdCLZuV22IxySWCuTzKNNZzEhB19jAj31WIwHRlpzuDHkfzeV4LcAakgVkbA8LZuR53sydHqq/Lrk=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:48:43+01:00
+    [id] => CS6B9E101084EC03D1
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCG7FlHC2D5rfRpLZDjWs4/IVK2+j+ZI22Ujevtn/huC+Hv3SZPaDiDeJhDbw9jgI2GJ4c9LXPb+gSXQzCcLHFLSr+W7sFAblUIWSuyOCvGqUqqR1FoacE2ObIp/ztmUvD12QJWvoslDt+RwPAbq7/kY/4hUOsk3cbvd2yNNeVuk0e+4gsYBJNyce1sMXle0CqpyznkuaWF985wYaiB2G2nPjY03ZeOLcqorizO8ezfM4JPkRBJtZLCTj6XAz9nczOH+upC9SaHmKRtZWSo2XLIlj8FX0COl+nMURuJQDwf8EKI/v6IrFkeu1p0RoVYG9QENCh96IlWFIHxdbx70EjEoM5J+lbYSH/0VNiZG6DCPAiPuoGAlVmZC4waaDCMBFnj+EP620kPJ9TKUuGCyknwXSYAfDLWRsRzywugoRP1yzwxsXBmWVOYGuUXqKaywadtvLcaChowo4xFiUlqU+Y+as6smSoxbTiCCvzp+EDc8HS5f7WWDiBV/93CzcjQD/E3pKizTIRfhfxzgJLHxhOSO6huSzjGOq2nSkwGEwCBFwuzC5LQspbWpjHhOB/fr3RY76Pi4Gx/w4WW3oIwGdwqooa+cEgCATnINK/QFYXGKzBdMIVhVD5qlsbz56aXX7FVkG2HNcayvzNUSgSrNw5T9cg+jVRhA/3nPnVMsEgXcBA7fBHNUcV5FBUTqeujLQDQAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifYMFUJ1sEvkUkEWnxg9d7RLAKE0VgXeqOg/mOUXdNtPtw0nUhDrZqM88DzpaXSNxU+1kKe0LKnJWoKP+E5yGXuHiCg4cC1YqlNBrvSzrkRcpOwvd8bJ1rUEohidR0b2PNV7ejR97d7M3onua1dZtoQA+g99UhGmppkJP5nh95jhlNKKZysfrbgPu2px5gLxpSyTRJnsaYJvwtbdREo5Wp5ap3zfPOL1zBkMuCVnocilAU2dmgLgkO8Oi6copkURYlWjziVfeYTVGCzu6ltZD0RDd6yq7KTjmkLi3bhSqJqs1D5qp/SD+enpbqoiTiD0HvVb1rwjDgGoAYND5FeCT9RSEtR4wwqNgrJGYiYjzTTSIAeUM4mh1eGlHtXh0rzYq8Znv3XHulbQjt7k5c889fSwcLoEkT0CM1dBeMRcfdQnv49H4ZPADaFHSkjLKQISAMcQ0T3wdBrmqxkeel93AzsJs8sBhYjm1ZLQT0VY=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:48:47+01:00
+    [id] => CSA3D8CF24CED8AE45
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBNNnSVHEdNhhVwAL7Zjf+sHvuaeagAx0ztDNKheJhtbG8IoapBupIa2SItJtlqo87xWt99UrQ++x/yf1s+tAZleVREEhtR4rEOdX7xS/h9N9Ozyzv6nZQLS4KF4Aytj/ztYqDKTChh3TstXdpbsd/VPJ24rhUBunGh8YSKEXMV8YdW8YQsaQe2tQG9DEAUHKguJSfOli+KHY/Q8y3MxOB3+ksNwss7pMWf3EVuWoR+/NykuDQbPwc04JEsltyKZDQqNM2jKyGTtZCJdLYZJtr8DZhaw79f7SQtrQuDgYjZgpuimC64V2CvJiW4Mg9IhO2VN4aNyH1F2nVkWKo9IEvmuNsODwOeT2Jplu9XdcXZj7UpEfJU8GdkKVSBKAx5ZPhGEtSEejEfu0MoEvI9erq9QeWPk44jhtCfDKM751FLSxir4wCgf3O5Rl+gG12D1IAyZsgQPlMlqU28QkfG5J+FskeEdb1gCR6ucnZwHohCysQ0q8Qd7SbpQpoILj+PX/cvrSWr4q6n6iXRX73/zD0Pu1/ed1Y6EpHOOllz6BhkYqSQAGncghEsx/Qnlwf5UryWlyyA6Of+zehYyOwtp3P0Kka01sJvdOAD3LwCgg5o82XpZKL3mat27jwmReoDRfLpBuzkNddfh7VGrgNBbEv+AikDKmhooxO+YmmIM73RihA1CInmuCsUlzgu0fLIIWKiAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQzMH3TIQYCCHKIensOGLtaYcA13Hfu3fYjRjhJfp3pKjuWVhQTsvAcsrDsVCx8bcob892GMzhLhHU/Eu4MXfv8lJiXnuM1RpEAG+E30n2AGCDMvuKkYZV/u++CpvGv8RXwsCAFRtvkCtzs9KmLTZi99NLaxqoN6FxWglHFqPAcuGmigmO+x2NmWA5fo83Uwil0ukBz2GjYJYDmIwu82W1F3atKkv4t1yDf5urauU+ipWgvEkJ1b2Ar7mGjF56KA0TNMuYW2Nyh+UPksiD3tUZ61y7EZPKAnmPy/iWtxVaLmY7OqxWJN6/xn3oF60RDcKGlY6uml0Yu5PTted42hgSrK/KPeFvWZIIFbhF6edgaOvlgd1q338l16AyGGXtxxIr/C7eNcY2kRoR99OIupSJL9ISGrGHLLRUzZbeV6XZ2zGK4TTiT1CuR1HAYoYT5mnHclDlzlMqNh8KOoHZV6Q3yEe82JqZOOEXbhycc=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:57:10+01:00
+    [id] => CS54D062B879354292
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCegZrSssQZFeD1pjQhTdoPRKCu9nNC3lbgIqI0tgy5GDana0XePe9p0pFQHRVcG7wHkYzYo9GJ5swKXKWAeGY81BGeJKi4PJoRfOFDu64RqbtY9zb88eMngH/yVqNYmZL2yYFt3dmBFLsBi1d3rbUpdkO14On2tP62WeusrepfOY16xW1sk4k+qhYky8i8F6aIWM4llX6+GRkpqR/QaMzAbME3FAwSQfe4J8YwbgsLlBXjFJOeQ4XVu7d3xGBHKpgOEl+JNz3d79yCbQrxFUO+YvNS4pexvnTlmIUDtfK+jPCnalOUNPECkaiBo7ciAQNe3tBlgODceorDkBHYxdoNQXsVY2LhBrrF6dClvJ/a1Zc36DKPUMCz/yK1H7wtbFc2IDm1E1HcHCoIYgsxoz5AZdqUdLTsqYEguvzcJ9P6qGSo+mXlF5km81MZrkgz4yPp4+uyY6AEFUJLO5ZqspVHzTAigIlEiI8Nqot4iLMZUNWiO6HddJRTTYlezNIW0sx7x0V5Mi0hjH9UB++Hwz5RXdKY6b+qAG77Zdw2Oixjp3sRszO25/7FGREvTrAbgfIFAwHeMShjSyLPGFyiGT09d4wmFc+2e8JIHAPUopNXkpxjJ2HAP/0psFVIzjXbwOgI8eeAVwnzgjAii9V15I2iF8//vdDlAElijXUe8NUQLhDf1aZfoB6bO1WK8g49EMVNAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifdJ4Jyne14wO36tHOYKVLiIRqGX1JsNmGUuaMTCPfML327oqOjuNdcR8AEXq/wqLFRfTLWvhdd4l948aS8ppS+yuXQIkwc/zdYcvyNGLPx2usXQoNKLpzx8ZQ6L+I4NmEzgI9HrCcXkZsT3P5b5mbLxDcJhsCre4+3T5Odt5kOdLkiqrzrO8qpt4Uad56xFQ/M0AyYI/CdHuraCA71pmt/ye7q06lzpbLuSUgFZUnD/2vonc/vCBxy5WDk/vOImCGXwX16kc1PvhJlmg5y4nzDMkmhBsYzZ8oAn7FIMNJMuqFcR7GszVG+IYK7mHGUMTlfZB25q3R919EcB6dE8wwH8TEmI5KnVay3cBn4eWs/TD/TjcH0Yk2bk5Ui7Q3F35NsJSv8ixsr39h+qMAiWQXe4QNPUk7JYYvgAhcebagRHjlbjP5KUkp/gCSfkbOmhT1OGuksVDs1BLHpgsyI8bWo+Faz8BtoV1eZ0hgA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T17:57:12+01:00
+    [id] => CS30EAEFB9B51247C1
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAWOmYlFcoxiBO2e/2gowNW6tAcf1GkxJWsNBj7n+uRm3+SqT89gTwYYu42KoyURRilc+WUJnu1WaoM9zSUjWDKkDzkRkmpZ0EFnKakoN2mOBqk5LwINydtCv6PP9BSWMbjRu8S5WlXOjembNry3AN9ZGHXEGZ1HPdSWzrY7oR4WtejWdfQLvZnIogMDDsMj0gqv9oliWCj5JWAG3UR1v1YdYgK3ON3iY7Af79BgyRFJKUydW0D+9879oYWERGATrnBGgmyz7Ebo9Qck4WmTRpfolHoeHiCC1mwxnnrWifUC9/Jge8YpjC78EzLrhPI3VaCi2X1xpvq72j/JVcT/bJ+EJT3QuW0i8sSWF1U6/oDEznAAZgU+fEHMYPbCHofYu/cwl0yc+AvLGSeOcQ8SKlNCm4833K7FM+oMAdveVFRe7K7DO5dVAfUt9vut8Oxuv4kHv98i/NYk8pwr4SdG7jqH8QXlGUGs5XjXE4lBzHW8HgfQXwI4N3J7LDrd6njFrRsjLa/mvnxkXoKbssRuTaxNgwuRHlVyra1yPFK1lZCqc4NUGBtZY0BaKRvsFPH1MplFih9XBlq7lGUVbzjGLv8CoNEFRjYzdDIFyfImX6mm26rHX5xyVF+KZ6WAfc8M32OC0X8YJKJnoJmeCDOETFBkjXwZTOi+nXiXLpUUy6hMxCI99aB5rputjBWwWsw1XOiAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifSeVS38LXDuirkDBAKFgADC4jyigqSF9wm/KEwAVqn+6yZGYJe6e77D1FakGnTo+DbZ1oC6/4eDZYfj5apd7cnjsYxgfiacHioQX3dHMPBo7T9rvdzjmBfEC8XHvulk2U3soYj/xSoLc2S9OtUobgo40Xgx5ilgMH1Kd9nrhGTrJELe8jGXhUM4GJn+OSBDj79YYGZfuFm52wK1cAWkprOfKwHQYyCRCYZSDc/qA4drFVWT6oua3bbQCjIQVkQ/dZlbCt/LlpvFvgvJ3Dck37oDRSNqvWi98vEQdY1+EV2V6yJvFIF1GWVuXxTN2jT6ujueKuyyjONcgIxTCkhQI8m+sgxZHVXhPKLrxgKR0gx7L91dAlOfftoKjclFxO97kPzIgkb+yW6K1/HnnXCEmrQYQiFWFrtGze6CcAzo4iXFk4iyH77hfWNAaHeEpmiuRVZlB3v3VGU7kDA5TjYpdFN3tmiVvyWcnG7J2AvQ=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:01:28+01:00
+    [id] => CSADCE1636ABB92EDD
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCQ5G34ICI0sGIczhGGHGFnoNS1dhN6UceXAH9cOFJdkeDHRQinBFqVWVson6XCrwHNdt4tfaj5+Kt/ePVyGoIORkyNK3i6EYZDaIJ1H3SNGeUqbfHsX86fYc0t9ClHKWL/altWq0+PqUsCBJYWrqsXW7o28e5oMfShOoQgWC480c+MdvtOJOqNHloBE4lm/Fau7V/NvxGReqCBwYXMQVykve4mEcJHas6rG7kVFQwkVfwWVmjeNrpxa9ARu8m37UEEeNFFJ6IF2BootTc6DCvTd6kursBLRDv46BL3TqJbHyJxsxrlLFDo4/Y268/kS5iULgcW1FdsVuzGTiECldJs+hueKoVRwoi+L7U66Lp/mz6jEBTkJ5Xg70OLQ3oufTuNg8BuowI1rv7BZ48X3tQh6DxHjk2pUCH7pZRusofzX5iGTX+CmB5bUTELfENvxmiGsioSYra2i74/YBwqeu7/GWwVy2zgIfJzpeMogu2ja7MA6nT0ZsQ4tT8ZPIBMbdHG7w02GN8Uk0N7LuctlxGyzG/kDBi46VfqE4cCI6UhZkjuHnWXX3l9ri0cXcyZeDzjpS0ZWptoblQ93k54bNBH1POAValUWAWvVYRJ1C0Ig+I9ugPJM9aVI1L6oZ/MeLQKWa2dm7kJf58h1YEnvrAPAsIPty9ugbuT0mJ0MzFb9hBbwOdFfj5goUE1NiRTjTQBAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMiff9oRadAFU9Hsw35oGDVGaNW7cUKo1TFjWUogn/PmciOoONP8J0RUtKA8I66gocAQHTS1tSsw9nLTvSL93PB7x3sE46YQ6ydaufbQMWPolrIY3xhtSj5z1z1lCFqIOoCTYqvJJWnOR69QOMUn5IDVIHKn9/3LwvVUBqFzDxoQth//tSz5hNlcCAGC0mI4OQ8wkwkhmN8WArR/mdi2ZriHlBNbVjV6Bs4cNvtawpTLvq5DLNt1ifaAcv7+TzjP3rZjwxYsNrbBQ62qyFTBFhAQghm2ALoc5zn2/z/9qLc9fYBSk94MrPN0Gkj0kDAkJDlxGs4YX/pghUhSXwGVVs1/KLt2Vr10BSQwJA/uWtW8UKDvoVHXTZJYV/37OtKJoB2wfIbqpkbBIVaUTPgvMqKTp89Yt0KFeRasqAdngHmZ09f2+XCYob5TTHD2e0Mll6kFFdNqrPE0h9KbYS3j8gq7nT0eHcb6VTNhslWSg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:01:31+01:00
+    [id] => CS546A98834A86F899
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAYdtWN2OgXfjEvGoqszjxxR7Es487vD0ED6p1L1hgQmCRf8T5RzKDHil3wWc33v7GYym5Vx1wR0kS4Pzbn+ZdzrDR64iFm4VTqkRPnYcGDPNH98eXfq5bPqsjvp5eSjHWHc7ub7BCz+bgzK1h23QCWhtPOdcs10RvSOziCTwjm2xduutZezbmMpF5qr5Dm8rLfqBzsX7d929GLRrlF5gN6jruD9hxLlvtbH7mNNOFyU5ZihinP8LnBqdYuNyo66xNuMzg2Iu54IcYLkY2xTg57MsIhjbe8Y/j3zO4u6ITsJV2FBG5GaMfizelWX3mDnJ8qBZLX3uY8JDvSSYkBEu11tL5ru+2zYLZrPsaKn20RymjpYLZMZNbBlhuu3yh3p4SJQn5eYSpeNKoLynhrOe6MFViz83i6cvnk3HOIIQ/9LSWUXOfbNYpZKAYF2BX9SoprdoTi11vsrKEkF8MllMxPqcvAXvPCWmup7OiWSpMmIuANuCIbyJndBcFhrjTLIgdaZzmVxwm2hVZGl2be5d/pxFBQCGxUvwotAdxnsyNihEzmRJv4hehHSSrkyw0G0v/OT4vDE+BlfS2Y2FYhjsFvSKYT8mj2Iw5vpngG8hRtjr4rdrzQJUqrHTUms5Pf8WrvGD7Klr2r/7HxrJtuL83tgXS3ePhZdobMXRccL/GVZxDNjM0xXQ39SVtD7T/w1TYbAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifZHzMCn7rjRadEs528RUgsxiiaaCn2KYc+UTq39SsKTmcXhQ4e0Wc0cuXxz5TA2KpfeCHfVkxx2y8cOw4SKMZ5ph8etfCm1yZMHB5ouQcVV1QN28NuA7kXESY2aRyVurvNojpMVTk9U6rlXJEVqDbnzoeQhz86pYBWMNcoittPuz/ASmgMHlwD0woeDbPoaL9k3KjhTTdMTWZ4xt1BcXIHQq6BoNnqBkCYA53con8R1xo0bYSfocSfrNtBag1oQ7M9A18iO2w0ovId1aa2FlJjiRYryyUuQjnRtWdvIV3bpfpp3m8hMMuk/C/cZJDBMOSSGPKyxGXaO4KYSX9Mfjc87dT+s1kS/C84W7tUCR+3PfU+di+nWdloYWIiPAa27gMaKi32FUeEvTUpTsSk5LpKajHHaxv2hGFt04cADzOKwHj/cHZLlEV6RKbhUoySjjfX7gFVZa8vyG8hUjAs/ZgUbaO4YVBudSHx6HoH4=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:02:11+01:00
+    [id] => CS417CC99860F47FE1
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAIuCcYi/zDKVufRPRhEETd4AZQl28u4ckU06o3byNX9sQ/ZJvyfOn4AID4FVaqE83fgQGTBF8Z1mwp7NidbBNOeL8oMjFFxuuK3u+J6cqqQu2ZlmUb84mNyMQDAaKtg0FwT51JyL9RHPZzehujasfSv2Yr2zH+v/yxgvwI6MiXXxxgb3U7vyUBtCDclb6FsVh/QU3kpMU84rypo4R2eMgPuQxBV1fkojl+87PeGka+Q9dzRarIdSw62gX0/iTXiOB/1vvRrlkbHfGK24ojoEaLkcQ74FZfTS3OO3OI1945gbOvsHCN1DPa6nYb5XCbkp7rmMgGpUfLTvFZRHGu/6hwmKps5qe0CpemK8CxcVj/tc5sWUw1b42dDb9vK5XInVVBJPIghPTUPI0rhpUq0cACcrb9AxidNevZAPQaK6wIwFlR4o7CMLgMh8os/uyt8vRv+1ieXjusPjhqjDflHQggnMjPoEXiPPWx3yWQpMrKRc2y1kva8MVcp77kXM/mVs6v5b5nju3lT+yuEy2xI+SYnncUxl94dyGZIU/ckjOR34fQGUUAEiDtD/NU3WY37xvbvo5K13576OTvU1b9IjBdBquh9x7KkJNcHivcJElJS+7ntYTiJR8Aw4SgKbedDPATBGDe779tUUgiLxWqV5AYOCFEe9jsZQv2Xz9NDPz5FhBl/vX/kmDB16aCRAXVbw1oAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMife36Jb0IHaIPKwI59OVE+TDCm4JME9q0lCXJ+LFum5VEWEd+b0khZ3iwu0DFV2UEupDOsO2KGqlXeBqMRZetJX8oNa+UgLpVs0buIkviv7fbCiE3HQ820nwVEZ0B9NE6PqP1DoVgBA5u4btmPnfFCTvsZUh92dk27+WFDkdPtU3LWNTkfRTGAz/3x/99Qfd/aoYvSe6in8IXdpGM9ULOqWb2olE+K1RZmmMKwqO9nnClX5urxEtRIqqxXn/7n+74rkkP4fN+m6aaT6OrfPdaldsueHdZyqMb05CesDLEBC/aInxVGMrhBB9ntUD7AkJw88hqh0f9A3Oevo6L4SLwmp++wz8vHHblsQFbvTrpUVQ22Q2pnX2GNpbsmLO1JQxjQFxiZ+Y8ekULw0CT+XGKIezglFaOOyEvsFhPbyK43+Z2g1uizAnpjc08DX6zLnZYyfjDXp0nN+W1ezjnFDORO9NOJ22mzkCbgXc0rA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:02:16+01:00
+    [id] => CSDF7AFBE7FE9EE426
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBpT6oJkYXwJ8E9d4Nu5bGi37qHiT0Qx4zp1X28wcJV/fPYigY71vXhjfKEUNnqu2ywKQRn2Bi5+OEusCeUDD/ZHtzSSg1ZYNFhUA0BZv7T4Onj2Tb3L2pKWnKAqD9bxeNv5JbzMv6ZxvQ0ccpZpN18oMQ2VsTPUrEIQ1y3IpTvvoGTmdNendSaV09LPkQV5BzcdoDP/thGRlhd/ua34R91pzBqlO7Fb0BfpAefYnwP1/3Y/UQPv1+Odpk2oCSOLalO5yrZyCdGF/RIzjdkxp548/Zh9LM2H2TzKfAd01VBw/Nq/Vjk6Sj7ffkiGzSMYRR5dapRFL1rEm2msmBINXF2dQ9Le5w/YbgNLIDKDJ9yBdrQqjRtf8a8BcToLDeNsecEwOkfCzw8mWYbYV0jqzoSaaCvbtCQz4Vc8/xs2DjELcyMAlHOdXGm4mVIa1sOf9/pC1k7xlVfVnfDGxPGlgJqJmbz8HedJ4+zKJ5Wii8uYSaNiohAxFwjMran6nI2/hs+vd9hYyknh3U6N3iw5gQXRd7VdnzKZLjkSjYhXSJ17JqAD1F802fT3XLrVVDePPdR9CsBPNVqMp56MCBN2cDsLeDzh35SgDWMsyJf38EN8FOzNLmMA6I4mng/k1w07EV4oBrOn1mNt20uOvpEh2vurpNyUPsfQKxQ9vTocr53ABAa/4ErsCVf3pleSkWuJc2DAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifT8Gk445G/zN70M7ogEKiUUGntVhihIgJf0StT9KPmf9bWDFzHrBupCxRUzYysae3HmvwPHyhICMPfl5Pm2FELxZT5t4oll1o5vfwl03pSuArWOkkJDRIhpSKoKa6KoHOLnmSnFyRYNMl97vfV0NahKpTQ3VL1BVUPCSfGQQiQu9DNqtpFxBWLevmeWSl6feMf/VTFBRgpLtx3HtOE5F14Dw8eXQruK57pyBKIJpoUtHDKAH69ZzmVMPaks9HTWKhrC9IzEjVKnhSsm9dumqVIVgVOCnar1wyNQDJm8mm2Bjff+f7GwcMmtdCa9cOxFR3uzD7ebEr8Xuy4JJSYydphuHJQHR2+7XPHKfs8MNDIdnHyV8RCzRZWVl+3I5Pm7pme/4XaIDOanGSXj1kLd2inSKQzNUPZRuSh+aZifJaRfHd2v5LmPiqijMhTvDZ6yQvXEZl4bLFlkkJlKD7TGVn9eimyGT4I2t+neMDg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:02:52+01:00
+    [id] => CSD88E9029B15C8C15
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAlzOgcMhVzFM0I4fPzTdhMj2m3ngJVZdflM7vS6mD7nVaF5b2/6OY7Fl5azNyWz+mT71NWYIeviLHQlHS04seGlYyovU//NK+leIyGNJCFP80tl7ZBnZxd3IbKMOjI+BE8T2fiBpcphvI4ymZTE8J86f+iMRbI1iyEJuHIMVq2TWGeLPU7eQ8qJ4GRELLJe/axp5A8nzXpGRrgusLyBuuHjIVB8Xz1vTDSCZjJzZG7Cp9GegAJyG9h6fIf88DWOOq+k5TRwTFsy9Q452Gxd5LHjYinuwrBThZDagDPja5YZGfh83Jv4iJhnIxpBnKaqAhGyWzidAMxLHqHxAixGoS04kFOAfqLaHbq1/hhJbscV12Hy7CMvf8UaeeEqOVilmQfNnWgW0NBzB2hQ2sn/uNvDl0zNK6rQ0rj5sicw8fKmb04XaO+Nev4Acp8+sQOyz4IqoA8tY/Mobza1IIx2BydDZqiNOSYzSoh3k9WtAqjIKByqXiip4tLqDu7U+oiBBWdBuZ4ppgdrvQykrPFa1mOviaNXJsD+7FaB8maqcD3YjUZvcq4olCZVc6imIxGs6m3xKGRv0Xr8UoT+Z+f2htVW8JlISP9NUn3rQ420wg/9bD8I1t0G5GXUOlcMgoSjiw6uMoQ6BvqpD91E9Xrr39btMqT3O039aD0ZlFsafDqNBDZyxfqZTEy4Z6NirxVyKgwAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifX+eR10P7m9FF7RANeJxWh9sqsKB1hI68ZIyBkKsHQaRYvs2BzV2WcAO0yvAR+viSzHvlNNRvwVO0nbxzlRTEdKg2h0XX9EI9NlguloU2SDIdFJXyBkDixqXgqsZMt1KgisqA6RgwUWr1ly3uF21z1ggGKmngL80K5lPHaX/ukq+UvBrxARldGuP98LQ1+2Xj0Jbphp3nqu6KQfwQnMHosvgPIRkza+8PwtB7PDQbp5ZE+npH7fYtorJkd+s0zm2LHHOP0+XoAk8zFUWcoaLke4nMqe2Y4E9rABoN/Vu6nbrPM+Bo9V+JLafwG6FGH5PxVUyk/FiLfIZCF84FQ/DTVltDZwTRTtw94+qOgSflRurNPirF8b8GX56b7Beh2PuV197GJvrBJja2Ci/b6H2jBZUJAa+svTLfh/luk8h/+u1WVZhFxRH+dLtKaxppegca+WqBMcinTs0Qd/o36H/PvVzclKXjKbDqrTq
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:02:54+01:00
+    [id] => CSFD959D4629F847D3
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBZxu0GIOjV3/mlqyV92OtNsAe9H2wd7koTEjhXASEjmMGyOoSGi+XSdqDXtUewDbrfCKhLaI7fK2MNewLsvuJTlNmhxGC1oH6OKfo9904rZEnALEZ8hJACjG2V5pP1Ughhg93qQsYcZ2GDTM8rwBTSHqVKaAy1SPKQTr4lOAUfOQpdLPCGWaanHgat+DeOhC7QSZ3+l0jph2S0NGh5L3dhQe7PxPaxN4dVwFANRXACC1iLhpyz1+EQr2FL/TVP0Tn1c+s31QF+lwP4rceSV6QRh/HpTlKxMFCHr0449ZmOYG6/fav7XzwQSDOgdCatdJg14mRl1repGHQTk+f1ppq31r5EOV0v7VZp3ZbGiVhAThSCSRr1gXbbe1o5Cr0iNeToYItfZtMthUMeYH7dAs+D7ji8GpDJXOJXo/xCUg69sJRIo038S9SALFHo7YcyavAlUPzn4eNQBuAE1IzHHha4HyQo31ljKrHSKs56AFwhYfg/5ziZ4Tgx+2AXeQ0Nq0wx4gPFKOMUoBX6g3+FbK8Pt2pme0QDCUQ8Bl09RCDxxHhT7rULIK9xpI+c1tAyNYg5y2fahG405jLhnW6xxWuEKxRZ5f84wlZBbwCXaN+fLGYifUm9oUrTmrS6cRMCzMrj3qreBW4jQ0RUEF90Bl0Id8InWhk3lC79mzJfdqwdsBC6OKbDf11QoKc2G0auFahOAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifc/MOz9vE3MpGtN9t5mH03AJaPVMmzWj2niVszbHQHxjylpftjxSIw5lojfXHmSGCWFdgn50R2AQlpMheoo9MC913g2gjwgVIBmdmqvPOS2sB4bl7NoE8qZwp/iXcwBExUugZHZ+1oEEf63BOkkjLk6AKf4oOsLMUs1U9siVkjVsvdYP5r446rR4JHCNPEpa6SyWaUqHBC6EDyD33SJyPlUKbGBci1J/z/Gwmqx2oeFUvzBBshqkae4Eb6v3d3TEHbljspWW/PTByLf1FtBC607fTieONzIcAQc0+z38T58pwCVja/8kuYp7aUZvWvYICAHz3rfYdnzT3AHgNFHnML1Wd+uoHD0l67cGZ+O3ZszjRADxSQV+8dRW2O7B9qwLsn0KJbL/PnOBDTMX9P5kjDHR5x1JifREQkVzHmwY8mjHW565/mZYOtpzVoOpa1uyENhcp//DQw5X3bKQ9Dvwlz3aRzcnd/TyKsh0zQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:04:04+01:00
+    [id] => CSACDA5EB0819C5216
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCizVTET/GvlqsmZtNzQc4N1wf8ft1+CIkXDcjoAQVoxa/7CdXwBOoFq7VBdlsWH7jvL5MTjlZJeGXEjyEYDUJw2GyWKzo8wWZRUxlygS75t8rS8JMHkg5KYNUlhSVtp4ppu2sIs+FycWWwe/0ODMBawiyhnXbh88wk10sDUHfRUUqH0hPGi3PFzPazB5qogQ7vATFF0iYFyKU7skigMJoaL8h67JA49izXcQbWBgsk63XsueOLEdmIUzbElIbPY9/RlsVW1SK637uuMdR6j7ri9pQIRZiCnpHBi4NR0P81VeJnmHaRRAt/2TxPUQXegZA+CFY8QCt+3LSHOlS9icV790D0985c06MvDr9TiYIzVZIWV7OnfokseW7lFF+C0a6sAwQepAYicfjBu4la9zwKQfzYo254ou2vPl8c47598UfiivGA7VtkZqGW2wqh0dGlt1GqjAAkSw/95SiqE8L9YS4/1cI/hQUEO46AGdLT3NzDElDrRLeHg0MLZTsND9YkRk/8GRuFoWeSznOAi6AOsH+XqKBEvqsdnXVi32zUbLue1sgCTQ6SGNRgbgl+123u4aU5A8OXnrIN/zZcO4vkMQBVZx3cjf7x9qJ7a3eH+6RMCsa8ta3YZUJ8Fix2MZPMO+Jz6tWrt2StsKolD/JnGooBPGS/rPFUR+e5odi+mBCGzKCgcyRCD062HimHjf4sAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifd5Ju/BxxWTKVsuZvBnm7eoPZ7WWGmK5X3NhSXKis6cdHJOqT7IIjnn0joZO+zQgyUsWgzv91MYNj9C8uF3hRHfiY7AOeg4nfJGg+8fqYFamsmdEuflRFuT/Ag5OgS7hdKDZGog+8BbknUbeEUWIpdskw28CPDQxwoIEHbGlhyHGq/Y6fcnyw54h+k1xZ/MrC8nAQgxyKKoG2scZ+ORQzLaWnHwRMOuoVrYMCG4qszXKsLbZNUBsMi5fVsQ6Y9zOkr0DmAotKtOoH7vEEHwbf5h0gN0ZoQnlOGUI0a3BygIf0BigS7rA4obg/zUeRmeM5yeGuIM8dRJ5pbApmDpiRhfBnBANklBcYVfiLqq2IN2KS1DsbOrNcRWc5S38Q5Mq0T+/MmeuguZ1PzcCNm9JGwY2BzCqsZvqBhT62RsEGSg3oRoTnOMd+uxXACCga7s/9ZjgdH55mdNEuXD1O9X2SjuTd0a1fgF1zLpV9FY=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:04:08+01:00
+    [id] => CS4D305AB9BC1A7704
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAADJ+KxGgqiFbb0bDNw8PgFBQmVPev6f8igK4qW874Bi/bxOg6Gln53MlG2tkvdCgNUoOOP4bMgXjIAySJqx8HVbvz8doj6wcODCBhlxYE3KIqtiWRgpEA8M8t1lp7CwOivZ6herE2f8vIep8HrdaUb54PYPk900YG5CitEV7fRAQ5qcvL/8LM3s+ltKkzYnn6Uwjax4x3F2/FiBZSs+LPdh4z6juKqctOthf7YjL/G758+bwd94aBb9W+DrcsEWMrtjms6NRidDce/s/nGFkb29hZaAeub1/DmPqsrpFeH2ctXh9v6sjkpf2SpSZrIafM5EzUuJ6zycMC5fBHKiLztzNOAqdr7+VcHLXtoDzGmaeyj99nNYUS3CS+t9sBD6KcD4ia06MomZ2LnkAXSSwDm3SnacHjc6KFXwvJEtOxTacbqNFvecz6j1Up6UtBatW3LIVJp6+EirLgEn+84NFGZ3qFrXf+Bp3um4YoiSOqXOtPZusF1FlrhznzO9zkaobctvvx0w4HXeGJmr1I9MmISNWzT0fggDa5qeKvV4bZ0W90Got3nZ4NxapJTOgsh88atA8BoJC2aiXrdMEapJLvRAKgiHX9utiKU0GotUPQaimDhjk/NWWUTZbRZrUrFL8kNS3nrlkIWcXaPlQXFdvG2mmWfkSxqqDUUNuTfKVbkhCSqBmE0F1JMTktK4xEEAQrAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifXMtKzVVVfIYnxYBQ4joTGhiCWmvNrPmc7FYaOm2IaQ6f65z/T+WGRJt77IXViD5G3ad8dt6CTj5BkVmcUbanGgMweaxWHo8pL+FQHY0qoTvRj6thRXi4nucdx53OdYCA1nY7AtKzGnvi1Uv59v6NZiUF17knRKuLhX39aBHSyicPr8aP0erHULbctFJVARwZ4AkdyWQWXzZBDF5XK3+TUXuS1XG+u6/apA3CCiAuCfK8ZQmCy/AZGpNRDfMmSIpvhO2k+FfSDWfxaxxXSE9YdkNVAHYsld/+ZZXIvYasZqT8IGqKc2wct6xBesUdV25JbRboG9bXEhl0gDP+hTYZq2PCwrUc4g4v6qCkihM0ejBtegiLlBd81/yjUt2uyeI/3TQ03lX8j7zwjh6GflaIteKsoD1k8GHT/8w+4dJCWBdsSb7AJH+DuINGRQhGQ8q+LtW0ck7mA6sNnvAt0fER1z6n0Xac8rYarU=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:04:30+01:00
+    [id] => CSA61E5CD86C80429C
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCM1k7W8jCXZHsWcFBM8siNkHwXGuagr41XtN7VhZsUsek3/iYVVslSmnBs1WYu7LQJQdylUmbsFU5B5qtiUlxx9t1+S2DMp+Zq4EFzKPsMvephe9YyUBBH4ZCiWfXs2yaT1rbA43zjMWdXn1kMMyUJS2o+XYL1dGOHASoixH7yHOpQphT+34SRUGQg/aKa/0InVsxd9q1dFu/CZ0LToscjG/OSZ5b8gxcESNOLEwyaoKub71uz4b4HVfufGQdV14bskITT3XSJUrkN6TD6YwyrS8fGhibfI0Ro83yiWsgURAqyRCQNuLDVnYNV6SlxuFQgiYr+7xmqBPD3au1LwQ/aa006lVeTgyIPYytQ2gSK3EkRGxmxJncevudJ2Yg7/h4LkuYxH4QEN56pb2bjA9EQTv8l/1XhtTUe/ialX9R6aPyC8AP6B7vy2y9cXDffN4kwLzJ8UTijyl1u2iMd6JMq/v5ze0K8ci2/DWLD7tg80rINrRAYKDWJOVvA2/gUJ4H3eSSA+TltPSKdblAd2K1De4+xSuGcIYlr6h3AOsdcPJeqx65+ChSDFk4tpZdDtoKbZGdX8Rk2rq1jvowYO6KwO0kt8cugZ8hjOCw2s/rFZ52V8nSBm4Hg/ifY0wk7r1887+5qbkOcv3HEBKLmS0tTXYqziiZkVGY2jI1Kuj+sQRBMnQL4X7xVi+P23G2VGcZKAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifUl1uDw4ANdku+uGKjDQpL0t7dzdmnGOCH2kUfsLIkStk5I7hYCc6hmM7wiZ6Ry6NWTH1xaBPnHQH6tE/hd8BG9LT4T62li+dJ6S0t6zruZfRfoILFqk8BDO0122Jq3VJDivwApMtq8Ln03rby0XEUZUaXH3uO+AOQOXlZiLv2IBO1/ZDJdkFHyNOHR+aikaJErFz7qpGjbudgQYcgfZzcRCOAC+1T4cOULTTmadtLp/ealwylkG5Wgu/9edafX/a04vrpsUdFtFUZv+vycexhtggYeObFBc//omO/2+X1TRL+iw1/6CSGDAYJK7jUaIh0Zmx5IaCwTIE6EihMOICSll5Js7S3V5NZ60AdYgP9h+r0gWasvNXlVRb0xJmgJyfigWzKzIbs3sVIBrgkL8+PR4d66IuO23T5WbdrAhOZl8Fx9/rCVLo/cavu6CD6Jje4In1AS4Qtjpw9PsK52JEYD+p9SklB1BkG7ZJg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:04:40+01:00
+    [id] => CS55530A1A7100CC7A
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCE28x2mMS6h1dV3T6XPo5fVYIjSSjC5EFxJ/HmFqzAnUHCS4cjB6hPdbeeKGP7NwbZaEMAjScLumkGW80jld/CRE6xnH/5P1q7l8d6aliNFoIFaLh1LaSGhcZ8gOz6HjqT4dhmJXdfQaj/D6BifELFd5lJEgyXfL/NegJG0ip02TJ2dOSu/V+3BRiz/UNfe1yWuwR469QIpAsEdMRikNKgiGFMC9J7RDU7yxa58XDZURbmqna0WmUXWnrxql6EMTz1u/Bj+DLGcc4GGm2tKkAFzM4jqMFpohoLdehQ66MeB55TQy3B06nOy6X6WoQ4TnZsn6EdEQkG8EZDVNyrGEpAPY1Z3hp0S6XHBH/Yg8NNQbWPRibXV0wkZKez98xhYgR5tVXmiRoFykBmcRPlccEEn2UaKXTHKk96XMmEcTAsboOax+0OwJTQJp/MAGHxWxelK61DtR2DjoopuirLA7wgSGbiMLetYgmOtdtQR4ABZPDZf+J2t2MTenlXTIewBf4gCT32RvR5PBeOuXh+p6mEg+uzzlzLI93TuB5dT0RzG3G3oydryv1NiEgjVeBNH1qRcNpTtA5+LjCcMhjEWeEaYfIIm9rIM0JxJBOEfWuWgH7P+2aqyFVKHfqW9idmUFXOyZmK3FEF0unfl0ap3YdAIOFCnzTqeoh0tPadrL0s+BDAhU7Ad+WEi2lTJD2W3P9YAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifSecZAQztyrDt2BcswFviS86CpgwwerFk2FIWkF/U+S5oR1xPMwn8aiw2BD/jZKpLGAoK5TWi3aRhBosZfFp0TXP4fKQCdKad349+rVsjntLgiNfy2Z+KnVTTlDDvjAjN3wauGyK7D3H5xwPRZgGfF1YyVG0XBh7t85cYZ6g03NlM+tB4r52tuMfRdxwNNDWFb7GJDgV+F5EAepyADqa4rT5mZHMrtZkRWah38ou7AEY6ZdiVwrPgxYQMtVb/D/yaYG105CgQb3KcR60F5TQJo4fVgpcJI9g7hVOGcKU9BxoQwMkkZfu21qKg9cNqVwIDK5E9oZ7j0Q+20EY7ALHh6OJgzF1q3aXXe9QesvNPRtGCY9quu1r1SQoiRA02ydQdrC9L+I8OwYr2tbYw1EDaoF09a8omEQxKy6eAQYD8QZUI9H4aM+3XDjOJH+vYIzYEtv7k31ZLM3DUx+VSYpcvBtILD5+IJwgR7AlygU=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:04:45+01:00
+    [id] => CS68985BF1BBD31C5D
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAu47RN3/HMalbsqTte2mc3Ora+xzDMR/bQox7WkoLOo5gTeYOReQEwZE9jott3jrexcuVXIvEQV+70Rvx1wDNs6mfc2nArZIsTmMwVfO2qixOaO5DjwFCx75Jj1vYKFHoob7ZPtwUsI5ttlaeSlGKyQ6Ffj8MIIDiD58HyGfjBQKEvayEsI8M7WQO8qoA9ZuWIBP3Rpb1i+7HrKXMaxaZ3z4zl24gJn+4M2wDgR+lIhqKYJE90SybonEdc75nO5xVAEZlWQZyC0GMBFgShY5atXYaGyt19UgNjCI/hdpD/G3zAnCsX8ZvVVDyMPJr7voPD74lktsFIfdyBGxU6Yk7pAyh1Mhu5MiTB21qe0fd1cRZNSkfGg3ypHc9GIF6kk8HoiAic6UySlFNBKqhxFVrrpuvt1EE923Z6J6jIMoIP7wTW5Td+ZuUsjBdqjCEI/rz6Cke+siFVtheg8DWnkaetQkpk90MLwleu7wtFLp+ZD3keLdyhIwsgMS6nEMl9JXQY9M0qdnARjmR2jrpnJikzNFfgsie7XHjAxeIb+Gq5GfpxXpAprfMmZtDmp/XbzXkJdn8O/7b0gMZtFpVXM+pMzt8WHAhmInRD2g5H//Ay2thhpnvXo8o12ebpNBwmuSFcFfWo5GECpZ71sJ+ji6tm9J+kDdoRsaxdwDEHeLRmhhDNLE4aOEyjFLhre88DltasAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifTRjFr/OqEj5MSsnYXatzHZDwPzZPbJH5DsgS97txljDYaTSZFx44UN5HfMUa/F1wE3eWgqmn9Fj0zZAC8E4ouJc+S2YFBO9Hw7k5krXOR39xLABFRv0s+njnil4rR1Ph//wehK65Cad2XdPjFpNAMG1EuQUddPrpYO+VnxbuBEKTfX2CxEvhf8+nehBnuilDKZXCShbZKDirEjj6b7uevjw1NnJosCb7kPLTME4YVrpx9YCYzvwPdXwdv34VfUnzl9YgtWKYE+k5Sq3X0FleHyuFZ48/sCYxwrB4hhgG6zhKDKou4RzFsGaI4xInC4eFFVv9OhxuW9DDVYJW3hSGGGA2u0xu/gaZQw2pVFiwEqK/qsiYBgNLRq7p4T35mjtVDVUW3JEsVB/V9Tf/TUyIGPWlg/TA14t+SYOHQKpocMmBfwaQqz0kTnZIAxRBqOorQWfyOhB8n06OHTn+4+r+mNX8gFGwNTwrAGNfc0=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:05:04+01:00
+    [id] => CSE7878F9BFFBACDCB
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBbFDVoKd0HMzdQfIm0+aarCzeJScngHMuHGTx4M5QCU8crQEc9inSrNuDl7m/khqEC0PA61Pice6jg6DDUbbdQEDpi6zXps+vVeRjlYLzHCv7ivVsOWfrI6aCjjRoCxfM1wQgdruJaQsz9QBGNleeNcqmZ5ZmgT3pgPU99PLQFuhdGf9vYyFnGuL3ycyPo4fhZ/lhRmrMAP911qfKYER3A4sQoALuLDT0xy+em7IvlSvfPS7LV1JshwkOORFHlhnCjRSXq7LXUUXJ9vClyOFpI0wP+Wa6NcCn4SjH4RpPbOZAIRN2x3Dk4PB+hjUvsTbG4j73GIB/brfZwMAG8XNJOkyccZVBbJvJzggRqKDBGOTWI36rIgRb4rrpT1S+gdPNpOVRWk39gEneLy8TMNL1jRf+lNZdQMFjxtUdvKs813G0VTY18LULtxUZNH6rIHyD2gy729gLBXcWSOHQa2P6dSVjeW3mkf7RQ2Q430ZLoQxHnXLqAr8X1Vf/XTpE1GIpNrMx4uPd7pVfIkI8vd6Wsgyo6mcvdoarnPwNjTe8KCsFSt8bvJOg3xtAeIsylbzn1Zro9NhtfaCsdD812GUw51Ef38G66qU2j8e488fkd77CyGK4IoRHaNQIi4g3Zuwiqj47gD4cG9EjL084TCNjyeR9udEivAB+1LfzWr+HhQxBIIDpIlxfTYlbObpvC1qGoAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifaS65QWcgDABx0GUaZbAApIBoDdZlCtHGM+b759GoowlpF/hxbfa73mWUrdcN8W1tqcwOUDsak1ZLfoqdAbpkm8WgGMp/EbQMC+tbCcyQYs7cDs97z3gZf85Wsp9mcC9ebvs1EX+w4Wk/o9+kmAPSGHKrRSywsnUiChw5bYCMs2fI2dC6sacZTTySOhNR0K01GRFy7IDhYgfz/MwTNo0CGmuYGjYFsMRQKzwBVW4UhsB4tMSuuzngSQXdTnCn4eGYL0CkWihvSTjOvUp2vQ34j5PpK9WQFN6R21D00YLnfUHyXIXJwIqY27434SO4fvqSimdLPr7vf8QreJo2z5p/SOQJpU7EHZ3sGStWg8k+9pZg+ZbCpY5O5nb5YvAFSqnMGGbizDV5mfkH6nKqMnZiHfJYrJjn5LBpaPhgYGoS6/b5vlWnvlK0qHkq0iiiV4cEm5geAjbm+c5/Bb6C+s/JYqYyyrZtoUPIMxnCQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:05:44+01:00
+    [id] => CS4AA3CCDEE320660A
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBrulrNMATz7/sXxEc2Ruaq+aaLEmjhdhEU7e+Lvs1SRmsZynYY/S3EDetkykoILo5aUFLcML5uDV5jW/Cs++rhQH1FHM9hqrd8QcgFagvNIfuF0FIiOFOAOtmsTzG1fkyrVIPPvRtJOUF2SmoJ4DFxdziusABlGRSRfZObjDvJz4hlBRmw5pg7txmtsO26+NqGotWqlgKGhMQEjS7Q7t4SGJf+KY/kTctr1w37LqbkNnzryV7dm/qrqCfI+REfDH7/DprNbJYUAV7b9so3PWPfGX8Ngwc/4xHsgJLJ/9Q4fC0nzr/MyaawHp1tf2pSvhOU7JxS2QsWdELS8Okszf6UPt5YkfFuMNFZYlts6BlHB72bq3kUPJJqXXujONZvhI/qYdsbaz8BOunZD6PYLy7BuXCs1WVGV2WCnqSGQpdJ3gfvNq+TIw/dyk68i1ym+sf8WfLjKpUDGRILsY1iFpsBiHmz21wCa3/aSYXKiiaSvnx2AY4RIsCPE4fnvNEdCEo7fPH0DkCOOnt8LfODaChIO3BEYC3nPTwA7emSQCAPknkXRMyNoT9OXSZbbvPWulWA7A7PGpy5C6f6YrfdSJyxt5a3IY/LrhWuICGTWi3uEZ3Z5AmS46x849hzYDHS0vCoQi0gRyvll68hXkWDoxSbGJXSVFNj7B4ZLl0tNAk2FBAdaIrp1qQ9PdQjSIwhDFynAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMife+A+OY5MxTfyRV9uv2QIoisUDzqUlhLj6vQOYmH0p0qLfIxiFxFRuge8mKvjru5QRaqVWYxxS3nUBDqwTgj8NNdI8pKP1KchTExzTJHxCfHwW09MfCfrpLvcNWRz0sKUYfK5STmb79yrkW3GZvnwM+B2eINIzcHJUj4OJ8pj7Z00KVUlPhyndqrlsi6+1d+q8pIRaMRJQbWtcOxabz5ACSZ7AucW+jeDaFD44nJzpLnfzCa1l8mzgPPbHY4hwKJeifzyB5Khbl78jEFzcavJBfQulEIGTbmEdxmdTMcjGSITVryUJ7l5X7Z8ONHBKVIM6LIOCjYymF4nN3kx4kjJ8U3fXJQcofE6ke6PyMj57w51t06pEYfG3U+yUd8nX2OAmzTCmiWiJjVjcycPfk+oyuWGU06xdUMThF+MJ83cW/o4IDgUoUwrPh6kWtcugEYWTYirUwW1uU9xkL87urIsg4Cz/JA1XW87h7i1Q==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:05:47+01:00
+    [id] => CS6D82949697CEA3B5
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgB+shM7tRIVS8wm/3ojZwtX+/scnuZW7HNWswKhJ11z/26FX1e1dKsbdIiMNL71BRCMNuESCPsCPGoKpOzwAbBmKN3v+8kSbZEdirLGTzBjxPaXkFsWTvMphVT00wfgFl44XuQkiX/ifXWMG+a8Ac3hwJ801lV6C4NASWjH+iP9+j5+XKeQ5d+TJbq/XrSjHQZ/ncJ7jM55yfR/KnagYm1lyiGT8cCzzi8hQq3/kczRz526JQWA9teaN60SuomBphtfNV8CH5uXxd6TzdoQTXhz/3cOcnp6C46+3Jrxns7AIuK7Q+dTZmx0FaOy4QIjL3L2lzvC2B0BVFJRZWs3rzhrsDynC2rzHyzjKzU08m4c4hYQnBAKDrY7eDiNz0I5wN1dHRMxIWoV+LFXmRSjP1El7bbQLcGw/SiBXY+33bz4GfXzG4DX/ilQB5AIeAlfc3SaN+Byzvet5Wge48nv2Piw3jYZ7Urp2Y6vFkjUpDVlPZkHh1s2/aW6GT6vEx0jpFEkq7NHaD/fnDM28kL/5gqJkHWlCMrjRHuNvJTc5J/3Uvd/W5GyxMEQUOj+2gj1OoOCHRO1jsmI0yPqIRlzcxDBAO4v1EWBH8BHiSjE34V17G5uKVe+ImPzXh3XaGqLi9QyeTG3JwqSu/GO++64iOrsUH8bsZwWPmVSzV8Pc61//hDhHPQGFi88aZmK47Z9LQ13AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMiffQAGOjj7DE15GptWKfh0XT7t0MnGhVMp6XHk6iING2cBrvVbTkkvPUhIAT56uGA0u3N5N6EGxQt7ktuP7bsADJBA7jk8fhSqfOSNABuDIXEJejkCtxVDx25l7CNyiUqJZydxVGA2sLFKyrAm37arZ025muBsM//LgHeq6yQ27qrXeAxN/e39tGUhNAUaNxPyHSEEhXPSCmChmMVeacII+GTAAdKiOB2NVAITpVcPaECqwvFZLouxNTKw8A+R4zEriFThDa19ZiT+t/7d2kol3vgrdxS8BkMyDhxTBedhL0RZIqXm1LWDj1jhsYr2uc79JAMtcam6q9m+xSS1Tf5RlajBMTAEBGIFJXpJbATMGa4XrDzoBGeoeTsMANb33zVs4n6EwQ3eogf1LI5RBkS7Qz331H9dFG0Yxp2AJ3r2+VZuNdowOsL7YvRnah8sQWQF0Rk8GlBQvnaSPS7/B3dmqTfFMQnd1wAqkOPag==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:05:49+01:00
+    [id] => CS0C0717D6A3BAEAA2
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCzU1n4g8/wL4GXmWbOmB3QPmSgYkfDVO9M/ZrukIm0ptvSdDZRCOgSUVeT/Q9xc8lRsR6PcULc20+NclQaz4zv9mB8oVQJZVliyKhbqxq5jeU1db6ZPLOTw1twQrZ+VD88R80CHCJYqiK/azTCHEyqQqW8DFZar0c/PBms0Vw7ppAKnA0977jPxWz0RxoArLb9AWtHdHJ+eMth0Zh9zcfedONB7L43eAOHf0i1ajOQ7zn2keF2v0E1/x6nxr5PfTt/Jih2gc8Bc4EJXS5gTi25+FiCUVFb7D5AQUzk91n6/1VDFZDA578rVxnwARg4jiCKnP0hHUyH2BVan0gVODyiFYwUDvHqCaVI03fjvxl1eHLEPU0YMVXhuf1WcaTtu4Mpy33OyZYr3L7lYQpUgQ5pfbvQ4UMTXDqOJSmvVdUq7XFgZlOiPbEAwpiJeSSaEZj8rK03uowzwvYvzPit6Ra6mVi8+pGVH8gRO7prTvHDPlVmCjoZTVB3+M+rUJpl330Fb6Ok3Fo7tJoEUAChifJirycga6OboRtDQcQaDpDI7eTeWvy49jz3m+3UBtOWAIH3MZaPudAByK+G+a8Acjdw3DLS6J0iAP2msEcY3Ur0mq5tvM86Tje1bObpumj20IKVV+KRy3t5q4eYYSTQHEpBoyuShUEXz+cZ3CNZu9YZNRB+4kqtescIvVgCJkD0ZgkHAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifTaZAl22bDvpsjKqFh55/iIB5PZWXUo8gw6O6VvRH0gyUSiHwquneVVzZh6Tau9gUk3oZ6DjLm+PnSI3jPkqO5+khJrSYFYfyXdswVvTeOUpEu/W/Yvg+zrt2RfLPB5IscbxYNJ7NbQb5q6NxtNQTNqthq6pyMLhb6F6yUul1QZEcQyEyxYRRUN4J8GakN0VjL7GnKS0hb8NFjTBWhz+SpWqxQwv/qgsv+2M70c3varewEmkMqS1ttARdMFtSVBQwJ68HM++u55lwkHkGGIF79Rcx+jYV0VidmzmlhMxscSv4l2SoivLROYdeqIcPgOaUfBbhvuR6WOOGaCFQTHr2PYW18k4af2JXI4yGMc2s5fc9BWrsekKgdBZP37yAebjV5rY0BFvsyQn9nmcEtQhc/6I1TKPz1td5SqgGWYS+2lq9wnV9Js3q+43/J0wY85luHO3aLbxYm4TQ10lbLxv+egdesB4cFvkcCdT8A==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:05:55+01:00
+    [id] => CSC11501597DA79BB5
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAZxBOoJteefYt90LjbP/1iElKXJwW7dfVERGhng714+f9YNs05gmtIoxOZVBS26yn8SuSyuk+WAqCAc3pF52P+PxfWXcoZyf2l9Mz4X66f9kRGrmAsoFY01iIK5XkVG+w66Uh7qcS8asj7hEYlNfnOf21+4J7XWGXk9Yu9h46RcqHZAaG5wk9Yjd+bZPgA63AYPGQZL2QsbJKSiVnp+4Sz8yoVhUBFJtS0z/sImKcpbuDSTc8a8ry4zXA81rUTYxKi4f69nZKlvv6nB+ydeoY/mlH6SbuovrS+umtpx52w4XaEBCg7FhhUBXGWeQNKEU72lVBmBbcO0QSwdjJqq0IPDrxpS8xwr8Mb4xZQ+XDGLCwH8b86SLbzlDs8cxtJcpoDsi5VizozjXeYhGQY6K2B79xwJjBS12dPyBZjjbY+k4oqMufSevo/AIvcQs/AZUe2aTGoLir6n7bndNiAuhXjP6ywBsEETeEtQVmTTbKftwdjPTYoN238Qpp/onqKsG8JN1j9/Jy0cP22ezTFghBHQHXRFlVBRiCXYN6mAVuNFA0zPBrCppdSt2l3UXNfnWpEY8AXaLcoPQ7zOY0acyAlPPHhnuVkzJa0+lJ2sqTvlZ+5GXvSIJd9zUZB3RJ9NfV0bzCZjy8+er0cX1jiPV06bUqtZQIFjeC6qf0a5kA1ORDsLoOORIsV2vOT7fLpNj/WAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifVZ3Ph7KibqsgbBMQqvx+l6EYDpp2cqXobOM1WUIDsm4i0UDxKfzhZ0WRA+HHM6oqY8t2Vnxl2eBrov/wIxViyubvlp8TMNDviTdL+wfFqy9cHvkxPKAspP3ky+0FMh5p2dz6Ti4SzHn7zjAP+7SL6aAi8EncIMwM0w0pCvoSJ86Rns/HzlEQS2ddBhmtM0qxrTZHFA/DQTrsGwoiVfuooP0qxdJKSse/5v5ojnjkBS4vKjVyhka0yfea1MRjnueky3AiNqwF2yegx3HtkpI/ZSBvBW49zpSnZtDnydb+v18nqSj27D6NgOn/wwxz1+k/AUFKB6eGYSAbV9dD9hy0UPL7A/smgs+uioZ6ubsDjjiwElb7gPZdx6zGy1yVuwDIktqo+UbrK5+xI4mVFvK4Vwq0zfyAbI3qp+L9bc2e+vA5pCBSimZmeWbaK4015YiddV0T3Jj0trj6wJfSVyUl2YSusMhPJjIlAaRgEs=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:06:10+01:00
+    [id] => CS695DE35E7FE6A595
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBmq+CYhn0PLy0VyW2QpUY0hUc+dcmPi4mIYRau8PxGA1y3KDIom3sZPDuPZ/UrfBUMEGGUWDENo2P/NmOzTcx8cIXuNW01P35o5ziRQjreFmhq3k/4SjZYnmDA2GP5CDZc4KQsNpnHddfEuII8OWYHuyw2xsNpGLhLNxYCtnCTR3Z56mSnApNinOBqzpZxxTzrF8Dl/HA1jywWZWzwrvfPP8q0MY35MKPbozfEoP3e1DmCQibUiJyQJ13Xrnekh5Av69fA/i9sSiEGIz9LSM7AfpQuRsl/M/6kYg9pn6u4sGv7ca7pMO+QbPmwfAOIIhLAmpNUO0oY1UbFnWJFodKumm4hnSYhzUckuTnkAytjxnQ92QnOR12ZvpHs+fVEmCMadQaNOtm1mavsSO8RwVJNbCdGZGi4hNkR7Ovg5B6pR83KDY7B+g5gbatrIKObUM1vQYc4v2EslZ5dv9HtZuA/v4AEjcflU1BQuUACrLmFkxn7EpeU/wbY9sXZzG/1E/lc2ssQLqqBuFExoTf8rtTM5/QKWiNJSht5RR0Q13z7heq15w34l9pADgNnHva0ih6lOedSlieeQmdzWHW3yNUKdCsunha/6gplKliJB1RImnC3UwCRQsPcggEDiCAQVnDlQFUSt5wl1q7EHNwKEaKgWp6jfu7rLxxyzQT8/cKVDhBtMu6BBGzH19YvVzjkTO+mAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifdgvfnDUoCzBChCHy7bvpq8mlOVMjAANbZnhefdAKlWl5f1qjIA9k5M+LWTtARqthzMSylFCJnksBvL+1ns2/qt70oiuwYTDLX3HRBWIwlGxhSGIZGOLGcyMKycTTcWyAcXJCCNy7TLIjkyM7ryKMrmZ7G1a/3J3xvDtyhqFHoa6zXvnwoy2oUkH7AixGfBYW8fSJuZSfQbqHsxStr2bsveC53YW4RCvxFzrjB/pBxk77Hb1yNWGs7bLh+OsMTk+GZ2fGir5OHqMF6TdeBaSrcnPNR9OYhhREp7+qGinY+8xug4du5buIoIfjpf/IB6TFzHAVeq/iTNtBFXjizLfAdrGJ0Nc2y1BDLRstd+xXn+TjiHb2DU4JqWMJJp+CX1rInZZt/AeDBTdBXcXrjUyotjbae7+7MUCsF5rXZWJtF3PVU72afnGx+2SPDkIyq2l+OdLluqz6xV6nI3ymXzJyve2B29PR9iajGwPZtE=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:12:31+01:00
+    [id] => CSA818461D6845392D
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBAtcXjg5izZap3C48zfZMPfsgAmT4m8T9o8YwurLK8zZfmdEvwKRyOtafHQa1MMDfpyYS7s15Hk61E6jkETrT+X++redVoCCD8hvUzSQ01ovQfvIiA/ePE3srIUwfOCArPoOBHoGaJGtVG5adtRBup8wZknqJ55HQhuL8x80XEgJ6uP+rCqQK1ALnIbSXV0+22lzPl1E+t6IE2jlvN04MBej+ZBISAH8l35eWQF3whAAOZVC2A04PEsIN099YqsUmWApkmzSbrfudCNIikBKqYS9NC1v9kkQbHC+5GCiiRwgYTRUKWng4wJq+rDTJNHdXIhw90fUwkaIn3n9KCk9TVh9LMX9aO7BE2yAlacV1Auqv2HqzNmybYtjER8XgQkteKfK9IdoNA297jygTkFEgh9esHmMMZ+xPzpG1j5vohMRWl6l0seZ9BgRUP1KqV/50kKEXgnkgYTaIO1EdayLqDjoEXYmgj6LsZGdyhuMAZqS4nCqdUuvHw1We0BYrBzFj4uiVtXKxZPwLzVXaeRKc5B6kbkSmqjKFl8hVIb3z4WWcHEAX94eIqvRvxMFpkSTyRBeIew/CTvdnsVTu+0Pxe11AoFXRF4NuauOHMbSqJ0yLxwaIDx2LT7VDxqm20/+xnFAzpbTpKOs+1ZrHj+4UjIxb6Me19ONZNbdM3WZg0kxAI4WFoGcG4btlyxXonIq+5AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifb5xL8z9CaSPyKLHtVTFarn+fLLQDGJErMvMZgLUW/1ErIOO5u44Kb1iIhlxVOUN/rZboPpxzm7yizrQTJMddzJixGvGjPvRy6dONcNjZEPGj1PUBX7xGU+2k3qKJZhgBeyohdRbfSIGqvx+K07OB36kprXQ4t84GIrGbBT+WGAztuKjpDYzcvuSxQQU4cw5XS+23+7nwuISbDuvFwpfRr8l3M/df+sq9BAfKePKH5QIbVrWux5GZ0il78pQiEZ9TtuLBD7W+rVCCa+0KYbXbwJK3O2XJdcJrQhKxNR6Yg512ihOgUbJxg+3jabrjzZkxmXNmvYeaokxqeMfX11dAoybrw1fmxbTmo3qa8I05qeBtwQ+FUT1WiArYM7x2rLkm2Lu+nzZu3ciIMfBs/sBGKTws5SCtsr2ppILmXc9J7pO9F/dxPMyrjXs337eeXXji4xFwu5BgUhxtg/5/7bvA9aG8gMrE3FPpS5WpNE=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:16:28+01:00
+    [id] => CSD7E1112B688BED18
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBoauO5ivbqvGbSJNsIA753vFJolP7gFic1RJ706kLsXt2kCNksTNNQZkhgCU6DpLlwF2KlwROisWo04uM9K4QIj+ZeigGch2bhBKVdZdOReB9qCKyXu2DlBsXJ1rb6i5Dmz4DTMx08JscWUhK9ygekXSVH0fIPIcFsvvYqC4qSUZlxeUOjSVPnOejUFEUIHy4DxbSLtW5NtsORuHz+mCTo0oFuPU3WbOf/mcHJH9Q8EAIW+xZ7U3tHv5o+h62rFrCM/56C4D9OkZCtNDXNMiz/2Npe8detfdm1uAaQW5UAo+VqwqGT3xoBelHifm9+f+f2br8psV5pLr8bBOuxBb3p2uIRHUmx/hdxaROuczRVuXgPgax6IdQn3zbA60HEgD1U3Y4ryFd1hFRnU5nWZRIn9x3wdcGUyteB8L8STvzwtCy0vzKRZq+mi6riTXS/weVhcdFIlqEpF7jPeAW5SJkMyTC7SIBwp8Mi5f5LjPxUzvq5PcpbfTs22W0sYBTyQFiw1BnlE9Jpfk4lHPyXl+I4zcc4B6dhmOU/XKjQcYErckFRLyWtBLGwnvF94inzWyebeQIaoikRUj6DGBFHLtFyKz4HbuB3zC/k7GvpB0RJEaMqEruAdlDaLQGCWm0d7E0QOB24ullAqDe8u+gwIuDZ/3pn7QXpfJCd25iRTb4nmxA020KW2CZid6FF9wxeAsuFAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifS25gwA3OIL9LZ3jAm+KJiLiIGsyfw95X03ONiQyYY4xtH3r13gqgICz7nwyH0E+iDCYJkRDPKWwJ0mUqQF/d5ibbqzi5WK4LlGkXd9Cm6b5KaJpfEf6PhIElvu88FJOfx+A1ZdNCFLoYCwhjM+8JDFW8A45gWTQAR5mfKue3OZPgRQeH5VTHxhiviBMRE40BHSo/qrBd6r0mi85dbzFkk1M9NHlgKJW1L5X6QLAaztPqGuNVGmEZ/AJUluckHmc1WXLt71fB9tq8lIT6LpZfnBU0zhqmLMlRwlPHBuWJ6n3gqCIfh9wSKktL9UmZ9Gp2pqVOnhD8vVllSid2kWw5GRcQ1yoxjHtXTrAUNM9/8VNyLo2MMWG8sYVda6fmvazEjk8A+1CZ73jO5vIAswp5fJ37E9hAYtgQ7tOl/UBceAmxlFfDmXiBW0JTH0btExYdnQFaoxlOcrV8Y+xNSpsebUNdqHL9xCJFCaGeBM=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:16:32+01:00
+    [id] => CSB37ED50A1740DFA2
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBZ166rUF9r6eBrYJ4PQYtfwJMazjCRJXy+MdFOFr4NDRjhgXDOoxMM0+Ih3JRHwf9kd2K6f5cbpK6lYb8ariB39c4ZoNFzh8BKd52SBZX4VNWNLgvaKIGjIHKPLxESE6AmpBhRWnYd4FTS9LVpW3sbf0wquEKJxhcA+fqWvgOVwD9wJComQObKNr6qxF1rxnD/h0HAZEqQrmU3qohb0R6AFmldEdyH+UcJqsjkDzRj854VFuTljOHX8sVnRjZdEF2QVLIDNdlvkCBD3f2Zdrq8ZPbWrt1NaJ9hAziiMqambavk9ldnT7aYfUoHtSTCd8I5xE2qIm5n4PjddGbkGjn91Rb9Y+rAOPWP4aSdYiAn/HgIaAuSooHVAlyK0VVTt0gwHdw5hR0fA0hKy2Ysl1NuP6VNnaLlbaYtIcQwgCdaEXezEqziWmZkHkOVgWOBSqjaVSKInZumEs1iTKpIDYSl9Y2o/bGYSIQD13kU15yXvhObTb115vc5zYoUXIjyXzitplIaL5KMB2wW04aNkdDLUxxmUYz17nbzB+TWFJhCE6rbPdMjlzJb79ufJmgMC+OuuSrENIvxn+tUq4AImE8NAOCyoYlI9b59YSl7nYwQZ9ZQFgqOVf8Ltls4MUYRHNyxDF+JiSLFHZZGHYaOz2aeOFa/z7tbXlnS82fPmnZhQBAQiYm/Md7iJy4wOHzesLo2AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifYMsy72of1jBNOfl0JmEU0eqXuY7FRuNDXLHJsodQd+BaqI7c6R79u+33fcUiYpnMfmWimkAXlONRIQyi0o80T+9I875cI9m380yIVLz9vJQgajWPfDl0OCP/nyKoJxb8vgK/qgXYqSxMycEi/kUQlmykPD3JGkvEX398swNu5ELIOnsdhuh/MM+5S8u1kF3W7g1I/hQU/1YlZPGYE6tNSf71LX2+SWwPpmDVXOtL6Nz7StyrTgFlfdeJNnGWU6kgIJbg7Kk3+r6Gvnf/oeu6/zzH1b7+WjIURPxPIceu+FIJxG1xbDyjUApodsz7vHJdadevRYCzPl+Kg4uZBe0cxTuyYoHMQMRWGCts9diX8Yg7B0pVtLvq1Re5PiobahNYOkJjkosMHuM7hKwjen9NAJHVNyV7Fcl5Q8qjbo1YKnD7NpgSUQpXgNtZjInKNwFVInbLjic1SG5SvukzGLa65l3jzGcy5/wXsSyXQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:17:00+01:00
+    [id] => CSA55B86DE0DC9A46D
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCcgkMjTaXWnKiYjpPPVVWav76r4xvNzSAThv04cilzYj1/DowtT6+jffVg6Ar5r3UPgzc4lFjrMO8xWFGCxo8Ent4qUSqMPLxvaQdeH5QSxSj/9maenug0+gI2tFvhZ/yLYfE/yPVZUThFArRbyVuUaI3o/0xi3mQmwTO4ckpkVaI5pKV+q179oVwbRWZV1GcrjkR/VOrxUBLjNOe9CVDgTqFwwueh6eJClEMLZfP4/m/p3nUbNIIhXWVSiHjfb2y9xI5NaufyU8RBBPHt9CGqN6tqO1fCR421cF6RZQCTvHZiXswK23F+uSy2otuU3p9hkRyeh8/m4cmtRmkNblaJOtFBxq//NXfBlqGVU8M6vDSL39Ls/aX5C8kAc0Z3nKuAtmOVSjmsqoYlQwPCrhnBamg/jf2vfAuxAIqUaXR3EktoOSIsZCSQKsnrMwlQibBGF0IYclnKUoiZKxZQIqGiGlwlZdcrGIJzqeCPxELPkCS2uUOlVT6mpXOr3tqtdH9vLjZOp3/mmt4UilVZKHzmKn3bYJ6HvUS7lGu8euHJNPVp8of+j3xQKST+FupMylY4QKOOMnTk04SRNACO727Zgsu6VuoGzi5Nqn58VxL9s/lxIRvo2ZTyr8JU3EhjGVSewaoqR+D6g+/+oM0+fflNEoBAPAfqm/LNjLkkuYKYNxBbTPQ+CR2oknja8gOgJYWZAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifb0FS2bEFzAhUc/hjWZA0DGxNG/P6nqbBo1dMslktAPxErAYpLI0jD4ySgceSbZIEH2PvVf6VcBulNboPgjlZvljMiW6+V9O6C9CgCM0LZPjYpvlHikhRTfcyHYxwKOVeSqTJ6fmg5A0N/eFGVE0proTRa8bcpeROMDboaXQMJcanRcZhejQ6fmgfAV/CCntfH3ClcBemYvvE0M9aX40dRXI4NNmgwdRZ+9au/aKA0hTFFLWhl7FeN9cD5k4NkTYOQ4sj8XbTR+sniNptrG6XOusIoynKi67TLlTpqR5uLPEY6rmrD3c6A0MiYbInsxs4vftEUeWEzjs6uZ4XFzOOqNER6Q0DfwZ8UphjAOe4kYjPR5trgXxvSr3+8tlWF/p2i1veVrLFdi8LAxrCUv+vWPCePr+kF8XUBb8YAhSe8jl+Ll2GjFGpu3ZRquLsUklkhaqBoAGvTSKMp25iX419iSOBbp0pSzIf17rAw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:17:03+01:00
+    [id] => CSC368F046509E20AB
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBfHXjXDfxo3SDpBD75Lsyg2aKLmCdhbhFC2FUGbh00qaOzeLt7y6M4UVH8xLlj8ZFEd3kXvpxT8dq9GnC5fQvymZSFh12xzzjn/vj8PaZaCpWmu5U42eQbKicLBBudLJ7h/yGRj6omlEEtKCiiqvPjPNYc9z/KJ8YjNBnXWl0gmsBzHpkzp8howVfDsgtjyVpnGv6NwP6TW5jllIWem04BtDjRaBXfvhIVKnlngv9piiDz9+RZHnXwWOTwlh+VBDjWMODvy3vXEUiY11HLmJptvLD7vHqe3I315iNty6uLtPqxXyjSpDz5WXtpD6WWfxP9xSdchQ5Q+tJ/OZRftZyWCFExJ2uLsr/b6a9J+mMedYJ4EFN5ptYP7cgxWSgpwQ7Y8cnml5nY2MkzkNJ4+EjWRjGc9yv1UyizRbimJsNOpFc4pbaf57tlYZi8OLZwx0YSyBbHzdbrkW6gbgULtqbiYzlbRDO7J2axENAEbsus6yyuBZmSBS6lZh7ABDxO4zGLgEdf7uuZnyurfjKxs/CZBJxRDh5ZfVgcQpQ31d1IbJv9x9Pl63pQ1fA6z1qJqOq5ZiiF8fLjk97dVXdofFfz+dkxEyy9OtQupUJzVsMWKQut4x4Ea9cKkTGfFuRDtxUlYM7KXPbVSPDeV7opx9zqF/GX5ZxGmb1OwBl6k636ZhDffg7X6WNKmX4WXpGg+Eg9AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQikeaiGJSZm+SJ6HvhZ1FCvzQ+C5UOgD0O79D5Dx66WiFAHggZ1H3lmBNJAQ3m0aNdJ9L5GXxCxuN8r3UWxQANvJxBjqJM5uZOcAdxkaM7XU2PMiYjtX0mQJLr+5yH0dCJqdmysNEqRMfObl63BMtNuQSdEZHbirp6nT8LeBnGcIzXYPxYIPyf3SMv45Sy5C8fEVMVgXRv9WuFYKxnOaGV8CUu+CAX/17IUeZ+2hrPXlJzKx8Qoch0blImBY5AIaYWoNqJwG72mtlucq6PknTINqaUy1uvgxX7TbrSVJslb84DsTWLwrooImMEHVp2bp4Y1+96vTXYOUyZ0R4+Y54BpqJLDRUNEgkGbKVUpGJrArQ9oqFxI+h3PNEyMCQXslHa/tKxy1n4b9sKh/wjprDMFj6soCUk2w++IfH69UNkvdK+VMQEWtdbpoJAujXiZUsmw9MPefdmuVLQOzCftwcQ4GjOD4cNqLRbLHQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:18:40+01:00
+    [id] => CSE8529E1414DEAE1C
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAYkQE1ahmFJG7M2aclzoCI+mI/+v5Evo7z5EVh7ezXR8CS177lioKa4ylx9TznfKtKi2EG79rXKDQ3KowP7wZGEBO04wrA8mJy8scy/TUz2opnZW8RSq75YCGz7GLvY4L+FuMR0iS6qpGUIT09vm8ZvKbqI4Eitt/nvIZukRKsNye3C3cUulxG/2NDuNQrmRnIUdsdo0juKdn1pgVzmUy+1TU6rVJlYAYXpLStZDGKb4v40PE+P9dQG7EDCD6HjqyAH4+kDwKVIJaCc5GUsMfS6mULCRhoDKzGTKQHlGmkC1r0CcWVXmeor0xyEv41aoRUlkurT8++TJY9tgwMwmI3T1WTWSiOWcBK21r7KbyqQvBFxT0x5H4vqXzkXwy/g0CuS1BwIVj4R3yZm4dOa99zXfh+P0HfB2RVRrScov7ECxL+E/F2nPBoPuoeCuXRFCHhKvqHbxiuM/8bgsDpXUd2fcm6v0o61WKmnmasa5zdy1PkBGXWKuNs2WZeUJqTPJ/nZ5PGWztx+YAm6gu1SalP5VV8jdEQUO2GjW3ZU3DAgq4cjqt74zJDTnJWk9uLSHBIwM0KWZ/u37DOBKEahCeABWQ5j0Bw/+ofMmfoEdyV/rS8NWOPMvb0sWymc0CHZkI2UXavFxv36KF0ZAJqSoq6SsdydNU7GiwQgwHeQjA0sBAtv1dJnDgxkr232Gnq1ioQAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifbAlbqsO2IYwkwAVg6HHh0ocm9ZxiOSK7/VCNLMGk2XHz9EKIybAqhSIaitlRwLv+e/39M1mh2rWYBDt/lO0Wjbl6IeUOJYyL7IoULHjuVMwHcDTdUS+Kt/GbloZMn6apZ5GsjJGzr6cYuFokeaXerMRX8n/IpedupjU96xWjK1bkHqHHvZMqV8L004Eud99CPwOTTD4Zt4e9RKGMpLAiXksExQSXRYs1M9snSmHDGPARDT132hGqwA7tDLRoy6YSyOpjXauflZ+mDIIcGo2xRd2wDeL9gcGriov756HmyMRwx1TCefuQN9Eswszbha8mnDHK45MQxzZv6MQvfhvk8RsXnvkJXiq7R6x0ZiQxvXKiaKY/7o60NfA/UbudAcXNXZQPon2/xoWvX3oLy+2qT34fjKZIlW6FQVfw3k93pQWNq4sUmuzlKkA0OnP5vxh7/JFdql6CcUAWRF1fVMAz8UZY2sAgl7HXGhLXbA=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:18:45+01:00
+    [id] => CS3C33A54E37C66DFD
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBWGgRfDi7HIJUaTpc8uRHVQdUDrpo8JoKez9cJnEmqzS54RSnvovGD7BkU9XJlyf3zrumeU95J9Y+Hw0wS4kg4k4agsl9dpr+kCe6pCDumOYOGPaRUfW5WLTS/Pxcv9RqBiyrSSzL9U/zygCkg4G1Gj8oyDhXdB4tKuMMVWEU0gStTa8RENNX/4G6pYgQK/fjFP6kKD1zWV+X36YCR59poY4LTRGGwkWQwClQbbjejhgMLxXxFhg1wqYEu8qWJuMCD6R8pl1c2HMiFzCgCsSJ3JIEm2G2+BZ2lOtnyuJd+I0O9LJT4vrVZTmtVs4wW211NLffV1XLthID2/7sPiSqSmgPdIwipV2WuZbnGYsA+MMkuEb1guQmSDz5aAOK+iDfdHwWCO6VNSfGdbitqZxkyw7pk9GuHkJDGOk1xdkt/Br7F29M9bRHWjeOxDGuclLdre4X/ALxfVQ/6/MyosnJESRG0+O5pCDTFOBf9JMKOcaYuWS0HT997MafD3VEJZf9oK2j/oIV/+QCDbQArdMwgY8SooEyxHRlm0o/3p1Squ/XU44NZ2rSwIAyVBByNtL4Q8o/4rHe52VKKCpyYYxpClolfUTHVt1EI+L/OOOJz6ufo372GkLbEgzQ4iAjhJaWilq82RofPaY0Jh/BPAUQrzDELvYUlXZF2aGA6HGn0HRCk0X7/DJtoFIAvFoMFKUVdAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQUerOPgRTJJq2E8pjSey3EAQZyOnHzC3sT0cx2NjiTRhy7DmPl67E2GhYPVCwFKlUwu+29G5cpu83vHjhOQvp/aFMVtfpq00Vg+TI/G1RJo/czKXbgJQoyDF2wnko2TzON11b4FWNfIU5jjGe3ClM3lWBWjmxFZU3A02aTG1nCvQNqBMdV5Bba5TTo4Y/39oit82FPI+5AF3MH9YYGY7GCGy5n1+Co1Ph+oyVb6t5SWzpCSfsVTWe6XUJVENoHRiNZdnalztEfZe4++axlCwSCvCzfXHPwYXViAExZj5PaUiDt0qHnA6gjrymJuuWnSCehUd1M6DidIEvFylbURhfdd+zHXFaMflCe8KgieEeWsdqMgP+RvSVzJ3lPGWOLEbuUKhjKoRkGSeS/SGkzCtCl6N4vbW/Jv3GkRoF72gi4VW0nd3YD3tE33A6IEIyV267t3DdoBYaGWJXUKY6i+ggnsvkwZon5AAnjEuA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:19:08+01:00
+    [id] => CSFF0CEB1360AAA75B
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCI25spwqxJqC5yhG6fAnTn6uuaIqNNvy8BiqFv8FHefrDIpUTkDkfv633ibs8PDge1XvO69BS3oxzS5gqtQMJ7mH4iRfeVtfjjMV8ka+SXp3SZPj8m43wicaAuhaHsBXiWODMby0ad0tCjLl20YjLk/Ovbidm0vY0OpyOUlGtq+BIGLzvO0dk1NxHlj0GJroLRCq6NBlQzbxnacTAoA62N46tzX09Jt9DJQ9LkNF8FhEHAdkZdz8tY6opMb42pkaPvj/hca+rO/KZGmaVNcZRuAV2q0GZuQBXPde6uY0cWSf/Wky53iGqFXoDmP+8gB8XggEetiVRSCWvGRP3kLX5uOGTdxQ/UdQ4jysF+96nK26/cBxY9rvtXTEHNRmjpW0abFFsNy5gu4Y/yUrX5QlLGuySPk+xEG4MKyrmNYBB34WWKysNxoXCFPrx24JBgAc7dV7ZKYs2/37vhx8CSuo5e7dp7Jr8pgOFcxOlgyRhxUJd5rcSoJF7bF9QVOkK8oqjrK9+TP7g3XOKy/sMhelvUtaG9SDH4uDdutMCTfDgTfvSu8RESTpjoR9cV+64n16RTSB6h1N3KKOQPAsdTWOZl7WpD74WZpVRYbr2AZhzXkrdQ1LGHqcS+LR201u7jlm9pFsFt1EhvKyF3+7af0er/Tx4LEFVzV1bbYCjx7S9dnhDJObIhIge0dXsxHDtCOhZCAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifRXMvWYRoOYLOVhj+ApZigefZrsaranhL8ov8y6Xp0PL8OQo8UhRilSHKr13hiOKMVGytQLhNwVfGgRJFAo9/NA18U9pRaZBMhigMp3IVzjW1oTAmkG7SNYJogTUegvXMS+nxbdKw7ohnSa4sW1Wx1ghNpLvK3w27ssb3YsjW7m0PqVUdQaPMViTXARR5YoGnuPcmj8umgZRxnLai+ouHqSSf8UfdwKUwIgCh4hMNTwT5eHwz+P6r1qOSFI2peR5PoiVAex2LJfMb++LNAsJ3j5N3COxtnUV0OPm3jL4rQR70VIWnawMahAkhLL7pRA9XuZQpvMwSumQjes+tiKZc4xumqRnAaaNRNc5Ya+vDqgQBRFk1nepvZTn5lW4JRDoMmjMLw/5jNrQQ/pLJYhZmvV9OL0fCqmR0szxRsm+y4BEXygPiXAYRegrdHY+x/vJqJfiYdB3vGN/+F2W7zjWm5JMTwvBXlL6jsx0Cvw=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:19:34+01:00
+    [id] => CS29774575407A7373
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCY8DmzaGk+eHDyV7NUTPsaFfK/a7DLDZ9N1K9EiL6WWiyKa6or4U1Asz8FJsxyYP4fMu98yl5Rbgg0aTqPqSiQP5cUKgaEMQ+jGywxyBs7mNQ3tRzo+K8AYBF6d/5Qfb7/h9XlUUwB1APTfJDi9UJMDPMnRI039PG+hDy44qHGZXxIxWH6ZItz4bkBDkthcO+jeLT2RZOKD8mP9OHQMul19o/C/08CkC9E0e8DQMM4L684v6Y9jCQJ8lSkuFeCv+dNrblGStcfPldWya2QE5UNAmmfpFzBfD8fL2FLOlnI3DwlSfIdu21lnkbgM6jPRZogJ2fm3qtmkkwGbMIWJAZs6+/h94txDrxDJkNI6gmvpQstCv+PfFXcOdXImfYM/n0awiFW3LlZw2uKLynkuRh8B3ACHGkdVTWB8tmlfvckOQbCem538ncfbICKDCa6EjK4nFVmVt5xAvPSgjLJ9/WDwI92kT45lqmyRvZMli4ywFPoiq9knZVZ69xAglBhV8X+DmOpIu+tJr2sHbrQ2WgmGz6dm/Q5xRj6wghbwqjaTjuPGZxg1TswVyQP/GOxWnNLnJo/nYiF2bK63vZMhNcd9huLwDfPfRWKhLiwB/QK2IB0gEnqOsOgzvqHSHGH6+mcjWwaIAnFNpE+zEZO25pc7DFyOdalOxNVIGBS3U8+ixBewpeCDQVbr0xji5ovLjFyAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQ/O1BIspuKESHJRIYvnFgRtGzz1pJwVQJxKLzWpoR3KMD9SJ3HUj+IIdYGjUWivLEySuY0Myrv4YdCZmJZBhzDA67qc4L99Q0u4UVXPSWEUQuBwzrUhh/k8uCiVmTYvzWM8URokifBTNMX4TPIx/D4D9/renfpsjanIIhX4APL31cXhA3hJ1FqBcKe7XoGfqR5Rjg9ICQ7ovqk1whFiwoMKAcPF5Rp5Y5OuME9VhxGROyrHzjdrpO2uuiuCyPqOFkhTwvkSaY+eMeXq72ln8fxOpEyBdVuOYPP/SugBcR5Y511YsKOTXo5KFrutu5lb1Q+KgVbdQ2MueaQIwIXeUW0kpMRacq3voY6+c14D7p7E9Bh72ORD4DEtuiCTrBdrNqLNqoc4+ubQ1lv3xWygjBv82qzGCZgtTxQRAnlSCBTWPBQbEHmNnOsitH8R7OhXWfITtVmTAq9HQ+Tg/8eh41tO9S2+Fk/3+rvkKg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:19:39+01:00
+    [id] => CSB7715F0F871BE9DD
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAhSq637V8jcO5CITsykQlfWbWNs7dkDlZ4M2HhXN+my2AwUYXVPn7WEhe9SaTaEoouTlRsrup3go86XqR3pV+UNv3AFfd2B+HpYJsiJAOWdfx3/4a3VDZtfIEBJi7iwdx3hC3/t+IlgzslB2r7GWoN0ynOL7lF6tSdzY8HQzyk+2LHFF48KxBG1iTeOawlG5SCG+0mhuRR9DuYCJh6uzDlLg2xhXbYFjfCwg1v8oRSoYDDIyg0hoVCkyxvWGwsEaBwJqstdLHHOZ97Axnp282d+HrxPu2twf7xYUkzkn92yLy0kRCE0aWIjldlLmRyv80PTigIkZHQc5JHjUeRL6FGND5kS5Tlxw/fzUGa5iMINeZCVxAve7+dmL1t35Acdzt+wW/1gP1pYKlMLi1/JPcorZ72Zv7nHxffypG/i4kyotEybI/bwgyE2pANsZT/FknII3qctQSW+kCGPiUpBipEiAgrqT/0KyYtgdJj7wQ+4Sort+pbTNTbSiUeG+W63oICc6+uMuiyh+ltynrSFY1rrkm2CjqHKRxVOYG6a07IxtWZGCa23G/+AKhPOGxGUUW1qIkP4crKIpsLHEHdjFMIXBXwIXrq7r5U1AaLuYt309G5/Z5yzZxuXoMCEZXRieNmWaUIPUP9Hsdd+W88QkA5f/Fwktnns/bNEhwacFLY6hD/fWyWE8JhWMW9iqcm8icQAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifVrAWP3i2nV12ITUoxpfvQZfs5+Anq+gUMwmlTZRKCXyj2GzkfedsuuyFU2HgIHpbo6/PAhuOrRhBuM8i/VtLhneoQab7calie86qD081OLvMnpdFGRLD5TDJsGU7PmBVlpR8OKoBXdQywUzayPhEUiSXhi+qNVOFm+EYm6WCfzYNzoP9VERe//r7ComiFZRFLiN4SyvYWGHIy/GZid14KJgbrA/VA/nnN+MsJ+PxkHSb4tsKKW/snmu1qXHACECTS9Q1gXoRIagYpNdKS+BD4cn6HCTKf47ZNv2x4xvSPCa66/n4z1InMXslnqEeIIq9ccK8cI//9oqG0OtiriklqRGgI5WypsgmZ77/sHRh41dT+rTqpQnJjInnECh82BBnfvmSTfuXmv+dF+uj1Ferkb27ChzDyF2dwdlB9o0IigYA0leQ7FHQI4/kvGJYYQfc3A0oxlgO3dYYgcHNxCyZejJIP6j+p+cdR/t
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:21:20+01:00
+    [id] => CS48D8664F8C995147
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAX+syrk8zXJn/vTo6aXvQzbSCN9g0OK1ezv3XcjoU5qU0UIoIsHyO9OVA5QMYDrD5OgDEF71xfvkMtSQb/Y2hNGjImFjtLMlX2qIeOSfKBxhRPJuDp7x6ZqRY7rchRCuEuoOkZdEfQuSiOGtKG79IkwBghCbkgCionskS94H52Bu3+rhMyOgF8tg2T20wTcCNz71V9guRpwOwAGOIrbfud9nWNZczSH5XThp/NwnwlvsmXsbeFhXJA4XIb1CLLS0REPKqmmhR8FsyBivrMLZyq2gC7DMRX3Q4gL89zlD49XxEPiTI5YWfK6/2eAMj4kA8qXc7nXSHGYjiHnuRAQTT9wj+CB+VOsgqp2H7eerSgQhlyqr+QLZED2vd5yi9HNaM8oESrMGK0SVaC5NHl/CsfjuWqo1Qd66M6KB2PCutSl+JOoLoB8gX63s5AOd6v5tNvQD+N5C+Qxeg5+as7CRcjuD6ohE4OEMc7nu0n5Id81J+W/I9Qi75IWR6vn4eB9HQl+PtRWzZvTJY0xzFeB158kFL4XTBJeJWRD3MFhYRJGSWJdwtxiHFTFPLZmlsVKP76UwMbsn73QMe/PGUU+YFLefq3GNZZ6UBd0e37LlSjx2BOoVit4F7lply3GFsV2BMUcqFVOqqo1vQ9vnC0RWjlIQnP899j3UZZVtmfj2CbVxCZ3JtWcS8UVXHtQt1iUni9AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifXzrN4bYcuNV8aMyDVh2AfAsxYtKln/dwaW3apsw9umvOHWaX3ohtqM8/vV+O3ZKq/rab685/saWwq1NgUmZq9npI1tvzLfsBLOusgGSdLGte2JdgjH+ST9RP8/0yLyWTGGKPgyDiXjFLJ92BV2vw0+9DwoGTTwOJNn5dkuUe2EzPQ8T38l7GK6Ctq7YTiGejyZNMUOMn+OOsz2Y0JDdtAt8EDO/kIC5leLZ5AADvVzKfiao5w4OJ7g4zdaNUcRNy3x91ZeFbwci2QUf+0CIcpsgg6vxMObYoByiEoUZ2OEZW8u+WPKv52o6BFSSYKaBNVjSLdL1HhhKfbmCJnvOn1IfsMm5jrJdeUJWR8r7N63qRmiMp0bvyIK0YFtFfOtWCQ9H+PVBKBmF3EaZUyHnKcIokXI37zu+HsBtPA6+aaa5fXjp2HBjjmOtdRXnihvvR8XnvHkNhDVnm4PmWwYC8DYfJ0ihaiqmhmfa8eA=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:21:23+01:00
+    [id] => CS5562439CB733DA07
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAjHU/fWPh4ptcDtJpBIurpO+qoBFxqaU13jVAqjT5ePaV5tl77JsRkaIn9lWEjjJQJH2klX/zNl+bsqVKw7DDlBuhxyVYio3sAXQk/dKLTWvlBKJGkpKE0DDr/maiIdKUxpyc2h5L9YslsMn3/d86nEHM1jkzU/alQhd2SS99azs7U1VK5zcRDW/xXPr02G4ySRWESUFentcZ7NDk6NrmsaClJOig4J3B37mGxSUU3rX41EJXVX6mUBFruOYX27Anqh29LnXGN/vyOSrnRNkfXbuyMAUYzDW7MypNT1GZzETUQ2WaW7pjcVJJqmK0pI3PtttOQt0kKBEFN6mwRjNXRVJCrIAb9VQ4drG3Qoo7sfH9+gNhNZjacCCopAWk/LkEsqBoBiGMJBbg3NYbTb36fWK+H4dkuOKHotC0JNwlxM+cy0oLXNYtEvEcyKRM7qApPraNP8pT02erZpN1OewtHZ9+OCQQY3T+XtZBWnkUiS1aU2jHNGM47CJ18QxxxVaajXs3NbLCy+kAeDi+gCcvhIaP0RacKz/7XwrDLNCEwHXMo8UbzVZGSd5zTwu4y6gLzyZ6k1i149kjUMS+1BuzyzsbSldCDem2P5FVrX+g04t0h5xW/i0kKhYoXuNlVvY3dOGHNbU1p5qvcEIpM9ZjBVOIMAk6yiG8FjcMm1vO2XhCLwbZ0AspvnlgjAdsd3F/hAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifbq/mK9+0FYQWNoqpU9QASD09R2iPgJZeH2nmfJR18EymCZRa2CpPOcXIdyRxnZvJX4Yz9LH2NTdPTQpZ8oWpCjL7GLb1BpceVyIP21loxpfCpravmnxtN6fweOxT/OcPa2ztzmSl1DQpyiXqH1v+XUhrKygYHV5JIVH8cOTWj1288IiZKzWPhCOIq7yorec6PAEwTWVNjTnX9em9YO1j45qmgIrF2CRP95TxswUXPuzkm98guZ+OXb/141DhmsiL4hK35jilUGYwarOBvm/1ycSka2iQQs1mzf+f8QCgJGw5Y79r0XNQShdALlO4CnvHyFjY1KiRr4Tekh+G7hsXHaG2eG1qaj/8ZLnEWeUP1GDzulMLsClaCMuzOi+7/okG8VObIBbrCoOoTTwn2C6PI+YH680jovBi695RFKitcg1p6a0XBGEKuJu+XHkJeRRPH3ux+vWMmkYQ8aisgjA0pai1z7zOQ1N3KHkfY0=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:21:39+01:00
+    [id] => CSD14E627624796D8F
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAAoZC3noY4GSKsr+VxcMXHAp2n5lRFOEpc6RGk5tWKrbVvYg9dehjap5MrvfQsLcTwD9cTMN1LZa+cJ5Cpc5Ejc+ZMA/V8l7Vs3nO+rxenlv824j3KRMG+vogiPCDc7QTyc9+1cWX1zuRJh7eFoHPXx+fylWoPLPZJshYnMJY7g4eQ1kh2MJc5yi+sup/z5NSEgGSEeoe5cwEBEYhjDySNUig1PjPG+voR+l+XrYCIvcJGX2ozgrkCLF/ZlddZeCzr5XMzWt/w7tk6hwao49AUREZsj6fM+BvQO98U6BPhBxr+P7PNpeExVxzfnQIxlG9jKfFDlEIJV+jj5G8ZWYQvb4Mn5H+KRvv5Fp/PSouZffAR1yYrFBMnryGGpAEcNog5t8qBPYDAZK6117Ad6nQ2S2t8bMU3d8hlTvlQCn4a9VwbUI427uVOqOfQlF8l7v+EQ5SkgQJhYlPSUYbV/K7KCgBEn3bnO9nH1zfzJ164mXnQoHA8zAnp0R5XUufYUOBNZ0vNK5rvYOOqtVxEXuH7y93384dGJsjmNAigeeZp803Y8uPt7HLumdFkgQhGQfJInCwgsmHvBtSvhWWm9VE/7OV34MC+HXWK45gmxrwG4SAa/raPGp7IPe3Mixz/FuUmgJDnS93FbETpF73NaqzctFKPC7Qd3ib8iaGE5o+IyxC1zQ82dWOcdhNQfh/Rev9lAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifW9QuhL0kAcSovT3g3zip9+C9lubAsgrxqgOoPyIuA6O66SGeDkM3XCH8GNwvIrBrwHHXcPuq9M0xJRyn9RRJ2ndmI1Wpnj6zd1BZfLsZHAaTD2Ehi/8ZVzqQog3SOYWfQbFqgoa4QbfFZVSgNljytoXub1MN3MKLb7Zqz6FUe9UCpqUobtqRbVbl1gQnB9yr9BES7W/n318L0yvjVf11vpJBM9V1I1NK6vR5p9IgQcbs1Y8p52pv7RR6ogjzVUYhtnijIXqlHoVf5pXkerulyuk883rZtVgp/188YQIutV3gBq7PwtVOhUjkOKQ0whz0Nzu+VYpO4ozZ2cTdIW+BP4Ur9LtHjtfJrzGzjyyn07POzCO87NCMZJMWxfjAIGrsIG5C4w2cvceJEU6PnBHpRGoZubKnOYYWtsQSMaI+LXnoUdbHI0EOSI9VIwJo2vZKMUDFnhzz2J5b8w1cRcRwcjaSkqK6IgSxmE2Xw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:21:59+01:00
+    [id] => CSC0883CF0F545F9B3
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgA5Z6q87PjhPZdusdE8bB0kBACM5K+Jt7unWFrA0YnYxfaqLq4+eQWW277/BpSjc6sx6UQxGO4DXIKrbewpmrS2UGjNmASg78YXWVIXU+3oy20eIqLAFnooND/kus33ILUjKxKB/3bxqTmADS757LlYQ6ai+8RZm52+9gx5h3iUX8C5MO8q7/WVOpGnDzm+cx539adRIuB/bVvd/8OUJRmcgfgiijwFtDrq7SBjVPWyWGUlEg/pJiLM3K3iVWlII7hYTbgX792/Tf01aDLgdMFos6GE9UnPtfBFQl37chElQSa322jNR6UF77q1BLD2dUaDkckJxRNZx+NbU5ymQpGT73vxf+S3gzsYbVCmUquCJWNbeftRmkhEbug+cG8Yu/kV4NCIvH4BXMF5zNg7PxWCUJfrpiCq0mrcg2hXrp+HED6tMdn/D41/xhMvNqIKJIthTsB9zyff27xkL78uItD1x8GZZ2OwvOCIdsuHwKVgaIi/jnDDRUp453K359565pQUy7Jvsm3TszfmP6cUYm0HgXyi5i3P9hxmXdfiaUrN4tgbQPvNu6m8Do7ux1wPNAuyfr18M885LhnmTtDqhp0cq8JtlY9eFOgxEH1It5wCzyCS2/JSptUdHVFSB6E0NhJ2hC6ww2pW0jn+zznYIW/iSIC5l/WlGsrIZjC3aqWsDxBLEQK++mcOjgqCITvGn15jAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifSItXvNF+2Bbatd/lmrbToo58+6srLRnX2K0Gs53BCtcwnvjuSEDjCp/V4wlS1Ki4Ta/qirl/VOwoUd/xHiW44Ulg7SvKwfJQDQQfitrjZpgqEid6Y6zRI9LK33+mQn0zRuoVfZZ0qVfJfMg8yycwSKvl/C+f9nN0a8Dcr0iafJBRTfwj017wtr8oPGdqc4EOjfy6NPut3f3R5BU18JcUrPdHQdl9ucDZ5Sh3SHNi2clFjarPkBRfpUMHDBpsw7Kxq3z7c22mwOAApYh8qk5foKQ0WjI945e+wYVILYkJxAsYDn/pOE54i+e0aQsLEH2aFdFym/4VGQ4U7DUDN/DYeOyilaM8EaTOL4V6FZZPK9XByafNrZkI9g0dI/v4ZOav3Q+izFYq8WreLMjiHcnuQEwS5x1o3mT7m0QGCf31QB+s1LBdfHixMXBLAk2GTZcebN5nrUOHl0mSIY2VcnQ+RKw/gJb1eRcIxUqYfo=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:22:04+01:00
+    [id] => CS4E685C1306243156
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBAWUJYirHrwAblCglghPvDRFqET9B8+7nWosQC3xD691bU3SCgfenLPyJUHMnFbMMEsFRAUw+qFS0AcY8gpiBSI3HOcLpHiEg8QzjjXPNKHZqIrr3kAG103Dznp4jq77mt/tNZ+OeIaNdO2W8KgMCFYxb9dPjRiENjZ1hENlY5dzvkoYD7DuZiPwXBauBIuZ8/8DgTXL9vrUp5P740vKvKuv66ONkhpBSX8BfBmJXYnxC4qGtXyuJ3hG1Oahmlgt3UvdBU2+j9wXaFCCbi7It3Cb8eDfLdd5+QdyruPeZGL1ZfRGPMriT2l46FoF/WOomN5IQSv0Z3vpO/uhKB9OXfHG6pHxywTthd9xK8vnrQJwYKllq29NxY7q2eH0Gz3upiktZ3b2w0pG9Zkqc9ntTfScpv4l8TkXQ4uv8WIMf5/5lKDSIF8S8QOSZi0qe7DeMgTBIjQ1eN31GVSC5tBxJ8vNNVUE5UQIS0p4TK/YXBThiTYjRNatS5hN5NHjObVlFYn71Fib64kxfcP4lYd+UCdal0x7ueztpiVPouCK6gcX6YRLiRFGuvXhphGFuX4zYnqg5GOj/wnSguv+cYWn0nc0oNijG+epnE6RkumvbPOfC3l3FpJt+lbVTOLA1RCFrjO9+DfoJNzTo7AYYJDwEwKD6Z1gY92cNnDPmZLV/IrhCP3h4Pe4I+n8Nfd5SkV9xyAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifcYMS5ixJ4HpYxQoaZDqSqaSF1gisrltIFZhwSvQ5VHPFYhd2U98INfwV8r/0liTIS6CeKbtR0uSGVWTLZtZLjO9gm991Tx8OSqrrMfGb+bN4aTTmAehb0ExKqvZdBcovVENatB5ZUYx8yIBmaE67N/SF1dhh3UjkwuXa6wywJkPO3Q8r48gSmJOiV7QZdsnykP2FK0HobUZjBuILWgNK9eCFCif183tVvN9tOp1DxAR3cl4N95iXFQbKyPbq+n/FMBzYNVYxzlxSxnkP41GWTfi9NDNp5gInA3EkLhm33kU2u17b7121UKUd2udWX+OEuplB+Xj/wDWdbS1QVrL14takGXQQjzhOLkLyCJhHOi7gD0iqg8sezVaRui62CvuAbld7CoMWV89SORiQq7ON+j/9YMvqG5fpmqZl/yCGbe0d+/4Fc9S7FXibz9rptebpik9vEKLNSEoxsIx2sQxCF1ODh7ydV9eQ/rxs5w=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:23:29+01:00
+    [id] => CS4690953C0F47C2BC
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgACYxH6ZsSapDwTtrIAl9PxMhm7LAHS5Erm6AZtzNeW8pzLFTWbUpT7Mn3dMtpwvXagKiv8aPXBh/CwLPVc4oltRLgFzAHYjCmn7IfMuXQRZEIZOMTZa0A0fA44PfnMP5+iPHnhYaczvADA4cgVXa5EXwvisX1GvpT+FmirRDOIvIoJVTIGIuazVUI2zoiwTBnnr5YJHIVCm50QEu7BGzrPML1A1Y9dK0sdWRvCqWfLCCbcE3LQ8bzOskMbahDeYCjA/d7rkdQUFZFJlgageZzOROZVf0CVG6GPuXSJZGo50fRPt8TZxT7mtbK88kVU7K9yxoX8/Re9cMMba6G/LgwkuXI3ZPr8/GJOpUWnJV5V9i5sRTdGbaD0/W5n0hGuLXeHNhigcP1aXgImaghg4AWC674t0Jj+j8uSWLXKTVa0qOWmcEe1rqpvNKJr0ruczBJUtxoTOeC0KgV9sui6kljnXzXKatXX+5Tn5h0a+jYsTr+BnkPnUsGmCz6DOqnse7nZ10HEzh2ai1gS87q0UhHKd2m2bXAWLGMmH7g+uytaV3Q2NkgVawFMzWLB6kn8H+zfzmgym1l5M5ZHfuIhev6p+6r256MTwxbEzeHHYH812WCERS8SmC478/J5eaPLI31O0I0Q8FvM/JAFfsHaSw7hW2G88qTXvY1M9gI5GblUuxC0JMzRJoecNgmvRXfEz//DAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMiffURToCyghS+JnMlBoals4teeex3/QgWmYCy2UTzkqsj3jSThhztMV2mp4AP65Bk6ioRRrveLRsmBtixH865gA1NYmt/Z2nbfdn29CTOM5S0TWPBRSqRdwd6d8tgVJGO8dgA2oqkXvrlc2NI9yfyVA51SnQJe5hUfRirdQt5SOZJjTGV8SHyKz7f/6KhYZKaTxJwrCDiuGe8EVYLhd22q+K7ubcdG759Ge32X+fg9QiVFuiXL+tmalfAZO0EZKhcdGREgafvJv3BqvQlx3UorDFg4Cl9jmWJdmTKJzBaIsCWchdZQh5xcrXq6HLkAUPbTsVcBnUltev1rX412X2zHUWAa2PfSVlMPHtkmEwHTiAEhrKbfUOkbrTe32vK2zazLIolgm9LFdLcCy15pRuNJqaw02wPoi/lNDtdIEgWcvXMbo/tURoPFSks1eRZL8laCFbZ8RmXkz/+yekBlufrYmfuKDet8ZwEqrWp0A==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:23:32+01:00
+    [id] => CS749284EE7BA426BA
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgA7Yi2oNxsgXD0wcZieJ5lhysW8JuNpTrNFhUrXJQUB8qTStb/lxIZ7pSIB0pk7/s0Gv3PmL7lCvXFNIcXMqVirnwkb2kxKIslAaOL5bKgxABTpYpkWedFWQ4Lfcg8yijI2pU7bABNvIIWHp+TNYR9EtPO2SWZ3pgqAe3bEalXX7vwabE31TirV15NjesgeIYKuHgXdGWU0qGnmy/raaqe9fPSSJwZmXqmKWMQp89Q4uoIVbGnLWuPwyWDIL+i9cIw9VbVv23GHJpaMyTILIxCU5A0tfN8wnyUwMdkewZ4UAAewr8CDPGLHv81TGOgvLKOtgC0vdvOMB25iEBfGr//bYWxccKIR0r/N0AxZyUTSfGNyIUBJdV4sv/6OZs5v8skBm3pHJvrA1wM9h4nNPg87bnfZggucci+vP+XUEPU9tclE9W7YFHmqNm/SkZBMFzfxkFolx3DxhZ95faX0VoNgiP6bavUQ6iz6FohMJNkxq+fSoPM6jCmp1xqOX1jLdffqD+8jk+rfjiOM8T8GlsGASzH1tyrVse/p1hnRbTBc3VbIvWI4rqq3pFLvcMNyVWNKy2rDvvaZ94hlPnythTk0OunrI0xcxMbA1NDsUf13neiAkFJbfQLJ5kXecbjzWH2yXrzGVDrxi0NJda6IK4kdfREE9diIxpeQ9vM5xIVy5xDhhlhepzrgoe7X83eeF38jAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifewWLPKWS3LwytRKjNEm9T1pLiXleC6H68FM+B3vMXXeFkgzneWMp2S0zzqx9QrS8Cc9H7dpLIrSXQ/rNPzSyFTZwyQ+FsHESuKkt1h/YYdFnWkSuHsZEjZYjHQoZQDKrcMZJcnLe2x48LTaJm3PWpqnxYSxwcIK5omP4UIbZ4JqiXnW5+nXhw+ClODSGECBi085Hq/3fxAodO1rv2eYGLYNM9x6fmz/EH+VJtB5RmiBiz+Ku44tUFYQmZMQ1hk7tNtg5xH5ON0nNcwyktNjcMb/95xMCzMwQm13/4QfqpYHaLqOi97rfeDGuHzSN8JwVv5N1ZX4vPmy35HFyL0FVxCG0EM0TkIwgmblvYdzhlTw59da0ZNajJw5Aoukkas33CE7WGIuvUgBrEvzQYgsjdZH16EiP144J3lTISekFhNWGFybwTkhToT1OnBQmxTC83P0+aOfy1xAUPgFhZjx70eLqRxU7xk2OTUYbA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => GB
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => GB
+    [expiresAt] => 2022-01-31T18:23:45+01:00
+    [id] => CS5627B4DD111EB93B
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCclCvvGPO6poiCPic5gUPACRjs+DKl1pKg5kScSRHl/hx459XKCkEbFNMd0sEUMJlBfF/0NGsgZoZRHBaGaRK43KUsnBoTkKYoVWr4zAdkQ4Rli/d60GqYLyRT8UyNBGyuzGt2zVr96sn8gLfhk0t3sLDVkpTbJjLlJlqdvd8/PAaANesRwb0wy+GaNjqy42ywLGJfZYdOPeqrToeDNZ83vGyU4KUkaSPJkDJ+gg/FXiu45zS1ZQvlO2k/YayejOwjdYSCOuhJy+iWrlI/fwG73MQM/s5vtFSJyQb1oSfYiDlII8zjTlMtsOwD6bcLJsgX1QiUgEUol8g6vX0KZqD+mgIFWDcir71z1QLfXj/M7934oTwT0EzLy+kwloRU8tiOFegPwzYLB7RvjkPtbcXpxoElMwDYMpzvQIv7nRdEDu6VmylwQusbBOUbua34v8Yx9U8wuGb6nc6sMAMkRorLAeCXdrQgFrWKUQToK4pbSZCzNqRaYIFPnHfIFzIrP51nVuVHgtNzVMNC3qztJzV7fJpNag187/B6bqvY/M/7KJcCQJK9vsyzv99cuW90DhiZGaOrEZwmqdDQGIVzIIQx6CzKM1pAUCxbJBKwfHnBIb/2QtGVEwbECEgaLXlLKu5nASgjT7GI+XcnRsblL/aEyDHg0oD6dznIScGPGvLrTRDuM2B0VgMOzCKPMVyBTt5+AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifcKWErNQkmEAueTcFigkfTpkn+jfJU2HD9ruvWgWhW7F5FbtopNUzcApxEEpQNl4G+t1F81nbmcLQjSrPvxCVqDHjgORDizsReisUvNRz4bfIvLq1D0/rTteXdsRCb7W1X9L7pMjBXAM8FmxdzpRqU40uKWDim/rtUDPbEU6TUCJ8ZLEtwxeIDzzv500XzI5U/Ykz+pksTKJNfxgqwsUY8HVc0U55RLpLV6LExdGItpcW9olvlQDJRbVO0DBBjOfp4hJBj+flE37oth/YK4jNqtsZoHGLqM7zW52nesI6C2Jc9IeM4MLG6lzWLI2cxP46wzTWoz8a+LKSesmhObw4q6rLihAh+qqCl9sMbaagxMQUR2JyTKBwBslaN42/UwTH1mbL+JLchA38eAFK3CH8asj6hEouGatVP/dq5JlMB/BJzp5bf5CSwoUKQqmwmW8fozpChg1mv7U7vomwyFJt8DkNc2ncdF6fbJR
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:23:51+01:00
+    [id] => CS8E8B777648728709
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAliBmw7ClZTLi+c+eWXOYvo7aaUGF4/l/xh6wkWNwb22GBqWtm7QDkMHe/WAGfII4APvjhOrmvJRwuPXFejkkqnaU2J4EDMH8dr6OBt43CVVNujDE7NFxj4rBLJFsw7hI9M11vuJwiCrJdvN5RbFoSZMItEx3MJp9TLcmMtfEZjXzqZ7B0GfP1D3I1ukAWunz5Sl53ZX/3a7jIjd7cRf/Yxp/OxEZgLMgE+CP21XrrUxzEfngoNfhJXhhJgETSNLvlzhFsOjtRZd2oZ2Xdu6E8fZlerZaIOXC8lxhfTk93bsMw5EkZBeFXJKUKnCHKT9WpRXOt5YXQh9/jl6L8mtwo39SZvGqkRm87IeN0rko/uyGPrbiynqdEaR1x+c6L0zb/SlgYWCU900ch7JCPzIDrHE0ynYBhlE9Z3dZFGWSZYVTn+8Tm2yR7FHw9b90oTlBaqgKWDPLFYBZjoTVrZWV2JfHnfGAbr8RX19HgiGJ7LTWSi0BaNt6TkaULKv/thzMeXZPXhUI1BIflV7Ti0OPLU16IyV6Kwi/YyQWckXfi3chVtaJnu+kmgEAxlMmNOQTJoBd1esVVJewcMOIeDHJQFHgo/Xx0/djYcXyMg1qxy8hBxzGexk2xOrQNklJCWsksOxE40xoz3SRDjdkxJ7dUdhyo4mryDNDnXcBaAzcelRCHrejvdazI9VbLJuJEbCfUAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifZT6KOo1d7wXCQv0V3Snp3ijHe4RxeZUupP/L+SC6fTTFsvrQm56z9A9AxT6lwNafFVydDTR3sS0oyLQs7vLffmPQibbYcZIXAL/ClZVJSusjx1f0YY3GQFTI0obDHAzP1vBLDGbHSjaDpci2aF7HuqNe8YaV971cBWtuz/F7t3gbQwLDx2MKs6uvd+5/+09D00iFAOG0OxF2PXj+iX2dv36c6kdkI6tCmnPm/nYHXiiLJqBrwQWyKXfFDbmXkXJ9a+VG7m5ayjUQmdx5KISvK/6TTNvNpBKNMDz38EbadDj1v7TRnXm0G2Zud8va5jUCcrxvA2bf6hgDQWKvRU5ZjiMrKdboecF1fFlWT6zY5vXfG+WtcLt0Dvp9qWMazhQF1vmctBoRb1hweUtlW4aFEtei5clPMhKYH2vPvKDojsFB0WCE6tjoV7YEPNRmCEiydHQ04yfE8DEqyl50o8afcnloXIl9AiR+pyhd6w=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:23:53+01:00
+    [id] => CSAA1B542AF8707CAD
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCFTBT7pbJ6G6DGsWZhvWKR70fPZyWJVT9Yw7psc3GpQxD9dHP8t0KEsKtuvEzI53GxmKa2eXqBMJ8ruYGRbMNwD2qyQ1AUWs7WEle8R3cVj1AP+WPslTbrX2yWoSjRHQoI5DaHz9vKqgggjvONreBpjY2j6VRuDDG6/i3rxcZautMuXTMqTG5ktmqyhwL58u9MsxvbPaJM3lSRRh0QQ53Cl1z9DeSZsc8b9AcL/lWrb8ddjeeGu4LL4q2EJ9tkrCulNUn6od85vsE4IFkhUp7RHmvy8gtRGaeoCrAy+5o4NjDvmlz7wtkpcyEfMcwtG+sDn6UH29xUVM00yUJ0O9HzY3zpyxx45adTaIW043fARIEzghXKnw/nCq5BKU/eEeHBgdRL0LR71xNQjZykOz2z0R6aXZ5DWaqmX3m2RpGEUn2W7XrXDV2cF1WkPnmSLe4yt5tQS5RT5ADkaEFQAp6gFK9VfcvmOOsNH0rJslClAZ30eIAbvykFhT6eDUU0oJJagaA5o8AZJ/5ZAMlNRQWTJ/pFMqGW83Hw63nu+yG4TlDYuVQvgR+eMwfnU1UB8Ej+bxpx2CP7afPHT7NMwS1UQ4sZ/tfuyH7OJS8l5hDLYXIl1ox64Ew9sxxj1gMMplZdhJazD0cQH80aYkKz4cAVfJL4JhYGaQuj13Vz4jD00BD/AwGrUE2qzS/5Y9eOkFYXAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifYykKHH4w8BJPI2l7mBuPM4shu8DDrSPZ1nUIM9Nfl9Ww3wU4msK+uspFTQsDn+OkcgJHIHYzs7SiyoYAJhPvN8fpSopGIriRl99TLB25m8e9Ix/F9phvKN3teep4uI8jQU7H6NsYCaEpNC9pG0e63sWG0WwiqUgaCo6G4Z32edbGPXKNiPiDLmF4XTy36mulILOn7s6MkOBcjHXI9ePp8UF5ihLaoBUMAzV/zfMNP9j0Y6/xvzeEkCjnSG/L05GL4uWIRs8ZQaFKrgCVlnuClIoXLK3boN8lFwZscvw56W9EjR483YIJMxVpWiqRyOpGCsLGbeUMxFXeNfUiBqo17PR4vn1CnEtP+1SoNBAj0f35ldNq4jk4ZGuAUbZowaeHpP9n/ctNSMoj8XQIoIlp2FpD63Q5ivxBULUkyb7BsrIOdBvLewBx8rHZhY3q5MlfvilVvm8+CYG4VmaE7PVGnzCb5zBtdRYhlKd
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:24:03+01:00
+    [id] => CS2480ACB13988ED4D
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgB3EKUW7WW+ZA3d1IwgF5EMH5/aqgPuY3du3WIVZNjMPVxAQ1qHt/DYVrfSWNyclNar296iXT5tDyg5udDUF6zKE+k4Va1fkUZD+m0z9eaRxv6Pr04/P98EbgvkQi4kbCaJPSPjI4e0X0aCNcFVBYwjI6hZiLe2Trg0+hCpj8n8hzmgJbK9zMaDxqD2qIOgHWmXkmODznY78cotUn4RX03Q8Oxx17XGpl0UW9UyZ4uqoM54rxRrkrX/1QuQSvUBR+/lhEUynlQsmU0/zBbPtCf6bwwCaDPRv0WtMN1VSZwbiSkdHAWfsyN9/9Vto9Nf0GPEBnPQa4H4m8mAe0IFwousfDBgbtXawwTQ+vS1FvR8/Vf1848cspN6uQ4oA1M9T7PdtIPkiW+DbbA83ThJT7D3/sf2S4LCAZg5LvzmAIrg+KaIn8f568+JKfEO5uWe0oR2WDm0ngqn3eu/DvaBMUhYQqP8F/tlKIX8IYizRkXdNZTfFDi0zj0uUVVeInf2d0/VX99kskAi+TblSpJxZ3RlNbfcRfP+2UO5r8XMizIBREqfZ6ho/9/Wjkx0Gi0OpwNpKG5uWKkpCNcm+a8ZHGkcSrbfu5Pq+EOD9Sc4dwzv9oh7hWjwZdzzlMLKTy9wi8r0l+D4wE7FhIWObXN/vuc571Z17cPzXBBu4zXTvSln0hAYTXS2fAvT4W/deP+Ds5SjAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMiffIrpf9z3cRA3ysFPm7ktCqBPFUXs5vxzjRj+fhk6bDGqAg0N8tahxL+eNWyvMaPYnKxPMO7Zxzsoq+JPlw1H8mGDe3oVh2JURLPLjlAUS450rAF+m5qAm5TfU4nYRTqRFmhRnrsjG4nlp0lEdax2pDonbs2FI1H1cBHU7Qj398H8hZjUKiubMicAcuMfTwOQj0dRhrn38Qhyj+RSJXY+IHGAgC/ng+F/fJXV6hPLdrT4GcsEyQFetCp+1o3o20SGorNmZp/dE1XplH8+9EbZvtgE43RFFCYyCb92bW7mrlmWxCBL3fOKvOIk4ETUNmr0wfS64AZnA5ve9HeVSdTeNW/rdpfgAHPJ/Pwqj5LnEg2zpMj8OsPJrr4TYoqveRg0lTpPmYyg0raWcygZUA8bewWec4nI+4ayJUqwpay2lJm9kgmPi2Xyar+XZPJV2AzhNyBVAJNop091TchaZzRj3p84EqMNcWHbV4=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:24:05+01:00
+    [id] => CSE8004F9CEE04B4D9
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAPQ1+O7zP9cG85RoBa3b5zXtpAlBxhnIvem5m5irP0dMvZEwDJfDP0tq3S3JhQJz8xqZVgfT+CpUx+1Vih/J67YCTekYqjezt4UVqtDanBzNRdB2PV+ovm2MqrIzlIvrdLHbEP5JgNDr10tx0TxPM5mVAKdvUChsGpOY1wtJTMo2x6Gs5b6Qy2nO2nHVRJUrkSMCvJyaihoLtCEJrQ+knKLdTdzhUg7C7RoJSX7heEOc6hByzjgmQTzJg/sT2AUetABgbufIhMp6/c3ROdHGD+yAGKkADcyhLIoVkhHRKg8snGnSvW0VwZxEFKtPzlOT3l/qun3dW6yhtuN9kKPaLUKkWaQs0P727+gs3YGv5ZzZ7/yBE7fyNhkD+KM9PH66EvO06bbLb9rmlkY83BzYMKyoadt7BgpgBRWXdx7fdaYVDWcNzu7VE2S1XNM9mdSNJIP3/Sg4j9IYSRpc3/eXuk80XSXlNZlDCsBdORp0RMCJ27H8f7sT8pju0fTxUh0D97B6/a3mSbuhAFYZqE6jiHkRNWVqIn4N0YIkWesnk3u2laFvhJ1uFU/vH3H7PWS0JQCeWWJIqu6jXObPA7MuLhq4DUz3UUviTFT/gcNnXs+mpHFVeGiQrO+MBjMIWvj/IAKc3IrANtw/lpVTpcw4U3C4WWAgJ+puOqtle/RXGd+BBD2jEuDkVPq/jINqEUcPT3AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifcNWQ5F5kUJWwUGc+CvPJMNYU7a/5k54iPRgDKWsmxZIJk2jM93BOtmhev54i/DyUzA7REWaLdGGYSWXd64Lh080SFNNDhfSSblKyB9Sd/fbbaanmrv+L+udxt7M8DNUDGsQsGUotkwKec6HZWlmEJJ92zo5L5MQ64Nxgcibq03PSyvbov5nzeP287rACMZE1XAJyh52IpqveutnV+7BVPF5fF4SszcMZwPzsXBdkOauBvK9reEKQmRIGbyWYWEzd8wYMJHnU3CXd2aHoyTaVIFfALoJH19Iu43T3DdeZPH0g2m3Bx+RDrJpSjKD9R3QuCArJ+ykxt3im6MAYoXyNV5cDiPmBhQSjj9SlP7yhM+ppFkZMIgN01AfXIfyTMas5wpIOv56YHHRbouYeqKKAz69Gv6KKW/R3wC/gVYvvH26qzSekXesC8Xov4TSGCOueQwObS+uiqYvHaix4Zskli4OP4nrSTM765lfuiU=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:24:08+01:00
+    [id] => CS96628DFCD3BEE398
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgABAAnJektCDmpEKd1tV3BNlPqXxJ3HvQlu9Q1kizLdKZrj6BJiLpp9qhQ2u+49mrXMpWtnL+RL9FOQi8Xfg6dAeVHyNlis5NlZbMcmWPUhmNs+4eXUnFXHP/s3qqjc1a8wC677o5/aL+QNRao3KMNOGAD2+oBjZHfX+0jVJG/GwL9tf4MTHIW/X4OzwlbhzyjFJB1vxqALzcL9vVdWA6qO6YUlZHIV5PWizbaR01uvmY2JPwW5xTrtPBApGxSBkk8H/naRRc89pfxJx2fmUNDOr8GbCZLV7nL/NtmDUsRbMhw4Kn0hZWb+lsr8h8DVVZv85ohwB9UZaoqh0dRItvo+flF2FILp+F2rfJUdEJhylhas1CW2Bws1Pj2dRXKESUUNaShmxa0vvThADw1l3hEhClb5d6otIGQAx83nskS9+rQL0XKkRpxl+gxSSP59PVgbDeAWOc5/RpBpv0dUwacUyOv5MUgJroxnHkXiXkdzfwK0TJgrogQxcTfe1RmAqkaJ00xo5X1NMnNQ1mqJTsczKGhYPHCn1+N2sUR0qkedCXCrtvgxUm0KNbkZSE/i9HfTjFxSmCNwYJXlHX1uv8g+n6kuuFEIhupbRR5iPp/81C7KpQpwTW1NUiD35cZJtgL6pICVIMPG95ix0QG/aBFUqj8C8K4J6n7IeYVooGL5xxA9LKErIhHK43cyeME3uFXAAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQRgOipjoAtATf7JImYWaH85hebyRTvdii1tJ0VROM0o0KR2MklpfZWvLLEhkS5Ljct9aITFD909yOoH8RpSN5gZVoCyqvct6tD6pLmU02VYg9DNLfGSkto2RKPbprcw2VhnlldPh9r0Kg8C5MJJvBUHGAsAYQ5P9vDJMXmZwWyAzR0oaI7E5kEMDihlZ99BXCOj8vwPBt01rZniZwHQ7xbEqeb8t5pbdQai2qTmG0pjTU7nb50kLmjCJk8XORzvNk9Tw6lmlKyMoE9fQO0YtdfdtSfzh+MT4sKfyKN9+k7AkrVs4t6P3PkjnfrwQaAuNFnurO5nMSD3aEt0aPBTqYSnGby7NxkgRilOGjOWZamPPvnK8uvyQJeVVJfWxF8210IbFp5Ubm198MBtZ6XTSSGZ0/u1TPSxIXRf1pKPgh+h3YtKIoD0Omqyehu3EngYxPE9iSGa+3sIN1w0QXs9Zcq52Csd5VEpD/MalUA=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:24:27+01:00
+    [id] => CS59CDC5530EF938F6
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAkfu9bG+fWwAgFUqUUJyEbacQJyd2HlIzqk3TMoCFNmNvdimSSMHvcw+TW9wTRjvPP/4z63lr1LV6ip3wIqu0HHdqrQeUJd8RkrGqsuYqoxIDs5XhgjfBYjv1BWQLyIj7eyDmDlNBeKGdfyEFf5bZZ7VmMrmKRJRq5cgXiyBU4iXWk9ivmOG67ga+axQXQTRNjklae0tlaKTAdIMn+wl3qQ87otz+0gPvrA+N0bebysHSTuVX8TfxfxDXIym20EMsuaYkf1YWFmdtz/OBKyDq0L8pXR7WI3OJzqfmFhw+CITeziVlMwlP0JzANcrfW8ww4hS/lOw6JvhYiqWDzAEhaJA63Asn8tTLR1t+WWAijYjGUOJdE8x3y8he6r2u7ENtUoJjkrX+rB9WL03tFw5e6zccKRTKpG1/IQnnRmYQ5lXHoUz3pOfThzaBhM1xjAL3wTnasywCzvW3ODxxr3CymQ19Ss9IB2XcG1qWuPkoAbbNUCsf0tgmmWo11rAElpgiRChHNd1RGcwo/bx8IHQSXaoK0BSevmEFdJeLBZ8m1KFmNNPJXfY71o8b9O/3nP05jkkwCjZaCwnD0BqRta6eNUNVotP91dA35pRWaUxcXOTnECHNkfdZNr1wI6+k7WGzdXRPRdK8ruS45rWHSNIwBWxzEXdMJrqoCjUIgErnivhDBqkH/FoqZckgIP5yDrWHHAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMiffElg0bKj0i6WquIXOPI9I06cQhO9RGsdM10tL15yCZViKw0+kBlPu85oeAF3K68ByA12XShI5VdIWExn3lm5XpGJVYdywe9/enmN73jZMrEJ6VlrBGbmvT92OhSufP7kIdO8BBkOtZZX1R92+yE1VD/zLfj3sC49GlnB4Aecywr4kIGkZz3TIhO1vOH7aCopHVt1Hb8MFCXFsKoioJnm9/cfoVn7y06v46b5ZoJXBVk94IgWrS6rqYZN4BF9fH4hU7UtdLJdaf2J3rOD7ckzCvhAFDv61fMpm2Cfx4nexP2bayoawCO6lamYdPTVmqlh//yTMqm1Ht1rkpZ6madhA97IPJ2DWGUZOS30Sti/oAthbIfYeB5q5OSjwBFG38pJs9axvC5u6Ll0tWhvEnkiBzyad5QTsiKQOafwZ/3lRNVrQ4KhmQvZcDMSB8scK6esWLccvCaRODEex6GlYsj2AV9h+88kPB8MExlpiE=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:24:45+01:00
+    [id] => CS19972C6F5CCD6EB5
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgACRqMt9j6FMhHyc4+4BvUybApUoSiV65QMod316DCl18Hb8eH/DOBJu1y6OgghOCPcCvjfDn6flgppn5QL1DeHPaX2BcAEGAv70jL4wAsSX6hSDNPbBRJj4X8zALVEDvC/pBbmdWpWjC39vo4imTuTaYA9/f3Mem8++CJwnaqBfO9nZUwphs/L28hlX0EwnMoFN8i7J3HXiQVdwgK+B6/wkb6sU6nPS/jcrYGZNhRPFzEmMMCiKv0o2RvVOQRwhBTWR4GxxiZJzmShXFK3FmNP4DpCB/3JOaGjgSeJDtHHOXV4NSr0RhAPycg5e3Eoxik5Vyuk1hLksexydgO0cjPeVtegHW6ECqoFos/hcXi5ubIp412wpjC/7nPGCZ4QvFPFGCSQG3vOUrCNWFVyqHCZIHtu7GoRE6AqBmIje9wfYwFJDnSpsEmsbXHMWikZmBBkt7GRtgIoHVLTr4tta6ph8KQY2i8Vka80Bt53hD7NW4WhPLrpj31in41nz8TLbYnkz0BnEctGUcKlEnwEZFxS3Fu6bhJf3z5fuM1yG95PosdPm43Ct66j9g3eMGgiP/z/IoiKLJ5C94p6QXygNVGkMVn0wdeR4pCt4C11Q86qaWmht17qvwTodGPbYuxt2u7LwVFapvvjbEuGNZ/zwd8dpG0ichdTmpeJnsehgKYsLxBN9A0iMxy9vi2LTEXM6N0zAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifctZEUbNJFzVdGqups5GD3jAFwT8bzJQLJluBkXJ/mGZrxla/YSf7Ad3sk7CoNkWd+FHmE+sk8AySPv+pTdRndAz2hUoPP4XC5Lw9Py3hSFl0YtCG6iyYewC2ASD4fZ5IpNUQmIiKOOICSvYPww6qBG/b2JR2W/a6zs6Z61CEDkCJS0IYGCGxBnvLDe9AGWDWVo92m+jBU5F21BgAAofy5g+Wn2ZgTS7lcAENMcO1MBIyPT3BOAGcuQbefhGgCLdlxKBDmJL4IybgDYx+2l6M3vulASb+LEFAP/H5xqWHsjvgKpO8KJdcYifDRHshPdQgL9TEvsA7SSpPunu+UaGQKN152KUOnKZuAwp2ZWb2KNIiQaCod4/iex0Zwf1XzlQGtt76ksdPZTgzz0+SesZl4YVyjYtgtAN/C2m9Z3JrlWao3o+w4Pbog0b1mM/QkAQcb4e2BtiAVyVcaHhMgGU45AqfHZP0KXi4F/psw==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 792
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:29:05+01:00
+    [id] => CS8F53D0D86FC8F1E7
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBaQg06f+fwG0ERgjpbytfJjEH+cJBMju0DqlJa3e8NTDceByeujqG+ShCFxRY4aTjlXLinBD1UhGPZIluW2hqlp+LfUK1bV2aYRQKHfcuOb0PTAJjD/QKDutO04SwV4OX8I/perbhJYrMviz6AIhQOLNk1zXOIdECZjni7NgZmxCTw7GIHCUlGbJFxkBNUZZ38qB7TrjFinZPo8jwVkBElMCZljhq34w1kLyEwcHw6EBNLzKmWhDork8yK1PAmJImQcDVMqh0HnzejXBTjrf/JaH46YS661NTl2XIh7NdbSLnLuRG+jExDnoSFZ2l6/WM5h6obmSBmMie1y4Dty5CFQeqfakOqr2m64tKE5vfd5olJtFnn4dZxoAE2qy9swx9Eu0bDIYjXUaGm0dDcbuWSefjrny6ZHZnKa6flKkXvuv/2oeu1mHnaX6UFNosBeaFkzALxhdmeyyGotFUwk2yzTE+t9ftX/LpDEiknzc8/haf/dy6os39RJYOzk5suYiMyT9xO318a5nwpseA/4+ZU3GGyipwJIToDILl6KPHaWzuYP5U9pkWASRpHzd9IUF9rXADXrsLJ109nmpaKJy4T7vAbqAm8JoYvbXpNHLRcWOXAbrjFKyuOCmZJMAHeSCan9Mu9/5r+lp52tJhNwL3tGKHIJ3LNG0hodHTuLFK0fRCFk7X7rlJrVf26DG60J4nhAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifUmifzT22Ap8h2sQuyO5dMo9oKcvg4/uod2xMbWAuz2XIgnunxHeIA2wk3U99PVdlqYQzw7Qtb7N7G9n3CIYgUQDhQn65HMVI1xY9LbD79vmd0J0Pc/Ft441sfsXLtOkqWh+H8bYRIKxSa49k13uwnOJ/NTet09dFayM2uaHnMREHS+7dAih4jZC8zn9CYsF/UEs+C2T+XSNXbPRg+R2vlyUempzk6nUogdroqfrMDcvSN5zHgi78ASzKNlK4V7d/hZESQ0EGBYT2jDXCIYegFHZgPbo7hz1Yq8n3vAs3lexMapPlGc+ItbDo5odOp1p82om44sF6lbBUBhtpZAreL7tDrRcxIKyutUAriMaYlPnRV2XPAJOtsV7Ua0LPxYa2qnqFurbouuN6wnVBodQfNmJp3o2ZpUNUy8YwKWQh3EO2VSOAwy0L5rd+Xzr6mhediNe8vQ85Tgr+T6SlSjrMNMSqK4mnB8o54P7XQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 4752
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 4752
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:32:37+01:00
+    [id] => CSA939B02F12C8424C
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCsqBt0eI2oCG3Jwl9qQYLWqjHDPI26bIILWU9tlPx4xBlr2RmQou5EX+A74w9Rd2ELDJ0phjehEUsUvMfBBRPbv/oMbjzlIiFGvnymghgesKWD9HhWekHTsH9y+pE+Oi+ygZ+5N5fk7pcN3M7/Tk61KUmWZ1jBES9y1/1Ylu26n4l4h7MlAfto+ohpkzkTFVPaEuSmKGcuYGsXu6aWevUehaiwcNlogBEsYUWWY3J5RQDq4llaRifGVTqrdUXdNrn2Fx0LSVlYjN4e70UvvJ7cwAqObeZhNw8lFf3i6I5MKzt1NTtHGzSAklgr+8QNn4SDn/kiriKIZuPiNRGJRgzG/Hyhqac3ATZYPtgwjvbWMesIdZORanyLbRpc5BD4Al94xIXnsPje1qhklbpX/xs+a+am60nPPO9SCmvQb794rvzjkgndXSZ0lUkR/NUxTeFu9ITbsiOLMrtRT0I5vd/hPg4XZ427blc9DErOHuR7d7TZWmCC24ytxZOS60r1eeTXEyY60iaCKEflD1GDl9uEks9JvDfQDOcpxo4gn7Ggn37a7IBXfr2KzHOF1S4NYftbnwtQRk7Ng+nkaq4SXkEDke/L82MPqjDDuZkswyzdbT0HV2WJWcVwz3JmKh0pfxfUfJIX+417L2vhuVDs9/BBPPEFZPjo6S2Ag5f8SJue7hBRWZU7MFL/TuiQRhBfegNeAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifXuCRB1qBupC1maw1v0fAs80MJQhXixPTJfrAYZosQnqBH8+o19zhLYcH6/jbEncIz0X/IoQmJrNJsY0H2Z9sAGlWVKSUjN8FCgWxwyDspL4KfsLRmUr8hJ+JWqFbOhri0dF4yBLEXMQ+t1pRhqkBfGLwElPUCWiN4PdkVpm2UWdqpwTVQuKz99jnqrd1KYEJ4PTdtA5xC8vwZ4Xo3AtbafDv8QkkAKPpyD818J5dzjf9DgHy/2MqVJYkU8rjrHPjmVBctnXlczqgtof0ex81Q6haO14jhFZybd+gZywVta1XIAZr+CRidk5hXCpPtLqQtzHOKkwBKVpNuWJ/Z41U2ry7PUhTNWNmDJIs64/LjyIPOrjfXb2C8+nE5dfwbPuAg5PwjPCna3U/EmLddhEAJwWppeTcUxuCaOB7Id+ob0KAxAOsSedsRvo0X1cexFRWlVPBp6ETK/gDjts9jWRiRYWdCkuWRYRxg==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 4752
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 4752
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:32:41+01:00
+    [id] => CSA25ED47AF544F9BC
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgBwYUHI1qYCSsvbQGW+nWjvCXvp4k05/TexOfpIWJ+y0Lm+YaUxDo6wphW3E9C7YQWZQG2yEm1xmUNJKCC52WbfaVP4toLJNt8Vkdw+t7qw2/RrpHj+dqJFS/MtM+33QkjxVi50hVbQLFGXEFP9KHzoMVMnCQ1PQ0j+PlWZhqHwBSYwvzbpjY0sxNuHBEqXi9b1kgp6WfZMIpMzxyYIa3xV7d7/KXocoX/ayNnAoaTexWI/IAveZIAfuTnHFt9//LoCNP4n+TSNMKhIzkpfw0IGKh1SnSsnzkDBLQV6N/2iNEVrPrIWdeETx2I/Tx6/sSi61s9DQa72U7SdCabxLVIgPZ5k2UiszBNDSVMs+BX0e6RwEj+KzD20NApnskwHRw53gs2LwxmWD0cyDNe4ezWa7QW2AeeIb1YQAEwAjmXqbhHHTiaJYX65bS4ArtRIyUc59vqyWONod8hp2dTUnNGxqoXYuwE1Dzs8aGDjf/KoohBTjzUaTo+fukcEcGabdgKV3L0XaucDIOzOQCyJ1S4f+tjHzhaywk+wThPzIDGfsiyfGWt5G5Ax3/cCVHOq3iWj9aCnUKNY86ups9mqQGmvs3vo9bJpuzGm5Tv3sU7fuXy+4oF460yubYEW+U5xc6MtSTuWDgzpZJ46HBACRBZBy7V7P4CyJOv24mYpLw+7FhATuC6JTcFhToNPXIP91L5AAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifV5Hy40kwfvrBUivZXmZ0yUJFD7mttpuiJuoLOMNWpD5pR9PdaVa7mRnwBVu6sgmHnNRHbaWPN2J5faY3ha57Y8zEAN6SHmwaxg4ldMXK3I4+IZ1PeQK0m3lf1OKhbEqsMXk7CErkES3VYdxTfQlssnIvNPCq7afSsPkOjGfnBuKmuE5TMuhAFBF4/7QoYQZeFAEsnO70z9ohRZeyJzChqzgFdEwqHagj3mstUxUAB7dx9Yi5YU1piHVm8UM4LFCy+4PpxpnVb9GWrzEh6SqTUVPS0oY/V5jG3ta867tGaQjmMOsxvo/B9BYKKwAb0T3kCQXuVw0JnuTgDmgE0NdeM/f3XDODzB30Z9GkUM5lapuqNDQKwTAoJ6g4r3/Wus6Rmwdl+lvBAp3nfgY8K7DkbaQC4OtnlU9ERYhHae5W/dIC75iG4mC+3asrdSsCzattR11O/8X477mG2twH9QN6F0NbOkq2pwODxE=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:34:10+01:00
+    [id] => CSC1BAE5E589DCA84F
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCZAes6ChkNSsHAwXFeZFcjL3rZB9f6OJaJKw8Yw16NbNt8spahcnQmiwEspBId/UcubckRs/kgUbLFHPpuJ/vYkvovIwWHXSmehqffq1SM3/mFt6GlLjmnmXHmHWJyVl1IRrsZTe1seDCXxF2XO1dFZZJ+fY2uLG4egn4eg/yEKy5MqwDJCME1vK8lwI8uqatGJpNlI41OIcpg/49Ol8ovxVw+fKyttdGS9flxzXiGKxcFb8sZKywpNdkvi/B/uFq0Fy+iL0uERBRdk/Q6qTI8Mb7KUyN+e+wTGm2b1+Y+SDnNYEbp96e5fLWIf10lkhZLAzxiZTpWMTBfaoyrAIVrzDiW70ZEvWTkmh8dzTgU9H0EdzauqVxQ57YKsnC0ZSDXdiwryG/GlyetKk6+du+jziba5rqr8PdbfXzrsgDAnfQAL8hECQvAhF7ABlsGUaHwDTYiTuHPlk3C4nYGmDm1enG3d9LaP4W45ZrY3N2Fk53sylphealLcxVK0Rih3QwwtRJqflJVyxALlfexFICSZrKE4AWbFeg0ID9QKg6Qw4MBdkMDuuCRX5998p/zpYWDWoAMzkZ1WmvNpbigtmUEcWq2uCkMEnGBWgrx+6lkFDur8VsyI21pzsgxc/hbJlQGIb8k97QC308auW0IncMPLRsW242I+l/HwZVPjkPl2RAtt/jM1chiq8tjrshIu1plAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifQ+exlyS0DJp0nDU7+P7vuE6RN454X+f3ZnpEmJ/qsnehZI3/M+DSJ/Ub0R6ew+xPNsNKK5Yw1SDJVZCqwN6/8q4V9FjGQSO4m7OxX/Rc1Tc89KNK1zcm4V8clGS3B2oWlIvDsUMvVqhA8m6qwMQnGc+PzQmhh4OD1HvdFIUlBXx6dm5Bo/d4xSBWE8Pp2YLJG/AA+DVJTr37F1Ni7u7XTNrNvOqBpdCh29jAPRCQElIZ7fC4bV5BT/uBSSsP/hRcwsrCdrtxoUSGN/rGCwB89clusDHfAPQHlb/N4BEEMYO94zBhIOKe61hoeQk1rxMIH6xi/lBN2hEZgLPSN7oLFdnCtRLTJ2YKF4y8wfnG8TjXIIYDuhnKCSOXliFtCJjz0CC3eoV7DVqvecCFW51v1MAbvWxyRlYZdeXqh0wJvns3G1N61Ltfykhg4vJ2NU8E8wpApsWAjl3zgXGgwVxAU+BI1M+msO/3M49
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:34:12+01:00
+    [id] => CS91AAC44CADEDEB27
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCtzxI4qT5WpAx1e0XN6ZeXcE+aQBvxrtam+lXYjlBCnv1ROzPaJ7stO/N9qUFEjv8BhaHPLvaRsmrrCKetlv8ToVNHEIzIRDFJW1SJ3QdNdQLeUqzdAzbARj4K1r4CByGANt11IgeAibE0f8XbSxVHqOElnkamEbU9uuUxm6y4vtNgkUO1ukPllQo+rckPt/ic+5/7ZSLSilNoh7sKr6Rvm3AgXveTLA8XcVdwNT30YLicP/rrwHOgeBF14p8+SB1xFiotmw3VPbZv22h14R5/GqzzYA41uMxozCDmIfXkDwJv0hQjT8nnh31yFuKqmz7sdruualyMGkFNdnG2APRMgVDDKFTNbEhk4N+EzqzSVdIsPdkH9FPh2GC87Orf4ZlZZy9dbBsCukc+u3wb3uo84Sbs5cUd21Afko4fLe6dbp9QHZOd46IjRDHpH8Q++dT6t85K5BdhZ3mF7D5EMI0iKX1XC8CMU43xRthdMECxboCCjKf8n2ty9HonhG/kr3V7mPo7ESRBZVv/uNz/nK9k22on7iHlJ1EN7HSK6+boqOzqgFk2TkYMfAUqLULMwfRMVOryumCiBj8wxNw0IIx6/we6Iuq9UMxlA0bspCXQdY+Gpse69+GAGbAjFbaTKurmWjBP+yKFbIWYVecGjxJBqoYF/WXrm9zkV05HCxyW0BD5DUTnS3nSvHVTlzlGerhhAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifUVVNL6j/5qfMO1bd5Xdny+5rO5RsM3VTkLOawSxqh6imwuEKx4cxeFy09h8NED5yAAZHv8p+ibisNBVBzED97pLlPGCotK0Qau30PLVk52OD3sqTdarxfCXVZ3WKTnWcEio6aCyMQHSoyAM3naF6wc5b0RcIhHsyWioq2TC3RVAxIk8s0QnxDEVbYFJVLnANlZqRyGAbq8pZMHiOh3tZjIFpAH+V2deGx8lCiThGrwiR+jsuBcOk4u4vzGsRK4mX+/MwOmhy2pce0oBNPwe6I9ejGIDcDcpii8VwKTt0WMHD9tuD38Twjlc2d2GMBQrdi6ndFY7IyDj30lgzZgh0cWnwTIeEJ2XP8UvWZ4mjK2VmLxXZdFdkvvxDt7sYib8U30bi/ryRfGSc4XXChuUpWxfC1OjgaVu3SWKRm3faaR531lDL7T9iyZIk2jpP5PgO0lp191Sm2AVrGT9e6qKMW1GbCmFwN/B6hE=
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:34:14+01:00
+    [id] => CSF10C8D9E29516741
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAis+nX3kI1liP3SE3hMF+ZTWu2lkHrZ+cX/PEH+hSaV9KvNPHamqnQuVlAjfJ+I893U1/1B9Ypmrf3pAvMaBQNidtDP0Oy9I+ejrTe1jzvaPovKWj/x2HDZgQ9FqiIGXQ3Iw71597FJPxBka1eXmGcpU9XuJsTbu37NpH1XFHu4A5f61c8h1T+0qkffxlOreC9swH5ovGP6BfKhASoqy1hdGEK90CP3E0B6BpLGO9lfxOfVvQm4iOIIO/oO0xOndqZ/UJoH6qqt5qEuXALEiEQmB6JkuOhbv8D5N1bQGhUhVbgXxIpMyK65Z5xXY3KowRIh6PKGwDuwbQf4EV+7qpQmu997Vhbg9XaDzu5xsKssohufZZNcqjX6q4y0fFZ+mYzxNWZkHXamtzI2/ZRIhFvxkkREzmQoiJ1PtBk3zr07kP3S5QksS2vHNF1XVEiXpsBt3xHwRCmaoUGWTK3kBx7274UYYwLL+gaSTzG/9qwLaI52qNHYOr0Kgnr30PSt9ihFcvEZs5wP8jW+4sWvcg+xfs9s9T7W3q+6ExVaGrqqSGdVc6K4OyUro8meBZQug+/ZkhvkjGHYXbCKZCXGjym7Ao2py42tILDAeXi2CN/vAD0qlu5iZ4lO2uiRrs+omRy3/0fq6MQEy88GPwOqR2rfsIeKfJoNekHzTRMe9Ex/BDe77djwhSYMiKrViX1zlFeAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifTfxgu5L1cXwzDCiwTFVpem7jkTRE8da5mMAZFUrJ5USgG3KQD/Mqm/V1HdMPhdB8lkDs+FByLHECEynZkttPbqanJguIvx3kVE+5Pr4tnx/TfFdWmgsbYFny+2GvZsOoqculZHxLwFxAKW4lzXxg6hWJTfth5xdK8AGDBL5vRpmQtWJvmkCHHTG4uav09dTdK8Rrx9ygfnUZjWXC0rkhWUVFM6qa7O3+DYAy6yQ3xy5B/dG7kSbb2DeYhJRiUydTyLtcKw6SKeImXlSDT684u2R6HqoQYynk2UQTqg2JCsliXplmyF9pbUGFKb4i48Xm0P4rxl8/OIqwTbNeQcJg3OK9OnbUPklDjk5dXhhw9MqUDZyEXNZBTO8uLU698tfCy/22MjQxgk3vcr9PGn6XPod7xWvUSqiu8gAV/UuMdhWDVOPlKtwByulQn8twzX0t8rowGI3boEjC1gO22/b5I7R2b2/R0VjTQ==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-01-31T18:35:06+01:00
+    [id] => CS9AF3308DE36BD431
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgCDDKD9i2b2ohpY4gHwurFI/ZchYWDadclCwlTKUk2c6pb8XZQtueOrG3uEcYMA8u/9Oi0ZRZVNs35NM/TmyUgdm95vo2g+8X3qEtvrozHajl6zk3sihnDRrjgc14ajZQRCX3Px1p2aOL4czyiU8Ot8DMzZN6gAZMBrVlteUJ2rGP5lRH3DSYcdxj+mTmF9FkiVPOTX3xy7T6J35mYTT0mjVp4BuYi98grkZ2zJxk349/mh9lHdXCWI/MCPfzjbbm91lnKDItvxpSHD5JbXqYUILOsoXRqM1ctsoTFp1CGT97UR7QHUfks4md5HJ+eS4IXSvVVoG2FO9qNWLqkJlv6SWHQ2D2p2y6PEJ1pGXwWp+trRPhTVPwIBQDuT7IYWPFWyBWMgTnilc41N6e9OCeCsL75rBZeoE6EvahPDS69R9qLXzHHLQWsAvuFclj3sOKU1rY2wPs/RF98n4DzMNcMnm/Ervpe0hpST5Te1WGnvXr5HmbgvQzhqmW0Ro3w9rMWWg6M8K8cHRJ+CRadXVdRQwYmzIqPmkOMg8RghTwSjyufuxcD1iYtAmODXlEzRJFWyawgvOyin+ZMwiPK1YYTmrZM2wTbkr2ikRMD9yvZhN5M3Mjjs26HFdlcBQIlWf3YCYgaITJrCaL8TJSBs1VWA7PDUKGDrroDoZU47wYUAHxCNYaRLDi2pGcwhn2cHTqr2AEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifRyi0nKn50VsflgOjTHENupVfAONw1pTIp7tKvB0nQBd1xWTddEu1rjheZPv2jFKJfE4mekuHpKu3zzUVb2UMIV7w9+BS/3224os8AHwFn7vkqLCkSToP6/6GWuxWIST6lAk8ZM9QY/Hn1tRAKcI7hvJyHi9X5wLhRO00nmwBiQoKlkwJXA003V3cJODx1/T5RcbCGwqtnKx8cI7KMqtuuNu496mFiUoLHF5XMtkcxS9sP2D0F74VinobAH1qZsSYaXnjkGyPqG/Z2mXxVU5uFwadrogneoXhWd94zFnBmN7KtvIe68c6grk2hzlJfrxGMcApM33Qv8Hkxn1kFvNLxn/x4OgNdlJdXd9SZPamsWN2YxN2DrOM6I5SJObWfNWjnMT55hAYLbhuAS1wNoc0ic2/s3hbfTGzpMuEoXn4f7CLVnxngKuMxeBBWHMgl4LYEGOswf/cFDk45WfDIWqszcsvPFSLrJdZA==
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-02-01T04:47:11+01:00
+    [id] => CS1666E69874D5FB1E
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAbIQxhEtuRp5rmAd+3xt2M6xdJ4l8ZaYk5L/fUh8Ey0R+6EI8FwcTTQt6p8bH3CpZjw/BWFKrcGx2yZlkI2ZYDOFB+f1RkfWG4UtiVOXRkUDlscer3XPGvKpDwN+KIJvLcMeYWaINo9IZV/LvR3c+9LeO2psNAt5myEDVupf684377WlThCW9AzBccuDy43nEbdUWho4RX8e2OwYNO0Mr18gVKJC31Twsp0j+DG0AEUp7O5r4ZG6b0LPG1kGTStvag0VwoxCu5Bw5yZGHcRnb1sRqYRPt5ZL6W7Mjj9RL9yhqxDJb6ufaNHFn8G7xovRAFa1k28gXo7VEd/6V8QKF2mUDvtQynabkTCetgDQv5wjrL/6eCfAMO3iEMBB3CzwkaLAL8uQSXEnQWmcXPOEiTXnqzIvY+5h+SaeCeBw/T2Au27vUZAdgeiLt/KsCklOL5L2ro3Nxtl4SkS0YK3L1drRay+J0Eq/dxlRTZR6k52LD1zvk/qPLWb8NuWGwe22wl2YlzXxLv9XTSxWJiRRr+Uy7tKUKCQrGKXgTvjYeUXXisUplhno4ql78mOeY2OTcMuGNG+SV3NPNGVqOpNVEAFSNzV4YZDT2Zl3IbwQan5gZCifldyBmV4tb7UaetnGfbQ/aIjpKI5ELlpXEJQrsB1vJc/kzQe3gNgpGuIxqY2BC40vZh7yrsVQTYGwOxA5ToAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifZzNvok6crE74Bgg76mclMym8aK4PvSPr7sc1d5fSTY+QCaCgQTCbUYM784gLLNVSYxqWs5OIf0qVJ+lrzWFoGPMz9yQgIDh7OzpGVHMBZqio05aQ1FMsPZjT53zVluZ45915w1/5LYetnbg4Q8ukpaPCN5YzvJlF3Dbug2ZKzEWwY3/f/cdGi0D33x7U2ccH8DghgVXbB+/9UT7GQncXABmARSqDnVc/ekf3JeZd73jviZp0jEBK8gWVvXYLBC/wusedGGsrhqJAQZWsQQwDLV2D5JK3Ub/Nc6Lu+T9LKL3CR6YDSk589Vxyj1cneFUQtxr64ZwInBoLLmj7Qomq4czyRVO04/J79yApgFbBt6zKl+EdKLU2gFMiwqUgshIYAU19E94YWzn3/JeXFfeZR+mo+tQLcaX3mVj58YdHILv4co3XcfTagWWlVBhogkp4/mfAYgiQJiWhDCGgJigJgvWZjYz
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [merchantAccount] => SmartEcomLimitedCOM
+    [countryCode] => HK
+    [channel] => Web
+    [returnUrl] => https://nordace.com/checkout/
+)
+Array
+(
+    [amount] => Array
+        (
+            [currency] => HKD
+            [value] => 6336
+        )
+
+    [applicationInfo] => Array
+        (
+            [adyenLibrary] => Array
+                (
+                    [name] => adyen-php-api-library
+                    [version] => 11.0.0
+                )
+
+        )
+
+    [channel] => Web
+    [countryCode] => HK
+    [expiresAt] => 2022-02-01T04:47:16+01:00
+    [id] => CS91510733119B27BE
+    [merchantAccount] => SmartEcomLimitedCOM
+    [returnUrl] => https://nordace.com/checkout/
+    [sessionData] => Ab02b4c0!BQABAgAs/ZSZ84swB5XWjhSNgTmZh5PL2IdW/g6hHRuabivB0EmH1/usbjDPMMjc5oPg1g7RLHfdDHdCZXHz0Orx/yD2JHBQcT5CUefszjyzPjwPvGHO1SO/zHG/OKXGg1qDOqUn/fvyYnRu5ES3ZH1BSmyr+J0UI3DNaMl9eGbzrKLnOwFaLJVvupbRf5ScjhcOHGCfpEfkUJgilIwyDMyzZSYDA1qQBG9/H8YrDDMvognE440hb2D9+Y2ystjPyuyBDy0jiCMejrmvTebtopgCF8mf2yHN7NhTopZZ12CdB7gnJx4cskmP01xG3Ebp9SI7/aOvwOW/nVefRl5OlZk31ihIyZAGGmkzw/dCdrJEylJcsUzLsULUEb+lhPVkesVqCCtv8kginNr5MQm/QQoBa06FBbIKpuC1E7Vtia7ngKkngv7vjYK/Fi0/FUV4gQsh94n8I0Aa2/ij6VySGRo8h3/1VRwmOgBmKFMFT2rqDMcBbredHMRIqmVUERGBldWan+b7/ZGcdSxeOOFBL8f67SI7w1VjHzwhVwniSu15OeWLQapJ3Wxs2EugCpgWOtcmCbWsfss473yySsA2F+6eAaBhOaLevFMTLmb1YJ3hArHt3Sn93D5BfV/qQT/HWzJFYLtAvbAbdKTwmlnoB96PcO+MLIzIKr9tqUyC7Fi0TzD0NxC4hmIYztCU0/qve2dInGUlAEp7ImtleSI6IkFGMEFBQTEwM0NBNTM3RUFFRDg3QzI0REQ1MzkwOUI4MEE3OEE5MjNFMzgyM0Q2OERBQ0M5NEI5RkY4MzA1REMifbTkw4NPInbnUXOhnjfGrTkkxKMjJGDryZl+8T5DaO+WYgqK0j2UmGFEGuCC7OKqLZuAf1YvgMmXruq6HdIVEHfSuJ/xsAYrgBgw1whTucPYiDnHAVEO7YbOWpQk8iuwLAqwpDgxfLa0Ja4Q5DaihaXqc8kc5KZE/QgCjHIXXm72wZ7hjTgVPeVaIpi5oepVT2+ReOzdRL1Z9lVQSp/TeyCPKjFdlMFj5pCDgCWcTXvMJurKNaOKEWbKt8k3V4zdyeKsRZ31gHZFj+27yxg41egC0jXV0esIZbm+HXW4GkXlY/Udj33yFARn3ar/G6JVxWWzloL+qXv4tv8ObCOknDsvXPdbEDS0YsV1vPY2Bb8kTlrcZ9C43YkJK8KQcPGkcg1QeGf2aVmAOoSi8xERZVm6tEkBNsnWULHmyZ7zVlaQQBuyTC79VDfwFnClLklcdxxcLfDrWacbh5mU2xq5D3bF7ZglhRc=
+)

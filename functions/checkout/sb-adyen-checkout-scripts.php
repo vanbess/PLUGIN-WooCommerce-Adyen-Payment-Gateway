@@ -13,23 +13,23 @@
         wp_register_style('sb_adyen_front_css', SB_ADYEN_URL . "assets/sbadyen.front.css");
 
         if (ADYEN_GATEWAY_MODE == 'test'):
-            wp_register_script('adyen-checkout-js', 'https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/4.2.0/adyen.js', '', '', false);
-            wp_register_style('adyen-checkout-css', 'https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/4.2.0/adyen.css');
+            wp_register_script('adyen-checkout-js', 'https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/5.6.1/adyen.js', '', '', false);
+            wp_register_style('adyen-checkout-css', 'https://checkoutshopper-test.adyen.com/checkoutshopper/sdk/5.6.1/adyen.css');
         else:
             //  wp_register_script('adyen-checkout-js', SB_ADYEN_URL . 'assets/adyen.js', '', '4.2.0', false);
             
-            $adyen_checkout_js_url = "https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/4.2.0/adyen.js";
+            $adyen_checkout_js_url = "https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/5.6.1/adyen.js";
             
             if (isset($_SERVER["HTTP_CF_IPCOUNTRY"])){
                 if (in_array($_SERVER["HTTP_CF_IPCOUNTRY"], SB_AU_COUNTRIES)){
-                    $adyen_checkout_js_url = "https://checkoutshopper-live-au.adyen.com/checkoutshopper/sdk/4.2.0/adyen.js";
+                    $adyen_checkout_js_url = "https://checkoutshopper-live-au.adyen.com/checkoutshopper/sdk/5.6.1/adyen.js";
                 } elseif (in_array($_SERVER["HTTP_CF_IPCOUNTRY"], SB_EU_COUNTRIES)) {
-                    $adyen_checkout_js_url = "https://checkoutshopper-live.adyen.com/checkoutshopper/sdk/4.2.0/adyen.js";
+                    $adyen_checkout_js_url = "https://checkoutshopper-live.adyen.com/checkoutshopper/sdk/5.6.1/adyen.js";
                 }
             }
 
             wp_register_script('adyen-checkout-js', $adyen_checkout_js_url, '', '', false);
-            wp_register_style('adyen-checkout-css', 'https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/4.2.0/adyen.css');
+            wp_register_style('adyen-checkout-css', 'https://checkoutshopper-live-us.adyen.com/checkoutshopper/sdk/5.6.1/adyen.css');
             
         endif;
 

@@ -162,18 +162,32 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
         }
 
         $user_country = WC()->customer->get_billing_country();
-
+		
+		$currency = get_woocommerce_currency();
+		$value = max( 0, apply_filters( 'woocommerce_calculated_total', round( WC()->cart->cart_contents_total + WC()->cart->fee_total + WC()->cart->tax_total, WC()->cart->dp ), WC()->cart ) );
+		
         $payload = [
+			'amount' => array(
+			   'currency' => $currency,
+			   'value' => $value
+		    ),
             "merchantAccount" => ADYEN_MERCHANT,
             "countryCode"     => $user_country,
-            "channel"         => "Web"
+            "channel"         => "Web",
+            "returnUrl"         => "https://nordace.com/checkout/"
         ];
+		
+		
+		file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/before.log', print_r($payload, true), FILE_APPEND);
 
         try {
-            $payment_methods = $checkout->paymentMethods($payload);
+           // $payment_methods = $checkout->paymentMethods($payload);
+			$session = $checkout->sessions($payload);
         } catch (Exception $ex) {
             file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/error.log', $_SERVER['REQUEST_TIME'] . ': ' . $ex->getMessage() . PHP_EOL, FILE_APPEND);
         }
+		
+		file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/before.log', print_r($session, true), FILE_APPEND);
 
         // retrieve gateway mode
         $cc_environment = ADYEN_GATEWAY_MODE;
@@ -200,6 +214,7 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
         }
 ?>
 
+        <div id="3dscheckout"></div>
         <div id="cc-card"></div>
 
         <input id="ccstateIsValid" type="hidden" name="stateIsValid" type="hidden">
@@ -244,16 +259,58 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
                 document.getElementById("ccstateIsValid").value = state.isValid;
             }
 
-            cc_configuration = {
-                locale: "<?php echo pll_current_language('locale'); ?>",
-                environment: "<?php echo $cc_environment; ?>",
-                clientKey: "<?php echo ADYEN_ORIGIN_KEY; ?>",
-                paymentMethodsResponse: <?php echo json_encode($payment_methods); ?>,
-                onChange: handleOnChange
-            };
+            //cc_configuration = {
+            //    locale: "<?php echo pll_current_language('locale'); ?>",
+            //    environment: "<?php echo $cc_environment; ?>",
+            //    clientKey: "<?php echo ADYEN_ORIGIN_KEY; ?>",
+            //    paymentMethodsResponse: <?php echo json_encode($payment_methods); ?>,
+            //    onChange: handleOnChange
+            //};
+			
+			cc_configuration = {
+              locale: "<?php echo pll_current_language('locale'); ?>",
+			  environment: '<?php echo $cc_environment; ?>', // Change to 'live' for the live environment.
+			  clientKey: 'test_3CSNGCFSWZHC3P57BKTZ5HNST4IUICX4', // Public key used for client-side authentication: https://docs.adyen.com/development-resources/client-side-authentication
+			  session: {
+				id: '<?php echo $session["id"] ?>', // Unique identifier for the payment session.
+				sessionData: '<?php echo $session["sessionData"] ?>' // The payment session data.
+			  },
+			  onChange: handleOnChange,
+			  onPaymentCompleted: (result, component) => {
+				  console.info(result, component);
+			  },
+			  onError: (error, component) => {
+				  console.error(error.name, error.message, error.stack, component);
+			  },
+			  // Any payment method specific configuration. Find the configuration specific to each payment method:  https://docs.adyen.com/payment-methods
+			  // For example, this is 3D Secure configuration for cards:
+			};
 
-            cc_checkout = new AdyenCheckout(cc_configuration);
-            card = cc_checkout.create("card").mount("#cc-card");
+            //cc_checkout = new AdyenCheckout(cc_configuration);
+            //card = cc_checkout.create("card").mount("#cc-card");
+			start = async function(a, b) {
+
+				checkout = await AdyenCheckout(cc_configuration);
+			  
+				console.log(checkout.paymentMethodsResponse);
+				//console.log(checkout.paymentMethodsResponse);
+				cardComponent = checkout.create('card').mount('#cc-card');
+				
+				jQuery(document).ready(function($) {
+					$( 'form.woocommerce-checkout' ).on( 'checkout_place_order_success', function( event, result ) {
+						
+						if (typeof result.action != "undefined") {
+							if (result.action.resultCode == "RedirectShopper"){
+								checkout.createFromAction(result.action.action).mount('#cc-card');
+							}
+						}
+
+						return true; // to prevent submitting form.
+					});
+				});
+			}
+			
+			start();
         </script>
 
 <?php
@@ -405,7 +462,8 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
                 "fraudOffset"        => "0",
                 "additionalData"     => [
                     "card.encrypted.json" => $_REQUEST['adyen-encrypted-data'],
-                    "executeThreeD"       => $use_threeD,
+                    //"executeThreeD"       => $use_threeD,
+                    "executeThreeD"       => true,
                 ],
                 "deviceFingerprint"  => $_POST['adfp'],
                 "billingAddress"     => [
@@ -437,7 +495,9 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
             // process payment
             try {
                 $payment_request = $checkout->payments($payload);
-
+				
+				file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/requests.log', print_r($payment_request, true), FILE_APPEND);
+				
                 // check if appropriate response was received
                 if (isset($payment_request['resultCode']) && $payment_request['resultCode'] == 'Authorised') :
 
@@ -485,7 +545,50 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
                         'result'   => 'success',
                         'redirect' => $return_url
                     ];
+					
+                // if resultCode is set and equal to RedirectShopper
+                elseif (isset($payment_request['resultCode']) && $payment_request['resultCode'] === 'RedirectShopper') :
 
+					// grab redirect url
+
+					$redirect_url = $payment_request['action']['url'];
+					$payload = [
+						'PaReq' => $payment_request['action']['data']['PaReq'],
+						'MD' => $payment_request['action']['data']['MD'],
+						'TermUrl'   => $payment_request['action']['data']['TermUrl']
+					];
+					/*
+					$ch = curl_init();
+
+					curl_setopt($ch, CURLOPT_URL, $redirect_url);
+					curl_setopt($ch, CURLOPT_POST, 1);
+					curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($payload));
+
+					// In real life you should use something like:
+					// curl_setopt($ch, CURLOPT_POSTFIELDS, 
+					//          http_build_query(array('postvar1' => 'value1')));
+
+					// Receive server response ...
+					curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+					curl_setopt($ch, CURLOPT_BINARYTRANSFER, true);
+					curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+					curl_setopt($ch, CURLOPT_CONNECTTIMEOUT ,0); 
+
+					//$server_output = curl_exec($ch);
+					$redirectURL = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL );
+
+					curl_close ($ch);
+					*/
+					//file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/requests.log', "\nRedirect Reponser: \n" . print_r($redirectURL, true) . "\n\n", FILE_APPEND);
+
+
+                    // redirect to 3D Secure payment completion page
+                    return [
+                        'result'   => 'success',
+                        'action'   => $payment_request,
+                        //'redirect' => $redirect_url . "?" . http_build_query($payload)
+                        'redirect' => $redirect_url
+                    ];
                 else :
 
                     // **********************
@@ -536,10 +639,16 @@ class SBAdyenCC extends WC_Payment_Gateway_CC
 
                 // catch error if our payment request fails for some reason    
             } catch (Exception $ex) {
+				
+				file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/error.log', $_SERVER['REQUEST_TIME'] . ': ' . $ex->getMessage() . " " . ADYEN_MERCHANT . PHP_EOL, FILE_APPEND);
+				
                 wc_add_notice(__("There was an error processing your credit card. Please check your card number, expiration date, and CVC code and try again.", 'woocommerce'), 'error');
                 $order->add_order_note(__('Adyen Credit Card payment error: ' . $ex->getMessage(), 'woocommerce'));
             }
         } else {
+			
+            file_put_contents(SB_ADYEN_PATH . 'error-logs/cc/error.log', $_SERVER['REQUEST_TIME'] . ': ' . $ex->getMessage() . " " . ADYEN_MERCHANT . PHP_EOL, FILE_APPEND);
+			
             wc_add_notice(__("There was an error processing your credit card. Please check your card number, expiration date, and CVC code and try again.", 'woocommerce'), 'error');
             $order->add_order_note(__('Error: no Adyen CC credit card number, expiration date or CVC', 'woocommerce'));
         }
