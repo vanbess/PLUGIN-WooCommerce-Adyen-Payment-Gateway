@@ -185,7 +185,7 @@ class SBAdyenMolpayMY extends WC_Payment_Gateway
 
             $redirect_url = $request['action']['url'];
 
-            /* redirect to chosen iDEAL merchant page to complete payment */
+            /* redirect to chosen Molpay merchant page to complete payment */
             return [
                 'result'   => 'success',
                 'redirect' => $redirect_url

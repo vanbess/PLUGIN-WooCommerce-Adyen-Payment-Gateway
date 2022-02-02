@@ -1,0 +1,5 @@
+Array
+(
+    [pspReference] => KJCKH42Q84BLNK82
+    [response] => [capture-received]
+)

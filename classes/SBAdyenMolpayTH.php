@@ -174,6 +174,8 @@ class SBAdyenMolpayTH extends WC_Payment_Gateway
 
         if (!empty($request)) :
 
+            file_put_contents(SB_ADYEN_PATH.'molpay-th-pmt-request.txt', print_r($request, true), FILE_APPEND);
+
             $redirect_url = $request['action']['url'];
 
             /* redirect to chosen Molpay merchant page to complete payment */
