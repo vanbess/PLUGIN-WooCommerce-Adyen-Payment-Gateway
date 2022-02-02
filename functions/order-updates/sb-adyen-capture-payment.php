@@ -76,8 +76,10 @@ function sb_adyen_capture_payment($order_data, $psp_ref)
         // retrieve and parse response to array
         $response_arr = json_decode($response, true);
 
+        file_put_contents(SB_ADYEN_PATH . 'logs/adyen-capture-data.txt', print_r($response_arr, true), FILE_APPEND);
+
         // retrieve reference data
-        $merchantRef     = $response_arr['additionalData']['merchantReference'];
+        $merchantRef     = $response_arr['additionalData']['merchantReference'] ? $response_arr['additionalData']['merchantReference'] : __('Merchant ref not returned', 'woocommerce');
         $capturePSPref   = $response_arr['pspReference'];
         $captureResponse = $response_arr['response'];
 

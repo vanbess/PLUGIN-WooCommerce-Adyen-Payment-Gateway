@@ -79,9 +79,14 @@
           unset($available_gateways['sb-adyen-gpay']);
       endif;
       
-      /* Molpay ePay conditional display */
-      if (isset($available_gateways['sb-adyen-mepay']) && $billing_country != 'MY') :
-          unset($available_gateways['sb-adyen-mepay']);
+      /* Molpay ebanking conditional display for Thailand */
+      if (isset($available_gateways['sb-adyen-molpay-th']) && $billing_country != 'TH') :
+          unset($available_gateways['sb-adyen-molpay-th']);
+      endif;
+      
+      /* Molpay ebanking conditional display for Malaysia */
+      if (isset($available_gateways['sb-adyen-molpay-my']) && $billing_country != 'MY') :
+          unset($available_gateways['sb-adyen-molpay-my']);
       endif;
       
       /* Molpay 7-Eleven conditional display */

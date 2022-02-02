@@ -66,13 +66,14 @@ function sb_adyen_init()
     require SB_ADYEN_PATH . 'classes/SBAdyenKCP.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenBoleto.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenGrabPay.php';
-    require SB_ADYEN_PATH . 'classes/SBAdyenMolpayEpay.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenMolpayCash.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenAfterpayTouch.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenYandexMoney.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenSwish.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenQiwi.php';
     require SB_ADYEN_PATH . 'classes/SBAdyenWCSettings.php';
+    require SB_ADYEN_PATH . 'classes/SBAdyenMolpayTH.php';
+    require SB_ADYEN_PATH . 'classes/SBAdyenMolpayMY.php';
 
     /* add each core SB Adyen class to WooCommerce */
     function register_sb_adyen_gateway($methods)
@@ -92,12 +93,13 @@ function sb_adyen_init()
         $methods[] = 'SBAdyenKCP';
         $methods[] = 'SBAdyenBoleto';
         $methods[] = 'SBAdyenGrabPay';
-        $methods[] = 'SBAdyenMolpayEpay';
         $methods[] = 'SBAdyenMolpayCash';
         $methods[] = 'SBAdyenAfterpayTouch';
         $methods[] = 'SBAdyenYandexMoney';
         $methods[] = 'SBAdyenSwish';
         $methods[] = 'SBAdyenQiwi';
+        $methods[] = 'SBAdyenMolpayTH';
+        $methods[] = 'SBAdyenMolpayMY';
         return $methods;
     }
 
@@ -122,12 +124,13 @@ function sb_adyen_init()
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-kcp') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-boleto') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-gpay') . '</a>',
-            '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-mepay') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-mcash') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-apt') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-yamon') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-swish') . '</a>',
             '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-qiwi') . '</a>',
+            '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-molpay-th') . '</a>',
+            '<a href="' . admin_url('admin.php?page=wc-settings&tab=checkout') . '">' . esc_attr__('Settings', 'sb-adyen-molpay-my') . '</a>',
         ];
 
         return array_merge($plugin_links, $links);
