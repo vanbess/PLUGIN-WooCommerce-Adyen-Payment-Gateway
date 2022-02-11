@@ -1,5 +1,5 @@
 Array
 (
-    [pspReference] => BVDT9J6PJGXXGN82
+    [pspReference] => LZPV5X9Q6QRXGN82
     [response] => [capture-received]
 )

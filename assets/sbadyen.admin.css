@@ -16,6 +16,11 @@ input#sb_adyen_merchant_account {
     margin-bottom: 5px;
 }
 
+#sb_adyen_client_key{
+    min-width: 40%;
+    margin-bottom: 5px;
+}
+
 input#sb_adyen_origin_key {
     width: 46%;
     margin-bottom: 5px;

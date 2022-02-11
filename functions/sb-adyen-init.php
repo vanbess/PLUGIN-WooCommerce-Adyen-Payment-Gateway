@@ -14,7 +14,8 @@ function sb_adyen_init()
 {
 
     // globals
-    define('ADYEN_API_KEY', get_option('sb_adyen_api_key', true));
+    define('ADYEN_API_KEY', get_option('sb_adyen_api_key'));
+    define('ADYEN_CLIENT_KEY', get_option('sb_adyen_client_key'));
     define('ADYEN_MERCHANT', get_option('sb_adyen_merchant_account'));
     define('ADYEN_GATEWAY_MODE', get_option('sb_adyen_gateway_mode'));
     define('ADYEN_ORIGIN_KEY', get_option('sb_adyen_origin_key'));
@@ -137,6 +138,7 @@ function sb_adyen_init()
     }
 
     add_filter('plugin_action_links_' . plugin_basename(__FILE__), 'sb_adyen_settings_link');
+
 }
 
 add_action('plugins_loaded', 'sb_adyen_init', 0);

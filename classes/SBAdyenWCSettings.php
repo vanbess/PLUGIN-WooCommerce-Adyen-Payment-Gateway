@@ -83,9 +83,18 @@ class SBAdyenWCSettings
             [
                 'title' => esc_attr__('Your Adyen Origin Key', 'sb-adyen'),
                 'type'  => 'text',
-                'desc'  => 'Your Adyen Origin Key - required for processing card transactions', 'sb-adyen',
+                'desc'  => 'Your Adyen Origin Key - required for processing some card transactions', 'sb-adyen',
                 'id'    => 'sb_adyen_origin_key'
             ],
+
+            /* adyen client key */
+            [
+                'title' => esc_attr__('Adyen Credit Card Client Key', 'sb-adyen'),
+                'type'  => 'text',
+                'desc'  => 'Your Adyen Client Key for Adyen Credit Card transactions.<br> If using TEST/SANDBOX mode, enter test client key here, else enter live key.<br> <b>See <a href="https://docs.adyen.com/development-resources/client-side-authentication">https://docs.adyen.com/development-resources/client-side-authentication</a> for more info.</b>', 'sb-adyen',
+                'id'    => 'sb_adyen_client_key'
+            ],
+
             /* adyen gateway mode */
             [
                 'title'   => esc_attr__('Select whether you want to run Adyen in TEST/SANDBOX or LIVE mode', 'sb-adyen'),

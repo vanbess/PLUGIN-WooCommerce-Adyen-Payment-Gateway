@@ -1,0 +1,65 @@
+11 February 0909 04:44:57: Array
+(
+    [additionalData] => Array
+        (
+            [recurringProcessingModel] => CardOnFile
+        )
+
+    [pspReference] => B3KGW3F8GMK2WN82
+    [resultCode] => Authorised
+    [amount] => Array
+        (
+            [currency] => USD
+            [value] => 59499
+        )
+
+    [merchantReference] => ND1317
+)
+11 February 1347 04:44:57: Array
+(
+    [pspReference] => J8CDS5537QRXGN82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)
+11 February 1368 04:44:57: Array
+(
+    [pspReference] => RDC9CJ4294BLNK82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)
+11 February 1392 04:44:57: Array
+(
+    [pspReference] => JPHQJJ4294BLNK82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)
+11 February 7137 04:44:57: Array
+(
+    [pspReference] => LKH9976294BLNK82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)
+11 February 7165 04:44:57: Array
+(
+    [pspReference] => PLJDRDFL4WD2WN82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)
+11 February 7185 04:44:57: Array
+(
+    [pspReference] => XVB255SSMBLZNN82
+    [refusalReason] => FRAUD
+    [resultCode] => Refused
+    [refusalReasonCode] => 20
+    [merchantReference] => ND1318
+)

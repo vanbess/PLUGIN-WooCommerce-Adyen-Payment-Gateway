@@ -1,8 +1,0 @@
-Array
-(
-    [encryptedCardNumber] => 
-    [encryptedExpiryMonth] => 
-    [encryptedExpiryYear] => 
-    [encryptedSecurityCode] => 
-    [type] => 
-)

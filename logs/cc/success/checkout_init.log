@@ -1,0 +1,1430 @@
+11 February 2022 09:14:26: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:14:32: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:21:57: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:22:02: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:35:22: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:35:32: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:50:09: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 09:50:15: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 10:57:18: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
+11 February 2022 10:57:21: Adyen\Service\Checkout Object
+(
+    [paymentSession:protected] => Adyen\Service\ResourceModel\Checkout\PaymentSession Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentSession
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsResult:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsResult Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/result
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethods:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethods Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [payments:protected] => Adyen\Service\ResourceModel\Checkout\Payments Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentsDetails:protected] => Adyen\Service\ResourceModel\Checkout\PaymentsDetails Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/payments/details
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentLinks:protected] => Adyen\Service\ResourceModel\Checkout\PaymentLinks Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentLinks
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [orders:protected] => Adyen\Service\ResourceModel\Checkout\Orders Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [ordersCancel:protected] => Adyen\Service\ResourceModel\Checkout\OrdersCancel Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/orders/cancel
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [paymentMethodsBalance:protected] => Adyen\Service\ResourceModel\Checkout\PaymentMethodsBalance Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/paymentMethods/balance
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfo:protected] => 
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [donations:protected] => Adyen\Service\ResourceModel\Checkout\Donations Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/donations
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [sessions:protected] => Adyen\Service\ResourceModel\Checkout\Sessions Object
+        (
+            [endpoint:protected] => https://checkout-test.adyen.com/checkout/v68/sessions
+            [allowApplicationInfo:protected] => 1
+            [service:protected] => Adyen\Service\Checkout Object
+ *RECURSION*
+            [allowApplicationInfoPOS:protected] => 
+        )
+
+    [requiresApiKey:protected] => 1
+    [client:Adyen\Service:private] => Adyen\Client Object
+        (
+            [config:Adyen\Client:private] => Adyen\Config Object
+                (
+                    [data:protected] => Array
+                        (
+                            [x-api-key] => AQErhmfuXNWTK0Qc+iSDm2guovaZSYhGKZZcDDUFO0nX0cPcHTJwQMbxj8KdAhDBXVsNvuR83LVYjEgiTGAH-ZIE4OejK+/1OwyLQyZzTWt9LmvNtmhJCljhgARs4790=-9h~p25mu^%=dBgC:
+                            [environment] => test
+                            [endpoint] => https://pal-test.adyen.com
+                            [endpointDirectorylookup] => https://test.adyen.com/hpp/directory/v2.shtml
+                            [endpointTerminalCloud] => https://terminal-api-test.adyen.com
+                            [endpointCheckout] => https://checkout-test.adyen.com/checkout
+                            [endpointNotification] => https://cal-test.adyen.com/cal/services/Notification
+                            [endpointAccount] => https://cal-test.adyen.com/cal/services/Account
+                            [endpointFund] => https://cal-test.adyen.com/cal/services/Fund
+                            [endpointDisputeService] => https://ca-test.adyen.com/ca/services/DisputeService
+                            [endpointCustomerArea] => https://ca-test.adyen.com
+                            [endpointHop] => https://cal-test.adyen.com/cal/services/Hop
+                        )
+
+                    [allowedInput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultInput:protected] => array
+                    [allowedOutput:protected] => Array
+                        (
+                            [0] => array
+                            [1] => json
+                        )
+
+                    [defaultOutput:protected] => array
+                )
+
+            [httpClient:Adyen\Client:private] => 
+            [logger:Adyen\Client:private] => 
+        )
+
+)
